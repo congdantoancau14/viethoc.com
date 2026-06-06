@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -97,9 +97,9 @@
 <tr>
 		<td class="type5" background="" valign="top">
 	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
-<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
-<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
-<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="https://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -189,14 +189,14 @@
 <tr>
 	<td class="type5">"" <br />Announcements matching your query are:<br /><hr /></td>
 </tr>
-		<tr><td class="type5"><a href="article.php?sid=44"><b>Thảo án về chữ Nôm</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Thursday 19 September @ 09:36:15 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=21"><b>Chữ Nôm and its past Contributions to Vietnamese literature</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 28 August @ 01:26:05 (<span class="boldtext">1</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=16"><b>Simplifications in Nôm Characters, new revision.</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Thursday 21 June @ 09:25:59 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=13"><b>Introduction To Nôm</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 29 May @ 14:10:40 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=6"><b>Simplifications in Nôm characters</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 15 May @ 14:32:13 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=5"><b>Learning Nôm the new way!</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Thursday 10 May @ 13:12:36 (<span class="boldtext">3</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=4"><b>Notes on 214 Historical Radicals</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 09 May @ 19:19:48 (<span class="boldtext">1</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=2"><b>Prof. Le, Dang published 214 radicals for Nôm</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Thursday 05 April @ 16:19:10 (<span class="boldtext">3</span>)</td></tr>
+		<tr><td class="type5"><a href="article.php?sid=44"><b>Thảo án về chữ Nôm</b></a> by: <a href="https://www.viethoc.org/">plan</a> on: Thursday 19 September @ 09:36:15 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=21"><b>Chữ Nôm and its past Contributions to Vietnamese literature</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Tuesday 28 August @ 01:26:05 (<span class="boldtext">1</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=16"><b>Simplifications in Nôm Characters, new revision.</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Thursday 21 June @ 09:25:59 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=13"><b>Introduction To Nôm</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Tuesday 29 May @ 14:10:40 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=6"><b>Simplifications in Nôm characters</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Tuesday 15 May @ 14:32:13 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=5"><b>Learning Nôm the new way!</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Thursday 10 May @ 13:12:36 (<span class="boldtext">3</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=4"><b>Notes on 214 Historical Radicals</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Wednesday 09 May @ 19:19:48 (<span class="boldtext">1</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=2"><b>Prof. Le, Dang published 214 radicals for Nôm</b></a> by: <a href="https://www.viethoc.org">admin</a> on: Thursday 05 April @ 16:19:10 (<span class="boldtext">3</span>)</td></tr>
 </table>
 </td></tr>
 </table>
@@ -214,7 +214,7 @@
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

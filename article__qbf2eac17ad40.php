@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,11 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
-<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
-<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
-<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
-<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="https://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -163,7 +163,7 @@
 <br /><li>chữ Pháp (Huỳnh Khắc Dụng).  </li>
 <br /></ul>
 <br /></ul> <br />Các bản chữ Nhật và chữ Anh đã được chuyển nhập xong, sau bản chữ Hán và phiên âm chữ Việt.  Riêng bản chữ Pháp, chúng tôi chỉ có một bản do cơ sở Ðông Tiến phát hành vào tháng 7 năm 1988.  Bản này lại có mấy chỗ tồn nghi nên chúng tôi chưa vội phổ biến.  Chúng tôi đã làm thủ tục xin phép dịch giả (bản chữ Anh) hoặc người thừa hưởng tác quyền (bản chữ Nhật) nhưng chưa được hồi đáp.<br>
-<br />Hiện thời, bản chữ Hán đã hoàn tất.  Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc <a href="http://www.viethoc.org/eholdings/CPN-HAN-QN-Ming_D7A.pdf" target="new_window">Chinh Phụ Ngâm Khúc</a> của Ðặng Trần Côn.  Chúng tôi phổ biến <b>Dự án Chinh Phụ Ngâm</b> với sự dè dặt thường lệ, dám mong quý vị chỉ cho chỗ sai sót.  Ða tạ.<br>
+<br />Hiện thời, bản chữ Hán đã hoàn tất.  Kính mời quý vị vào <a href="https://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc <a href="https://www.viethoc.org/eholdings/CPN-HAN-QN-Ming_D7A.pdf" target="new_window">Chinh Phụ Ngâm Khúc</a> của Ðặng Trần Côn.  Chúng tôi phổ biến <b>Dự án Chinh Phụ Ngâm</b> với sự dè dặt thường lệ, dám mong quý vị chỉ cho chỗ sai sót.  Ða tạ.<br>
 <br />Thân kính,<br>
 <br />Viện Việt-Học
 <br />
@@ -272,7 +272,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

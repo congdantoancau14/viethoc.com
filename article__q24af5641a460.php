@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -115,14 +122,16 @@
 	<td class="type0">
 <table width="100%" border="0" cellspacing="1" cellpadding="3" summary="Data for Generic Block">
 <tr>
-	<td class="type4">
+	<td class="type4">https:https:
 	<span class="type4bigger">Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</span><br />
 		Posted on Thursday 13 March @ 16:13:48
 	</td>
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>"Đến những năm cuối thế kỷ XIX, Gia Huấn Ca 家訓歌 đã gắn liền với tên Nguyễn Trãi 阮廌 trong một số thư tịch. Nhưng đến những năm ba mươi của thế kỷ XX lại có dư luận cho Gia Huấn Ca chưa chắc là của Nguyễn Trãi. Từ đó học giới phân vân. Cho đến năm 1956 khi Quốc Âm Thi Tập   國音詩集 được chính thức phát hiện, mới có người tìm cách khẳng định Gia Huấn Ca không phải là của Nguyễn Trãi. Tuy nhiên vấn đề chưa phải đã giải quyết. Hai mươi năm sau đó, khi nói về tác phẩm của Nguyễn Trãi, nhiều người vẫn không quên nhắc đến Gia Huấn Ca và có sách còn ghi Gia Huấn Ca là tác phẩm chính của Nguyễn Trãi nữa." <br />Nhận thấy vấn đề chưa được khảo chứng thật rõ ràng và đầy đủ, nên giáo sư Đoàn Khoách đã vận dụng một số nội chứng và bàng chứng để góp phần khẳng định <i>tác phẩm Gia Huấn Ca không phải là của Nguyễn Trãi.</i><br><br> Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Giahuanca_Rev-1A.pdf" target="new_window">Nguyễn Trãi  và Gia Huấn Ca</a> của giáo sư <b>Đoàn Khoách</b>, khởi thảo từ năm 1980 và được bổ chính mới đây. <br><br><b><br />Lê Văn Ðặng</b><br>Seattle, III-2003<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>"Đến những năm cuối thế kỷ XIX, Gia Huấn Ca 家訓歌 đã gắn liền với tên Nguyễn Trãi 阮廌 trong một số thư tịch. Nhưng đến những năm ba mươi của thế kỷ XX lại có dư luận cho Gia Huấn Ca chưa chắc là của Nguyễn Trãi. Từ đó học giới phân vân. Cho đến năm 1956 khi Quốc Âm Thi Tập   國音詩集 được chính thức phát hiện, mới có người tìm cách khẳng định Gia Huấn Ca không phải là của Nguyễn Trãi. Tuy nhiên vấn đề chưa phải đã giải quyết. Hai mươi năm sau đó, khi nói về tác phẩm của Nguyễn Trãi, nhiều người vẫn không quên nhắc đến Gia Huấn Ca và có sách còn ghi Gia Huấn Ca là tác phẩm chính của Nguyễn Trãi nữa." <br />Nhận thấy vấn đề chưa được khảo chứng thật rõ ràng và đầy đủ, nên giáo sư Đoàn Khoách đã vận dụng một số nội chứng và bàng chứng để góp phần khẳng định <i>tác phẩm Gia Huấn Ca không phải là của Nguyễn Trãi.</i><br><br> Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Giahuanca_Rev-1A.pdf" target="new_window">Nguyễn Trãi  và Gia Huấn Ca</a> của giáo sư <b>Đoàn Khoách</b>, khởi thảo từ năm 1980 và được bổ chính mới đây. <br><br><b>
+<br />Lê Văn Ðặng</b><br>Seattle, III-2003
+<br />
 	</td>
 </tr>
 </table>
@@ -171,12 +180,14 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="64"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 April @ 08:37:50</td></tr><tr><td class="type5">Chữ “thi” trong QATT in sai, xin sửa lại: 國音詩集<br />LVÐ<br /></td></tr></table><br />[ 
+<a name="64"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 April @ 08:37:50</td></tr><tr><td class="type5">Chữ “thi” trong QATT in sai, xin sửa lại: 國音詩集
+<br />LVÐ
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=64&amp;sid=65&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />
 <!-- BEGIN: File: themes/foo/footer.php -->
-</td>
+</td>https:
 </tr>
 </table>
 </td>

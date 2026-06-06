@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -105,7 +105,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font size=2><center><i>Bạn có thể đọc Ðại-Việt Thông-Sử, soạn bởi Lê Quý Ðôn (1759) ngay trên web. Hãy vào trang <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Sách Việt-sử</a></i><br>-- Phuong-Lan<br></center></font>
+	<font size=2><center><i>Bạn có thể đọc Ðại-Việt Thông-Sử, soạn bởi Lê Quý Ðôn (1759) ngay trên web. Hãy vào trang <a href="https://www.viethoc.org/content.php?menu=24&page_id=47">Sách Việt-sử</a></i><br>-- Phuong-Lan<br></center></font>
 	</td>
 </tr>
 </table>
@@ -175,7 +175,7 @@
 </tr>
 </table>
 <br /><br />
-<a name="35"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>;(Score: 1)<br /> by: <a href="mailto:Ly@VietHoc.Org">Ly</a> (Ly@VietHoc.Org) on: Monday 28 January @ 21:47:11<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Dạ thưa ông Việt Chi,
+<a name="35"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>;(Score: 1)<br /> by: <a href="mailto:Ly@VietHoc.Org">Ly</a> (Ly@VietHoc.Org) on: Monday 28 January @ 21:47:11<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="https://www.viethoc.org" target="window">https://www.viethoc.org</a> </td></tr><tr><td class="type5">Dạ thưa ông Việt Chi,
 <br />
 <br />Mãi đến hôm nay đọc lời comments mới rõ sự tình! Xin thành thực xin lồi cùng ông Việt Chi và quý độc giả VVH. Việc chuyển bài của ông Việt Chi qua một trang riêng là để chuẩn bị cho một trang mới, sắp sửa trình làng (Trang Thân Hữu), vô tình không thông báo cho tường tận, để gây sự hiểu lầm.
 <br />
@@ -228,7 +228,7 @@
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -126,9 +126,9 @@
        <tr>
 	  <td class="type5">
           <table width="100%"><tr>  
-               <td class="type5" width="90%" valign="top"><span class="boldtext">Tra ngày âm lịch</span><br />Đọc cách sách cổ sử của Việt Nam, ngày tháng trong đó ghi theo âm lịch, đôi khi người đọc có nhu cầu cần tra cứu, kiểm chứng các hiện tượng như nhật thực, nguyệt thực, tiết khí, v.v... Các hiện tượng trong quá khứ này đều đã được ghi chú và tính toán theo dương lịch và có thể tìm thấy nhiều nơi trên Internet như tại <a href="http://aa.usno.navy.mil/">US Naval Observatory</a>.
+               <td class="type5" width="90%" valign="top"><span class="boldtext">Tra ngày âm lịch</span><br />Đọc cách sách cổ sử của Việt Nam, ngày tháng trong đó ghi theo âm lịch, đôi khi người đọc có nhu cầu cần tra cứu, kiểm chứng các hiện tượng như nhật thực, nguyệt thực, tiết khí, v.v... Các hiện tượng trong quá khứ này đều đã được ghi chú và tính toán theo dương lịch và có thể tìm thấy nhiều nơi trên Internet như tại <a href="https://aa.usno.navy.mil/">US Naval Observatory</a>.
 <br />
-<br />Khi biết rõ ngày âm lịch và ngày dương lịch tương ứng, ta có thể truy tìm được nhiều bí ẩn trong lịch sử, v.v... Như thắc mắc về <a href="http://www.viethoc.com/phorum/read.php?f=10&i=322&t=322">Đồ cổ Hội An</a> là một thí dụ điển hình trong việc dùng biến cố nhật thực để xác định niên đại của đồ cổ.
+<br />Khi biết rõ ngày âm lịch và ngày dương lịch tương ứng, ta có thể truy tìm được nhiều bí ẩn trong lịch sử, v.v... Như thắc mắc về <a href="https://www.viethoc.com/phorum/read.php?f=10&i=322&t=322">Đồ cổ Hội An</a> là một thí dụ điển hình trong việc dùng biến cố nhật thực để xác định niên đại của đồ cổ.
 <br />
 <br />Nhận thức được sự chuyển đổi dương lịch sang âm lịch là một điều cần thiết, chúng tôi xin giới thiệu với quý bạn, nhu liệu "<b>Âm Lịch Việt Nam</b>", được anh Hồ Ngọc Đức thực hiện:
 <br />
@@ -138,7 +138,7 @@
 <br /></APPLET></td></tr></table>
 <br />
 <br /><b>Ghi chú:</b>
-<br />- Xem <a href="http://www.informatik.uni-leipzig.de/~duc/amlich/">Ho Ngoc Duc's Vietnamese lunar calendar</a> để biết rõ thêm chi tiết.
+<br />- Xem <a href="https://www.informatik.uni-leipzig.de/~duc/amlich/">Ho Ngoc Duc's Vietnamese lunar calendar</a> để biết rõ thêm chi tiết.
 <br />- Nếu muốn chạy nhu liệu này offline, xin lấy <a href="lunar30.jar">lunar30.jar</a> về, và double-click trên đó mỗi khi muốn chạy.</td></tr></td></tr></td></tr></td></tr></td></tr>   </table>
             </td>
           </tr>
@@ -158,7 +158,7 @@
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

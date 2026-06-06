@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="http://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=64" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="https://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=64" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -191,7 +191,7 @@
 <tr>
 		<td class="type5" background="" valign="top">
 	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>We are living in an exciting period, the period of information and internet!
-<br />Using the 214 Historical Radicals chart from Prof. Lê Văn Ðặng, <a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> implements a tool, an <a href="content.php?menu=1900&page_id=7">online flash cards</a>, to aid memorizing Nôm radicals a bit easier. Please give it a spin. <br /><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a>
+<br />Using the 214 Historical Radicals chart from Prof. Lê Văn Ðặng, <a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> implements a tool, an <a href="content.php?menu=1900&page_id=7">online flash cards</a>, to aid memorizing Nôm radicals a bit easier. Please give it a spin. <br /><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="https://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a>
 <br />We are honor and welcome Mr. Nguyễn to VVH.
 	</td>
 </tr>
@@ -265,7 +265,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta name="verify-v1" content="7oI68j+LjC0FiU7AkdUK93npzryYwXiHl4xSOTQ3DjQ=" >
 <meta name="generator" content="phpWebSite" />
@@ -174,7 +174,7 @@ td.wiki {
 
 
 
-<a href="http://www.viethoc.org/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=129&amp;MMN_position=70:70">Sách mới</a>
+<a href="https://www.viethoc.org/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=129&amp;MMN_position=70:70">Sách mới</a>
 </td>
 
 
@@ -246,7 +246,7 @@ td.wiki {
 
 
 
-<a href="http://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
+<a href="https://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
 </td>
 
 
@@ -602,7 +602,7 @@ Posted by: avuong on 10/28/2009 06:23 AM
 <br />
 <b>Tất cả các thông cáo mới của Viện sẽ đăng trên website mới.</b><br />
 <br />
-Quý vị có thể ghé thăm <a href="/">website mới tại đây <b>(<a href="http://www.viethoc.com">http://www.viethoc.com</a> )</b></a><br />
+Quý vị có thể ghé thăm <a href="/">website mới tại đây <b>(<a href="https://www.viethoc.com">https://www.viethoc.com</a> )</b></a><br />
 <br />
 </td></tr>
 
@@ -634,7 +634,7 @@ với sự hợp tác cuả:<br />
    <b>Âm nhạc</b>: Nhạc sĩ Nguyễn Hữu Ba<br />
    <b>Ngâm thơ</b>: Nghệ sĩ Bích Thuận<br />
 <br />
-<img src="http://www.viethoc.org/eholdings/images/TranhKieu_TuDuyen.jpg">
+<img src="https://www.viethoc.org/eholdings/images/TranhKieu_TuDuyen.jpg">
 <br />
 <br />
 <b>Chủ Nhật 1 tháng 11 năm 2009<br />
@@ -745,7 +745,7 @@ Posted by: HoaiHuong on 09/03/2009 03:56 AM
 
 <tr><td><div align="center">Kính mời quí vị đến tham dự buổi ra mắt sách<br />
 <br />
-<img src="http://www.viethoc.org/images/pagemaster/Vietnamese_biatruoc.gif">
+<img src="https://www.viethoc.org/images/pagemaster/Vietnamese_biatruoc.gif">
 <br />
 <br />
 <b>Soạn giả: PHẠM KIM-DZUNG</b><font size = +1></font><br />
@@ -782,7 +782,7 @@ Posted by: HoaiHuong on 08/21/2009 05:54 PM
 
 <tr><td><div align="center">Kính mời quí vị đến tham dự buổi ra mắt sách<br />
 <br />
-<img src="http://www.viethoc.org/eholdings/images/IntroToVietNameseCulture_Bia2.jpg">
+<img src="https://www.viethoc.org/eholdings/images/IntroToVietNameseCulture_Bia2.jpg">
 <br />
 <b>Dịch giả:</b><br />
 <font size = +1>Gs VŨ NGỌC MAI và Gs PHẠM VĂN QUẢNG</font><br />
@@ -818,7 +818,7 @@ Posted by: HoaiHuong on 07/28/2009 02:06 AM
 
 
 <tr><td><div align="center"><br />
-<img src="http://www.viethoc.org/eholdings/images/VietSuDaiCuong_front_s.jpg"></div>
+<img src="https://www.viethoc.org/eholdings/images/VietSuDaiCuong_front_s.jpg"></div>
 </td></tr>
 
 
@@ -923,7 +923,7 @@ Posted by: HoaiHuong on 07/16/2009 04:50 PM
 
 <tr><td><div align="center"><br />
 <b>1. Lớp Ngữ Pháp Việt Ngữ III </b><br />
-Giảng viên: <b>Giáo sư <a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=69" target = _blank>TRẦN NGỌC NINH</a></b><br />
+Giảng viên: <b>Giáo sư <a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=69" target = _blank>TRẦN NGỌC NINH</a></b><br />
 Từ 24 tháng 7 năm 2009 đến 18 tháng 12 năm 2009<br />
 Mỗi tối Thứ Sáu từ 6 giờ 30 đến 8 giờ 30<br />
 tại phòng hội Viện Việt-Học<br />
@@ -1008,7 +1008,7 @@ Posted by: HoaiHuong on 06/18/2009 01:00 PM
 <tr><td><div align="center">Trân trọng kính mời các quí vị<br />
 đến tham dự buổi ra mắt bộ DVD<br />
 <div align="center"><br />
-<img src="http://www.viethoc.org/eholdings/images/BiaNPTC_small.jpg">
+<img src="https://www.viethoc.org/eholdings/images/BiaNPTC_small.jpg">
 </div><br />
 do Viện Việt-Học tổ chức<br />
 <b>từ 2 giờ đến 5 giờ chiều<br />
@@ -1274,7 +1274,7 @@ Posted by: HoaiHuong on 02/19/2009 05:09 PM
 <tr><td>Viện Việt-Học xin trân trọng kính mời quý vị đến tham dự buổi Ra mắt sách:<br />
 <br />
 <div align="center"><br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=130"><img src="http://www.viethoc.org/eholdings/images/HoaTienBiaTruoc_small.gif"></a>
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=130"><img src="https://www.viethoc.org/eholdings/images/HoaTienBiaTruoc_small.gif"></a>
 </div><br />
 <br />
 do Viện Việt-Học tổ chức<br />
@@ -1359,31 +1359,31 @@ As briefly mentioned earlier, these valuable books available for you today are n
 
 
 <OL><UL>
- <li><a href="http://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_01.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần I</a> của Giáo sư <b>Hồ Bạch Thảo</b>.<br />
+ <li><a href="https://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_01.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần I</a> của Giáo sư <b>Hồ Bạch Thảo</b>.<br />
 <i>"[Giáo sư Nguyễn Khắc Kham] gửi cho tôi cuốn sách nghiên cứu về đảo Hoàng Sa và Trường sa viết bằng tiếng Pháp của Học giả Võ Long Tê nhan đề LES ARCHIPELS DE HOÀNG-SA ET DE TRƯỜNG-SA SELON LES ANCIENS OUVRAGES VIETNAMIENS D’HISTOIRE ET DE GÉOGRAPHIE [...] Nay Giáo sư đã thành người thiên cổ, quần đảo Hoàng Sa mất mấy chục năm về trước vẫn là niềm đau nóng hổi trong tim mọi người Việt; cuốn sách của Học giả Võ Long Tê trở thành bất hủ, trong đó chụp hình nhiều tư liệu quí giá bằng chữ Hán và phần lớn được dịch ra Pháp văn. Tuy nhiên công trình của tác giả chỉ có người ngoại quốc và một số ít người Việt Nam biết chữ Pháp mới sử dụng được; nay cần phải giới thiệu ra lời Việt để số đông đồng bào ta thưởng ngoạn. Bởi vậy tôi không ngại học vấn thô thiển, kính cẩn sao chụp lại nguyên văn tài liệu bằng chữ Hán của các nhà viết sử và địa chí nước ta qua các đời; rồi dịch và chú thích bằng lời Việt. Nguyên văn  được nêu lên trước phần dịch, ngõ hầu được học hỏi và chất chính cùng các bậc thức giả quan tâm." - Hồ Bạch Thảo</i></li>
 <br />
 <br />
- <li><a href="http://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_02.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần II</a> của Giáo sư <b>Hồ Bạch Thảo</b>.</li>
+ <li><a href="https://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_02.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần II</a> của Giáo sư <b>Hồ Bạch Thảo</b>.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/DiemSach_HoaTien.pdf" target = _blank>Điểm sách Hoa Tiên Lục Khảo Chú</a> (Tác giả: Giáo sư Đoàn Khoách) của Giáo sư Lê Văn Đặng.</li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/DiemSach_HoaTien.pdf" target = _blank>Điểm sách Hoa Tiên Lục Khảo Chú</a> (Tác giả: Giáo sư Đoàn Khoách) của Giáo sư Lê Văn Đặng.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/PhamVanHai/ChuHanvaTiengHanViet.pdf">Chữ Hán và Tiếng Hán Việt</a> - Sách dày hơn 1000 trang, soạn thảo công phu, gồm 10 chương, do Gs <b>Phạm Văn Hải</b> (DH Georgetown University, VVH) soạn.</li>
+  <li><a href="https://www.viethoc.org/eholdings/PhamVanHai/ChuHanvaTiengHanViet.pdf">Chữ Hán và Tiếng Hán Việt</a> - Sách dày hơn 1000 trang, soạn thảo công phu, gồm 10 chương, do Gs <b>Phạm Văn Hải</b> (DH Georgetown University, VVH) soạn.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/NgKhacKham/G_Aubaret_Annamite-Francais.pdf">Tự vị Aubaret, Quốc Ngữ - Nôm - Pháp</a>
+  <li><a href="https://www.viethoc.org/eholdings/NgKhacKham/G_Aubaret_Annamite-Francais.pdf">Tự vị Aubaret, Quốc Ngữ - Nôm - Pháp</a>
 Đây là phần Vocabulaire trong quyển Grammaire Annamite <br />
 của G. Aubaret. Tài liệu này in năm 1857, theo lệnh của ông Bộ trưởng Bộ Hải Quân và Thuộc Địa, do nhà in Hoàng Gia (Imprimerie Impériale) tại Paris ấn hành. Nguyễn Tuấn Khanh (San José, CA) scan từ thư viện của cố Gs Nguyễn Khắc Kham.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/NgVanSam/TamCoMaoLu_NVS.pdf">Bản phiên âm và giới thiệu Tam Cố Mao Lư</a> - Tuồng hát bội viết bằng chữ Nôm.  Gs <b>Nguyễn Văn Sâm</b>. Tựa của Gs Nguyễn Khắc Kham.</li>
+  <li><a href="https://www.viethoc.org/eholdings/NgVanSam/TamCoMaoLu_NVS.pdf">Bản phiên âm và giới thiệu Tam Cố Mao Lư</a> - Tuồng hát bội viết bằng chữ Nôm.  Gs <b>Nguyễn Văn Sâm</b>. Tựa của Gs Nguyễn Khắc Kham.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/DeHieuThemTCML_LVD.pdf">Để hiểu thêm về Tam Quốc Chí và Tam Cố Mao Lư </a> - Gs <b>Lê Văn Đặng</b></li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/DeHieuThemTCML_LVD.pdf">Để hiểu thêm về Tam Quốc Chí và Tam Cố Mao Lư </a> - Gs <b>Lê Văn Đặng</b></li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/NgocTinhLienPhu_Rev-02.pdf">Giới thiệu Ngọc Tỉnh Liên Phú của Mạc Đĩnh Chi</a> - Gs <b>Lê Văn Đặng</b></li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/NgocTinhLienPhu_Rev-02.pdf">Giới thiệu Ngọc Tỉnh Liên Phú của Mạc Đĩnh Chi</a> - Gs <b>Lê Văn Đặng</b></li>
 </ol></ul>
 <br />
 
@@ -1681,7 +1681,7 @@ Do Bác sĩ Nguyễn Huy Hùng (Texas) "chắp nhặt dông dài" bằng compute
 <a href="/eholdings/TIENGKEM.pdf" target="_parent">Tiếng Kèm</a> (PDF Document)<br />
 Do Gs Phạm Văn Hải soạn.<br />
 <br /><br />
-<li><a href="http://www.trangnhahoaihuong.com/files/TruongNgao_PhienAm-Nom_NVS.pdf target= _blank>Tuồng Trương Ngáo</a> (PDF document). Giáo sư Nguyễn Văn Sâm phiên chú từ bản Nôm khắc ở Phật Trấn, Trung Quốc, năm 1878.</li>
+<li><a href="https://www.trangnhahoaihuong.com/files/TruongNgao_PhienAm-Nom_NVS.pdf target= _blank>Tuồng Trương Ngáo</a> (PDF document). Giáo sư Nguyễn Văn Sâm phiên chú từ bản Nôm khắc ở Phật Trấn, Trung Quốc, năm 1878.</li>
 </UL></OL><br />
 
 
@@ -1759,19 +1759,19 @@ Tài liệu dựa theo "Nước tôi Dân tôi" do cơ sở Ðông-Tiến xuất
 <div align="center"><br />
 June 30 - July 1 &#x0026; July 7-8, 2007 tại Viện Việt Học.</div><br />
 <br />
-<a href= "http://picasaweb.google.com/hoaihuong1234/HoiNghiTiengViet2?authkey=ZL9xcJwaqn8"><b>Vài hình ảnh của Hội Nghị (II)</b></a><br />
+<a href= "https://picasaweb.google.com/hoaihuong1234/HoiNghiTiengViet2?authkey=ZL9xcJwaqn8"><b>Vài hình ảnh của Hội Nghị (II)</b></a><br />
 <br />
-<a href= "http://www.viethoc.org/index.php?module=photoalbum&#x0026;PHPWS_Album_op=view&#x0026;PHPWS_Album_id=8"><b>Vài hình ảnh của Hội Nghị (I)</b></a><br />
+<a href= "https://www.viethoc.org/index.php?module=photoalbum&#x0026;PHPWS_Album_op=view&#x0026;PHPWS_Album_id=8"><b>Vài hình ảnh của Hội Nghị (I)</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=125"><b>Tường thuật về tuần lễ đầu của Hội Nghị</a></b> Tâm Việt<br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=125"><b>Tường thuật về tuần lễ đầu của Hội Nghị</a></b> Tâm Việt<br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=124"><b>Chương trình Hội Nghị</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=124"><b>Chương trình Hội Nghị</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=123"><b>Bài vở đã nhận được</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=123"><b>Bài vở đã nhận được</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=120"><b>Thu thập tài liệu</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=120"><b>Thu thập tài liệu</b></a><br />
 <br ><br />
-<b><a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=122">Symposium International Sur La langue Vietnamienne</a></b><br />
+<b><a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=122">Symposium International Sur La langue Vietnamienne</a></b><br />
 <br />
 </td>
     </tr>
@@ -1920,16 +1920,16 @@ Th&#7913; b&#7843;y: 10:30AM - 12:30PM. Ch&#7911; nh&#7853;t: &#272;&#243;ng c&#
 <img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0">
 <a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0">
-<a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
+<a href="https://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">https://www.viethoc.org</a>&nbsp;
 </td></tr>
 </table>
 <table width="100%" cellspacing="1" cellpadding="0" bgcolor="#C0C0C0">
 <tr><td style="border-top: 1px solid #778;" valign="top" align="right">
-Powered by <a href="http://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
-Theme design &#169; <a href="http://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
+Powered by <a href="https://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
+Theme design &#169; <a href="https://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
 </td></tr></table>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,9 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
-<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
-<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 30, 2003</font><br><a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="https://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -152,7 +152,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Chúng tôi xin giới thiệu đến quý vị tập biên khảo và chuyên luận <i>Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp </i> của ông Vũ Tiến Dũng. Chúng tôi xin chân thành cám ơn ông Dũng đã gửi tập biên khảo đến Viện Việt-học cũng như đến với quý bạn đọc của Viện. <br />Thân mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=2400&page_id=56" target="new_window">Trang Thân Hữu</a> đọc tập biên khảo và chuyên luận <a href="http://www.vnx.org/eholdings/Syntax.pdf" target="new_window">Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp</a> của ông Vũ Tiến Dũng.
+	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Chúng tôi xin giới thiệu đến quý vị tập biên khảo và chuyên luận <i>Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp </i> của ông Vũ Tiến Dũng. Chúng tôi xin chân thành cám ơn ông Dũng đã gửi tập biên khảo đến Viện Việt-học cũng như đến với quý bạn đọc của Viện. <br />Thân mời quý vị vào <a href="https://www.viethoc.org/content.php?menu=2400&page_id=56" target="new_window">Trang Thân Hữu</a> đọc tập biên khảo và chuyên luận <a href="https://www.vnx.org/eholdings/Syntax.pdf" target="new_window">Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp</a> của ông Vũ Tiến Dũng.
 <br />Trân trọng,
 <br />Viện Việt-học
 	</td>
@@ -203,7 +203,7 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="58"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tiếng Việt và ngôn ngữ học hiện đại: Sơ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 11 March @ 22:17:23</td></tr><tr><td class="type5">Dead link: http://www.vnx.org/eholdings/Syntax.pdf</td></tr></table><br />[ 
+<a name="58"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tiếng Việt và ngôn ngữ học hiện đại: Sơ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 11 March @ 22:17:23</td></tr><tr><td class="type5">Dead link: https://www.vnx.org/eholdings/Syntax.pdf</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=58&amp;sid=62&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
@@ -222,7 +222,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

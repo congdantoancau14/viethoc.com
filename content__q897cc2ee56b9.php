@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -57,7 +57,7 @@
 <tr><td class="type0">
 <table width="100%" cellpadding="5" cellspacing="1" border="0" summary="Data for Main Menu">
 <tr><td class="type4">Main Menu</td></tr><tr><td class="type5">
-<a href="/index.php">Home Page</a><br /><a href="/content.php?menu=25&amp;page_id=54">About Us</a><br /><a href="/content.php?menu=17&amp;page_id=2">Announcements</a><br /><a href="/content.php?menu=14&amp;page_id=4">Activities</a><br />&nbsp;&nbsp;&nbsp;<a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục - Books Catalog</a><br />&nbsp;&nbsp;&nbsp;<a href="content.php?menu=1402&amp;page_id=60"></a><br /><a href="/content.php?menu=15&amp;page_id=24">Programs & Curriculum</a><br /><a href="/content.php?menu=12&amp;page_id=6">Organization</a><br /><a href="/content.php?menu=13&amp;page_id=12">Faculty</a><br /><a href="/content.php?menu=16&amp;page_id=25">Classes</a><br /><a href="/content.php?menu=24&amp;page_id=47">Việt-Học Thư Quán</a><br /><a href="/content.php?menu=19&amp;page_id=37">Student Corner</a><br /><a href="/content.php?menu=20&amp;page_id=42">Newsletter</a><br /><a href="/phorum/index.php">Forums - Diễn Đàn Việt Học</a><br /><a href="/submit.php">Submit News/Article</a><br /><a href="/admin.php?menu=21">Admin</a><br /><a href="month.php?menu=26">Calendar</a><br /></td></tr></table></td></tr></table>
+<a href="/index.php">Home Page</a><br /><a href="/content.php?menu=25&amp;page_id=54">About Us</a><br /><a href="/content.php?menu=17&amp;page_id=2">Announcements</a><br /><a href="/content.php?menu=14&amp;page_id=4">Activities</a><br />&nbsp;&nbsp;&nbsp;<a href="https://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục - Books Catalog</a><br />&nbsp;&nbsp;&nbsp;<a href="content.php?menu=1402&amp;page_id=60"></a><br /><a href="/content.php?menu=15&amp;page_id=24">Programs & Curriculum</a><br /><a href="/content.php?menu=12&amp;page_id=6">Organization</a><br /><a href="/content.php?menu=13&amp;page_id=12">Faculty</a><br /><a href="/content.php?menu=16&amp;page_id=25">Classes</a><br /><a href="/content.php?menu=24&amp;page_id=47">Việt-Học Thư Quán</a><br /><a href="/content.php?menu=19&amp;page_id=37">Student Corner</a><br /><a href="/content.php?menu=20&amp;page_id=42">Newsletter</a><br /><a href="/phorum/index.php">Forums - Diễn Đàn Việt Học</a><br /><a href="/submit.php">Submit News/Article</a><br /><a href="/admin.php?menu=21">Admin</a><br /><a href="month.php?menu=26">Calendar</a><br /></td></tr></table></td></tr></table>
 <br />
 <!--Start Event Code -->
 
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -97,12 +97,12 @@
 <tr>
 		<td class="type5" background="" valign="top">
 	<font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>/
-<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR>
-<br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
-<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
-<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
-<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
-<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR>
+<br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="https://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -241,7 +241,7 @@ Our ten week (full term) tuition per course is only $100. The amount covers  ins
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

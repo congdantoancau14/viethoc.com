@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta name="verify-v1" content="7oI68j+LjC0FiU7AkdUK93npzryYwXiHl4xSOTQ3DjQ=" >
 <meta name="generator" content="phpWebSite" />
@@ -136,7 +136,7 @@ var cookievar = "8c3b009e7d9ce4dcb61e2bde4b6ba762[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.viethoc.org/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=129&amp;MMN_position=70:70">Sách mới</a>
+<a href="https://www.viethoc.org/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=129&amp;MMN_position=70:70">Sách mới</a>
 </td>
 
 
@@ -208,7 +208,7 @@ var cookievar = "8c3b009e7d9ce4dcb61e2bde4b6ba762[users][js_on]=1"; document.coo
 
 
 
-<a href="http://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
+<a href="https://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
 </td>
 
 
@@ -448,31 +448,31 @@ As briefly mentioned earlier, these valuable books available for you today are n
 
 
 <OL><UL>
- <li><a href="http://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_01.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần I</a> của Giáo sư <b>Hồ Bạch Thảo</b>.<br />
+ <li><a href="https://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_01.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần I</a> của Giáo sư <b>Hồ Bạch Thảo</b>.<br />
 <i>"[Giáo sư Nguyễn Khắc Kham] gửi cho tôi cuốn sách nghiên cứu về đảo Hoàng Sa và Trường sa viết bằng tiếng Pháp của Học giả Võ Long Tê nhan đề LES ARCHIPELS DE HOÀNG-SA ET DE TRƯỜNG-SA SELON LES ANCIENS OUVRAGES VIETNAMIENS D’HISTOIRE ET DE GÉOGRAPHIE [...] Nay Giáo sư đã thành người thiên cổ, quần đảo Hoàng Sa mất mấy chục năm về trước vẫn là niềm đau nóng hổi trong tim mọi người Việt; cuốn sách của Học giả Võ Long Tê trở thành bất hủ, trong đó chụp hình nhiều tư liệu quí giá bằng chữ Hán và phần lớn được dịch ra Pháp văn. Tuy nhiên công trình của tác giả chỉ có người ngoại quốc và một số ít người Việt Nam biết chữ Pháp mới sử dụng được; nay cần phải giới thiệu ra lời Việt để số đông đồng bào ta thưởng ngoạn. Bởi vậy tôi không ngại học vấn thô thiển, kính cẩn sao chụp lại nguyên văn tài liệu bằng chữ Hán của các nhà viết sử và địa chí nước ta qua các đời; rồi dịch và chú thích bằng lời Việt. Nguyên văn  được nêu lên trước phần dịch, ngõ hầu được học hỏi và chất chính cùng các bậc thức giả quan tâm." - Hồ Bạch Thảo</i></li>
 <br />
 <br />
- <li><a href="http://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_02.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần II</a> của Giáo sư <b>Hồ Bạch Thảo</b>.</li>
+ <li><a href="https://www.viethoc.org/eholdings/HoangSa_TruongSa_HoBachThao_02.pdf" target = _blank>Tư liệu xưa liên quan đến Hoàng Sa, Trường Sa, phần II</a> của Giáo sư <b>Hồ Bạch Thảo</b>.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/DiemSach_HoaTien.pdf" target = _blank>Điểm sách Hoa Tiên Lục Khảo Chú</a> (Tác giả: Giáo sư Đoàn Khoách) của Giáo sư Lê Văn Đặng.</li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/DiemSach_HoaTien.pdf" target = _blank>Điểm sách Hoa Tiên Lục Khảo Chú</a> (Tác giả: Giáo sư Đoàn Khoách) của Giáo sư Lê Văn Đặng.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/PhamVanHai/ChuHanvaTiengHanViet.pdf">Chữ Hán và Tiếng Hán Việt</a> - Sách dày hơn 1000 trang, soạn thảo công phu, gồm 10 chương, do Gs <b>Phạm Văn Hải</b> (DH Georgetown University, VVH) soạn.</li>
+  <li><a href="https://www.viethoc.org/eholdings/PhamVanHai/ChuHanvaTiengHanViet.pdf">Chữ Hán và Tiếng Hán Việt</a> - Sách dày hơn 1000 trang, soạn thảo công phu, gồm 10 chương, do Gs <b>Phạm Văn Hải</b> (DH Georgetown University, VVH) soạn.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/NgKhacKham/G_Aubaret_Annamite-Francais.pdf">Tự vị Aubaret, Quốc Ngữ - Nôm - Pháp</a>
+  <li><a href="https://www.viethoc.org/eholdings/NgKhacKham/G_Aubaret_Annamite-Francais.pdf">Tự vị Aubaret, Quốc Ngữ - Nôm - Pháp</a>
 Đây là phần Vocabulaire trong quyển Grammaire Annamite <br />
 của G. Aubaret. Tài liệu này in năm 1857, theo lệnh của ông Bộ trưởng Bộ Hải Quân và Thuộc Địa, do nhà in Hoàng Gia (Imprimerie Impériale) tại Paris ấn hành. Nguyễn Tuấn Khanh (San José, CA) scan từ thư viện của cố Gs Nguyễn Khắc Kham.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/NgVanSam/TamCoMaoLu_NVS.pdf">Bản phiên âm và giới thiệu Tam Cố Mao Lư</a> - Tuồng hát bội viết bằng chữ Nôm.  Gs <b>Nguyễn Văn Sâm</b>. Tựa của Gs Nguyễn Khắc Kham.</li>
+  <li><a href="https://www.viethoc.org/eholdings/NgVanSam/TamCoMaoLu_NVS.pdf">Bản phiên âm và giới thiệu Tam Cố Mao Lư</a> - Tuồng hát bội viết bằng chữ Nôm.  Gs <b>Nguyễn Văn Sâm</b>. Tựa của Gs Nguyễn Khắc Kham.</li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/DeHieuThemTCML_LVD.pdf">Để hiểu thêm về Tam Quốc Chí và Tam Cố Mao Lư </a> - Gs <b>Lê Văn Đặng</b></li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/DeHieuThemTCML_LVD.pdf">Để hiểu thêm về Tam Quốc Chí và Tam Cố Mao Lư </a> - Gs <b>Lê Văn Đặng</b></li>
 <br />
 <br />
-  <li><a href="http://www.viethoc.org/eholdings/LeVanDang/NgocTinhLienPhu_Rev-02.pdf">Giới thiệu Ngọc Tỉnh Liên Phú của Mạc Đĩnh Chi</a> - Gs <b>Lê Văn Đặng</b></li>
+  <li><a href="https://www.viethoc.org/eholdings/LeVanDang/NgocTinhLienPhu_Rev-02.pdf">Giới thiệu Ngọc Tỉnh Liên Phú của Mạc Đĩnh Chi</a> - Gs <b>Lê Văn Đặng</b></li>
 </ol></ul>
 <br />
 
@@ -770,7 +770,7 @@ Do Bác sĩ Nguyễn Huy Hùng (Texas) "chắp nhặt dông dài" bằng compute
 <a href="/eholdings/TIENGKEM.pdf" target="_parent">Tiếng Kèm</a> (PDF Document)<br />
 Do Gs Phạm Văn Hải soạn.<br />
 <br /><br />
-<li><a href="http://www.trangnhahoaihuong.com/files/TruongNgao_PhienAm-Nom_NVS.pdf target= _blank>Tuồng Trương Ngáo</a> (PDF document). Giáo sư Nguyễn Văn Sâm phiên chú từ bản Nôm khắc ở Phật Trấn, Trung Quốc, năm 1878.</li>
+<li><a href="https://www.trangnhahoaihuong.com/files/TruongNgao_PhienAm-Nom_NVS.pdf target= _blank>Tuồng Trương Ngáo</a> (PDF document). Giáo sư Nguyễn Văn Sâm phiên chú từ bản Nôm khắc ở Phật Trấn, Trung Quốc, năm 1878.</li>
 </UL></OL><br />
 
 
@@ -843,16 +843,16 @@ Th&#7913; b&#7843;y: 10:30AM - 12:30PM. Ch&#7911; nh&#7853;t: &#272;&#243;ng c&#
 <img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0">
 <a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0">
-<a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
+<a href="https://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">https://www.viethoc.org</a>&nbsp;
 </td></tr>
 </table>
 <table width="100%" cellspacing="1" cellpadding="0" bgcolor="#C0C0C0">
 <tr><td style="border-top: 1px solid #778;" valign="top" align="right">
-Powered by <a href="http://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
-Theme design &#169; <a href="http://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
+Powered by <a href="https://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
+Theme design &#169; <a href="https://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
 </td></tr></table>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

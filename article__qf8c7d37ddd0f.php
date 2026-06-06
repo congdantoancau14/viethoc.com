@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -122,7 +129,15 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=9&amp;author="><img src="./images/topics/books.gif" border="0" alt="Việt Sử" align="right" hspace="4" /></a>Ðọc lại bài tựa Lam Sơn Thực Lục tàng trữ trong <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a>, chúng tôi tìm thấy hai chữ Hán gõ sai trong cột cuối của bài tựa. Dòng này được sửa lại là: <br /><center><font size="+2">順天肆年仲冬月穀日藍山峒主</font><br />[Thuận Thiên tứ niên, trọng đông nguyệt, cốc nhựt. Lam Sơn động chủ]</center><br /><br />Xin cám ơn bạn Nguyễn Hữu Vinh đã tìm thấy và sửa sai chữ cốc 穀 trong cốc nhựt 穀日.<br />Phiền quý bạn vào <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> chép lại bản mới <a href="/eholdings/LamSon-00_Rev-2.pdf" >LamSon-00_Rev-2.pdf</a>.<br /><br /><i>Lê Văn Ðặng</i> <br /><br />
+	<a href="search.php?query=&amp;topic=9&amp;author="><img src="./images/topics/books.gif" border="0" alt="Việt Sử" align="right" hspace="4" /></a>Ðọc lại bài tựa Lam Sơn Thực Lục tàng trữ trong <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a>, chúng tôi tìm thấy hai chữ Hán gõ sai trong cột cuối của bài tựa. Dòng này được sửa lại là: 
+<br /><center><font size="+2">順天肆年仲冬月穀日藍山峒主</font>
+<br />[Thuận Thiên tứ niên, trọng đông nguyệt, cốc nhựt. Lam Sơn động chủ]</center>
+<br />
+<br />Xin cám ơn bạn Nguyễn Hữu Vinh đã tìm thấy và sửa sai chữ cốc 穀 trong cốc nhựt 穀日.
+<br />Phiền quý bạn vào <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> chép lại bản mới <a href="/eholdings/LamSon-00_Rev-2.pdf" >LamSon-00_Rev-2.pdf</a>.
+<br />
+<br /><i>Lê Văn Ðặng</i> <br />
+<br />
 	</td>
 </tr>
 </table>
@@ -159,7 +174,7 @@ Send Your Comment</a>
 	<option value="0" selected="selected" >Oldest First</option>
 	<option value="1" >Newest First</option>
 	<option value="2" >Highest Scores First</option>
-	</select>
+	</select>https:
 
 	<input type="hidden" name="sid" value="89" />
 	<input type="submit" value="Refresh" /></form></td>
@@ -171,13 +186,55 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="99"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 23 February @ 18:52:10</td></tr><tr><td class="type5">Theo thiển ý, câu cuối bài tựa Lam Sơn Thực Lục, trọng đông nguyệt nên dịch là tháng 11 (tháng giữa của mùa đông), hay là có điều gì tôi chưa hiểu kịp ?<br /><br />Đoàn hữu Phong<br />Massachusetts, USA<br /></td></tr></table><br />[ 
+<a name="99"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 23 February @ 18:52:10</td></tr><tr><td class="type5">Theo thiển ý, câu cuối bài tựa Lam Sơn Thực Lục, trọng đông nguyệt nên dịch là tháng 11 (tháng giữa của mùa đông), hay là có điều gì tôi chưa hiểu kịp ?
+<br />
+<br />Đoàn hữu Phong
+<br />Massachusetts, USA
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=99&amp;sid=89&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
-		 ]<br /><br /><a name="103"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 February @ 02:28:27</td></tr><tr><td class="type5">Trong bài tựa này, bản dịch quốc ngữ ghi là: <i>Ngày lành, tháng một, năm thứ tư hiệu Thuận Thiên</i>.<br /><br />Vậy tháng một hay tháng 11?<br />Có lẽ tháng một hay tháng 11 đều đúng cả để chỉ tên tháng trước tháng chạp, bởi vì theo giáo sư Hoàng Xuân Hãn, trong bài Lịch và lịch Việt Nam có chú: (trang 891)<br /><br /><i>Tiếng Việt gọi tháng đầu là <b>Giêng</b> ( &lt; Chiếng &lt; Chính &lt; 正); tháng 11 là <b>Một</b> (ở Bắc: Một &lt; Mmột &lt; Mười Một), 12 là <b>Chạp</b> ( &lt; Trạp &lt; Tlạp &lt; Lạp 臘).</i><br />-----------------<br />Một vấn đề khác nữa là, trong số các tên tiết khí, không có tiết khí Trọng Đông, nên ta thử xác định câu trọng đông nguyệt muốn nói về thời điểm nào?<br /><br />Theo Đại Việt Sử Ký Toàn Thư (Bản Kỷ, Quyển X, tờ 73b) có viết:<br /><i>Tháng 12, ngày mồng 6, vua sai làm sách Lam Sơn thực lục, vua tự làm bài tựa, ký là Lam Sơn động chủ</i><br /><br />Dùng <a  href=http://www.informatik.uni-leipzig.de/~duc/amlich>Nhu liệu chuyển ngày âm dương lịch</a>, ta biết ngày 6 tháng 12 âm lịch năm Thuận Thiên thứ 4 là ngày 8 tháng 1 năm 1432. (11 ngày sau tiết Đông Chí, 4 ngày trước tiết Tiểu Hàn).  Như vậy vẫn là giữa mùa đông, nhưng lúc đó là tháng 12 âm lịch chứ không phải tháng 11 âm lịch.<br /><br />Vì thế khó có thể chuyển câu trọng đông nguyệt sang thành một tháng có số được, vì thế cách tốt nhất là cứ dịch thành tháng giữa đông.  (như sách Lam Sơn Thực Lục do Mạc Bảo Thần dịch, đang lưu trữ trong Việt Học Thư Quán, đã dịch như vậy).<br /><br />Lê Bắc<br />San Jose, California, USA </td></tr></table><br />[ 
+		 ]<br /><br /><a name="103"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 February @ 02:28:27</td></tr><tr><td class="type5">Trong bài tựa này, bản dịch quốc ngữ ghi là: <i>Ngày lành, tháng một, năm thứ tư hiệu Thuận Thiên</i>.
+<br />
+<br />Vậy tháng một hay tháng 11?
+<br />Có lẽ tháng một hay tháng 11 đều đúng cả để chỉ tên tháng trước tháng chạp, bởi vì theo giáo sư Hoàng Xuân Hãn, trong bài Lịch và lịch Việt Nam có chú: (trang 891)
+<br />
+<br /><i>Tiếng Việt gọi tháng đầu là <b>Giêng</b> ( &lt; Chiếng &lt; Chính &lt; 正); tháng 11 là <b>Một</b> (ở Bắc: Một &lt; Mmột &lt; Mười Một), 12 là <b>Chạp</b> ( &lt; Trạp &lt; Tlạp &lt; Lạp 臘).</i>
+<br />-----------------
+<br />Một vấn đề khác nữa là, trong số các tên tiết khí, không có tiết khí Trọng Đông, nên ta thử xác định câu trọng đông nguyệt muốn nói về thời điểm nào?
+<br />
+<br />Theo Đại Việt Sử Ký Toàn Thư (Bản Kỷ,https:n X, tờ 73b) có viết:
+<br /><i>Tháng 12, ngày mồng 6, vua sai làm sách Lam Sơn thực lục, vua tự làm bài tựa, ký là Lam Sơn động chủ</i>
+<br />
+<br />Dùng <a  href=http://www.informatik.uni-leipzig.de/~duc/amlich>Nhu liệu chuyển ngày âm dương lịch</a>, ta biết ngày 6 tháng 12 âm lịch năm Thuận Thiên thứ 4 là ngày 8 tháng 1 năm 1432. (11 ngày sau tiết Đông Chí, 4 ngày trước tiết Tiểu Hàn).  Như vậy vẫn là giữa mùa đông, nhưng lúc đó là tháng 12 âm lịch chứ không phải tháng 11 âm lịch.
+<br />
+<br />Vì thế khó có thể chuyển câu trọng đông nguyệt sang thành một tháng có số được, vì thế cách tốt nhất là cứ dịch thành tháng giữa đông.  (như sách Lam Sơn Thực Lục do Mạc Bảo Thần dịch, đang lưu trữ trong Việt Học Thư Quán, đã dịch như vậy).
+<br />
+<br />Lê Bắc
+<br />San Jose, California, USA </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=103&amp;sid=89&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
-		 ]<br /><br /><a name="105"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 February @ 16:23:09</td></tr><tr><td class="type5">Xin bàn thêm: <br /><br />Theo tôi hiểu thông dụng xưa mỗi mùa có 3 tháng theo thứ tự gọi là mạnh, trọng, quý, ví dụ như mạnh là tháng 4, trọng hạ là tháng 5, quý hạ là tháng 6. Xin ghi 3 thí dụ: <br /><br />1. Chú thích trong Khâm ĐỊnh Việt Sử Thông Giám Cương Mục cũng ghi vậy. (KĐVSTGCM, bản Viện Việt Học, dạng pdf, trang 6) <br /><br />2. Thiều Chữu Tự Điển cũng giải thích mạnh, trọng, quý như trên. <br /><br />3. Lời chú thích trong An Nam Chí Lược, bài Tiêu Phương Nhai Sứ Giao Lục Tự, cũng chú thích tháng mạnh hạ là tháng 4. (ANCL, dạng pdf của Viện Việt Học, trang 31) <br /><br />Về Nhu liệu chuyển ngày âm dương lịch của anh Hồ Ngọc Đức thì theo tôi hiểu, anh dùng nguyên tắc âm lịch ngày nay để suy ra ngày trước, tôi e không đúng. Ví dụ như tháng nào, năm nào nhuận, hoặc tháng nào thiếu, tháng nào đủ, không chắc đúng theo cách tính của người xưa. Dù vậy, tôi chưa có dịp liên lạc với anh Đức; sẵn dịp này tôi sẽ liên lạc cùng anh để hiểu biết thêm. Tuy nhiên, tôi quan niệm danh từ trọng đông là một cách nói khác là tháng 11, mặc dù nguyên căn từ quan niệm năm mới khởi đầu mùa xuân (xuân = tháng 1, 2 và 3), cũng như ngày Tết ta mừng xuân, nhưng nếu tính theo tiết khí thì chưa hẳn là mùa xuân. Vì vậy nhu liệu có đúng hay sai, cũng không thành vấn đề nơi đây. <br /><br />re. : Theo Đại Việt Sử Ký Toàn Thư (Bản Kỷ, Quyển X, tờ 73b) có viết: <br />Tháng 12, ngày mồng 6, vua sai làm sách Lam Sơn thực lục, vua tự làm bài tựa, ký là Lam Sơn động chủ thì tôi chịu thua. Người xưa chép một sách nói tháng 12, một sách khác lại nói trọng đông, thì hậu bối chỉ xin gải đầu chịu thua. :-) <br /><br />Tôi không có đầy đủ tài liệu, nên không quả quyết được, chỉ là một ý kiến và thắc mắc thôi. Ngoài ra nếu anh Lê Bắc cho tôi xin được bản sao của bài Lich và Lịch Viet Nam cua GS Hoang xuân Hãn để tôi được học hỏi thêm thì tôi mang ơn lắm, mà xin tình nguyện đánh vào computer đóng góp vào Việt Học Thư Quán. <br /><br />Nhân tiện tôi xin thành thật cảm tạ nổ lực của các anh chị Lê Bắc, Doãn Vượng, Công Đệ, Ngọc Thủy, v.v. (tôi không tiện nhớ hết tên) đã đưa nhiều tài liệu sử lược lên màng web. Nhờ vậy tôi mới có tài liệu cải lý lại cùng quý vị. :-) <br /><br />Thân chào, <br /><br />Đoàn hữu Phong </td></tr></table><br />[ 
+		 ]<br /><br /><a name="105"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Bài tựa  Lam Sơn Thực Lục 藍山實錄序</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 February @ 16:23:09</td></tr><tr><td class="type5">Xin bàn thêm: 
+<br />
+<br />Theo tôi hiểu thông dụng xưa mỗi mùa có 3 tháng theo thứ tự gọi là mạnh, trọng, quý, ví dụ như mạnh là tháng 4, trọng hạ là tháng 5, quý hạ là tháng 6. Xin ghi 3 thí dụ: 
+<br />
+<br />1. Chú thích trong Khâm ĐỊnh Việt Sử Thông Giám Cương Mục cũng ghi vậy. (KĐVSTGCM, bản Viện Việt Học, dạng pdf, trang 6) 
+<br />
+<br />2. Thiều Chữu Tự Điển cũng giải thích mạnh, trọng, quý như trên. 
+<br />
+<br />3. Lời chú thích trong An Nam Chí Lược, bài Tiêu Phương Nhai Sứ Giao Lục Tự, cũng chú thích tháng mạnh hạ là tháng 4. (ANCL, dạng pdf của Viện Việt Học, trang 31) 
+<br />
+<br />Về Nhu liệu chuyển ngày âm dương lịch của anh Hồ Ngọc Đức thì theo tôi hiểu, anh dùng nguyên tắc âm lịch ngày nay để suy ra ngày trước, tôi e không đúng. Ví dụ như tháng nào, năm nào nhuận, hoặc tháng nào thiếu, tháng nào đủ, không chắc đúng theo cách tính của người xưa. Dù vậy, tôi chưa có dịp liên lạc với anh Đức; sẵn dịp này tôi sẽ liên lạc cùng anh để hiểu biết thêm. Tuy nhiên, tôi quan niệm danh từ trọng đông là một cách nói khác là tháng 11, mặc dù nguyên căn từ quan niệm năm mới khởi đầu mùa xuân (xuân = tháng 1, 2 và 3), cũng như ngày Tết ta mừng xuân, nhưng nếu tính theo tiết khí thì chưa hẳn là mùa xuân. Vì vậy nhu liệu có đúng hay sai, cũng không thành vấn đề nơi đây. 
+<br />
+<br />re. : Theo Đại Việt Sử Ký Toàn Thư (Bản Kỷ, Quyển X, tờ 73b) có viết: 
+<br />Tháng 12, ngày mồng 6, vua sai làm sách Lam Sơn thực lục, vua tự làm bài tựa, ký là Lam Sơn động chủ thì tôi chịu thua. Người xưa chép một sách nói tháng 12, một sách khác lại nói trọng đông, thì hậu bối chỉ xin gải đầu chịu thua. :-) 
+<br />
+<br />Tôi không có đầy đủ tài liệu, nên không quả quyết được, chỉ là một ý kiến và thắc mắc thôi. Ngoài ra nếu anh Lê Bắc cho tôi xin được bản sao của bài Lich và Lịch Viet Nam cua GS Hoang xuân Hãn để tôi được học hỏi thêm thì tôi mang ơn lắm, mà xin tình nguyện đánh vào computer đóng góp vào Việt Học Thư Quán. 
+<br />
+<br />Nhân tiện tôi xin thành thật cảm tạ nổ lực của các anh chị Lê Bắc, Doãn Vượng, Công Đệ, Ngọc Thủy, v.v. (tôi không tiện nhớ hết tên) đã đưa nhiều tài liệu sử lược lên màng web. Nhờ vậy tôi mới có tài liệu cải lý lại cùng quý vị. :-) 
+<br />
+<br />Thân chào, 
+<br />
+<br />Đoàn hữu Phong </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=105&amp;sid=89&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

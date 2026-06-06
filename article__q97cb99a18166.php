@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,8 +96,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
-<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="https://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -151,7 +151,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><a href="http://www.viethoc.org/eholdings/sach/lstl.pdf" target="_parent">Lam Sơn Thực Lục</a> do Nguyễn Trãi soạn thảo, Lê Lợi đề tựa vào thế kỷ 15. Viện Việt-Học xin giới thiệu cùng bạn đọc <a href="http://www.viethoc.org/eholdings/LamSon-00_Rev-1.pdf">Lời tựa Lam Sơn Thực Lục</a>, bản chữ Hán với phần phiên âm và diễn nghĩa bằng Quốc Ngữ do giáo sư Lê Văn Đặng chuyển dịch... <br />Thân mời quý vị ghé vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window"> Việt Học Thư Quán</a> để tham khảo. 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><a href="https://www.viethoc.org/eholdings/sach/lstl.pdf" target="_parent">Lam Sơn Thực Lục</a> do Nguyễn Trãi soạn thảo, Lê Lợi đề tựa vào thế kỷ 15. Viện Việt-Học xin giới thiệu cùng bạn đọc <a href="https://www.viethoc.org/eholdings/LamSon-00_Rev-1.pdf">Lời tựa Lam Sơn Thực Lục</a>, bản chữ Hán với phần phiên âm và diễn nghĩa bằng Quốc Ngữ do giáo sư Lê Văn Đặng chuyển dịch... <br />Thân mời quý vị ghé vào <a href="https://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window"> Việt Học Thư Quán</a> để tham khảo. 
 	</td>
 </tr>
 </table>
@@ -213,7 +213,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

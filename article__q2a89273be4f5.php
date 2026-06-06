@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -122,7 +129,19 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài: <br /><br />NHỮNG ƯU VÀ KHUYẾT ĐIÊM CỦA NỀN GIÁO-DỤC QUỐC-GIA VIỆT-NAM TRƯỚC NĂM 1975<br /><br />do Giáo sư Trần Ngọc Ninh, Viện-trưởng Viện Việt-Học, trình bày. <br /> <br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ chiều đến 5 giờ chiều Chủ Nhật, 4 tháng 1 năm 2004 tại phòng hội của Viện. <br /><br />15355 Brookhurst St., Suite 222, Westminster, CA 92683 <br /><br />Xin quý vị xem <a href="./images/user_pages/VHTmTNN_010403-U.pdf" target="new_window">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả. <br /><br />Trân trọng, <br />Viện Việt-Học
+	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài: 
+<br />
+<br />NHỮNG ƯU VÀ KHUYẾT ĐIÊM CỦA NỀN GIÁO-DỤC QUỐC-GIA VIỆT-NAM TRƯỚC NĂM 1975
+<br />
+<br />do Giáo sư Trần Ngọc Ninh, Viện-trưởng Viện Việt-Học, trình bày. 
+<br /> <br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ chiều đến 5 giờ chiều Chủ Nhật, 4 tháng 1 năm 2004 tại phòng hội của Viện. 
+<br />
+<br />15355 Brookhurst St., Suite 222, Westminster, CA 92683 
+<br />
+<br />Xin quý vị xem <a href="./images/user_pages/VHTmTNN_010403-U.pdf" target="new_window">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả. 
+<br />
+<br />Trân trọng, 
+<br />Viện Việt-Học
 	</td>
 </tr>
 </table>
@@ -207,13 +226,22 @@ Florida, Hoa Kỳ
 				<br /><a name="119"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 01 April @ 09:48:21</td></tr><tr><td class="type5"></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=119&amp;sid=85&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
-		 ]<br /><br /><a name="123"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Buổi thuyết trình 4 tháng 1, 2004</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 07 May @ 15:27:55</td></tr><tr><td class="type5">Kính thưa Quý Viện,<br />Rất tiếc chúng tôi đã không biết để tham dự buổi thuyết trình nêu trên.  Xin quý viện cho biết làm sao để có được nội dung chi tiết hoặc tài liệu phân phối trong buổi thuyết trình này?<br /><br />Kính thư.</td></tr></table><br />[ 
+		 ]<br /><br /><a name="123"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Buổi thuyết trình 4 tháng 1, 2004</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 07 May @ 15:27:55</td></tr><tr><td class="type5">Kính thưa Quý Viện,
+<br />Rất tiếc chúng tôi đã không biết để tham dự buổi thuyết trình nêu trên.  Xin quý viện cho biết làm sao để có được nội dung chi tiết hoặc tài liệu phân phối trong buổi thuyết trình này?
+<br />
+<br />Kính thư.</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=123&amp;sid=85&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=129&amp;sid=85&amp;pid=123&amp;mode=threaded&amp;order=0&amp;thold=#129">
 	Re: Buổi thuyết trình 4 tháng 1, 2004</a>by: Anonymous on: Tuesday 25 May @ 03:18:13<br />
-				<br /><a name="130"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 03 June @ 07:37:13</td></tr><tr><td class="type5">Xin chào GS Trần Ngọc Ninh<br /><br />Tôi rất quan tâm tới bài thuyết trình của GS về Những ưu và khuyết điểm của giáo dục trước năm 1975. GS có thể cho tôi tham khảo bài báo cáo này ?<br /><br />lvkhiem3@yahoo.com<br /><br />Trân trọng cám ơn trước sự quan tâm của GS </td></tr></table><br />[ 
+				<br /><a name="130"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 03 June @ 07:37:13</td></tr><tr><td class="type5">Xin chào GS Trần Ngọc Ninh
+<br />
+<br />Tôi rất quan tâm tới bài thuyết trình của GS về Những ưu và khuyết điểm của giáo dục trước năm 1975. GS có thể cho tôi tham khảo bài báo cáo này ?
+<br />https:
+<br />lvkhiem3@yahoo.com
+<br />
+<br />Trân trọng cám ơn trước sự quan tâm của GS </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=130&amp;sid=85&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
@@ -222,7 +250,8 @@ Florida, Hoa Kỳ
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=140&amp;sid=85&amp;pid=130&amp;mode=threaded&amp;order=0&amp;thold=#140">
 	Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</a>by: Anonymous on: Friday 17 September @ 10:13:39<br />
-				<br /><a name="136"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 21 August @ 09:04:02</td></tr><tr><td class="type5">Kinh thua giao su Tran Ngoc Ninh, toi la nguoi sinh ra o the he saụ Co le vi the ma toi co han che ve mat tri thuc. Tinh co, biet duoc giao su da thuyet trinh de tai tren nhung vi ko co deu kien de den tham dụ Rat mong giao su co the chuyen tai cho toi noi dung cua bai thuyet trinh de toi co the mo rong von kien thuc han hep cua minh. Xin chan thanh cam on giao su Kinh chuc giao su luon luon manh khoe va hanh phuc. <br />email: independenceday@walla .com</td></tr></table><br />[ 
+				<br /><a name="136"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giáo sư Trần Ngọc Ninh thuyết trình tại Việ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 21 August @ 09:04:02</td></tr><tr><td class="type5">Kinh thua giao su Tran Ngoc Ninh, toi la nguoi sinh ra o the he saụ Co le vi the ma toi co han che ve mat tri thuc. Tinh co, biet duoc giao su da thuyet trinh de tai tren nhung vi ko co deu kien de den tham dụ Rat mong giao su co the chuyen tai cho toi noi dung cua bai thuyet trinh de toi co the mo rong von kien thuc han hep cua minh. Xin chan thanh cam on giao su Kinh chuc giao su luon luon manh khoe va hanh phuc. 
+<br />email: independenceday@walla .com</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=136&amp;sid=85&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

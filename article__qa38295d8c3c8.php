@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -122,7 +129,17 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center><br /><br /><i>Lê Văn Ðặng</i><br /> <br /><hr /><p>Dans son rapport de présentation concernant la traduction française de M. Huỳnh Khắc Dụng, parue dans le Bulletin de la Société des Études Indochinoises, M. Lê Ngọc Trụ a écrit en 1955:</p><br /><p><i>“La femme de lettres Ðoàn Thị Ðiểm, toute remplie d’admiration pour le chef-d’œuvre de Ðặng Trần Côn, se mit à traduire le Chinh-phụ ngâm en langue vietnamienne.  D’après M. Hoàng Xuân Hãn, il y a en tout quatre traductions différentes dont une seule, de loin supérieure aux autres, a connu un éclatant succès qui se maintient jusqu’à nos jours.  La tradition veut qu’il soit l’œuvre de Ðoàn Thị Ðiểm.  M. Hoàng Xuân Hãn en attribue la paternité à Phan Huy Ích (1749-1822).  La controverse n’est toujours pas transchée."</i></p><br /><p><i>"Ce qui est certain, c’est que cette version en langue vietnamienne, qui comprend 412 vers disposés selon une métrique essentiellement vietnamienne (alternance de vers de 7-7, 6-8 pieds), jouit auprès du public d’une plus grande faveur que le texte original en caractères chinois.</i></p><br /><p><i>“Récemment M. Maurice Durand, dans le bulletin de la société (2e trimestre 1953) a le mérite de nous faire goûter une version du Chinh-phụ ngâm, faite à partir du texte original en chinois et non à travers la version vietnamienne de Ðoàn Thị Ðiểm.  La traduction suit de près le texte en caractères.  M. Huỳnh Khắc Dụng se propose, à son tour, de présenter une œuvre littéraire, en essayant de traduire en une prose poétique, dotée de notes explicatives plus claires.  La version de M. Huỳnh Khắc Dụng complète celle de M. Maurice Durand.”</i></p><br /><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><br /><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center><br />Lê Văn Ðặng<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center>
+<br />
+<br /><i>Lê Văn Ðặng</i>
+<br /> <br /><hr /><p>Dans son rapport de présentation concernant la traduction française de M. Huỳnh Khắc Dụng, parue dans le Bulletin de la Société des Études Indochinoises, M. Lê Ngọc Trụ a écrit en 1955:</p>
+<br /><p><i>“La femme de lettres Ðoàn Thị Ðiểm, toute remplie d’admiration pour le chef-d’œuvre de Ðặng Trần Côn, se mit à traduire le Chinh-phụ ngâm en langue vietnamienne.  D’après M. Hoàng Xuân Hãn, il y a en tout quatre traductions différentes dont une seule, de loin supérieure aux autres, a connu un éclatant succès qui se maintient jusqu’à nos jours.  La tradition veut qu’il soit l’œuvre de Ðoàn Thị Ðiểm.  M. Hoàng Xuân Hãn en attribue la paternité à Phan Huy Ích (1749-1822).  La controverse n’est toujours pas transchée."</i></p>
+<br /><p><i>"Ce qui est certain, c’est que cette version en langue vietnamienne, qui comprend 412 vers disposés selon une métrique essentiellement vietnamienne (alternance de vers de 7-7, 6-8 pieds), jouit auprès du public d’une plus grande faveur que le texte original en caractères chinois.</i></p>
+<br /><p><i>“Récemment M. Maurice Durand, dans le bulletin de la société (2e trimestre 1953) a le mérite de nous faire goûter une version du Chinh-phụ ngâm, faite à partir du texte original en chinois et non à travers la version vietnamienne de Ðoàn Thị Ðiểm.  La traduction suit de près le texte en caractères.  M. Huỳnh Khắc Dụng se propose, à son tour, de présenter une œuvre littéraire, en essayant de traduire en une prose poétique, dotée de notes explicatives plus claires.  La version de M. Huỳnh Khắc Dụng complète celle de M. Maurice Durand.”</i></p>
+<br /><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p>
+<br /><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center>
+<br />Lê Văn Ðặng
+<br />
 	</td>
 </tr>
 </table>
@@ -167,7 +184,7 @@ Send Your Comment</a>
 <tr>
 	<td class="type6" align="center">
 	The comments are owned by the poster. VietnamJournal is not responsible for its content.
-	</td>
+	</td>https:
 </tr>
 </table>
 <br /><br />

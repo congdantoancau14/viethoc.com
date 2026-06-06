@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="EN">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="EN">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <title>VVH - Forum :: Việt Sử - VN History :: Thư ngỏ gửi tất cả các bạn tham gia diễn dàn Việt Học</title>
@@ -26,7 +26,7 @@
     <td width="24" style="background-image : url(themes/vvh/boxstyles/img/leftBg.gif)"><img height="8" alt="" src="themes/vvh/boxstyles/img/leftBg.gif" width="24" border="0" /></td>
     <td width="100%" nowrap style="background-color : #ffff00">
       <div style="color : #0000ff; font-family : arial, helvetica;  font-size : 12px;letter-spacing : .3em; text-align : left; font-weight : bold">Thông báo</div><hr />
-      <div style="text-align : left;">&bull; <a href="http://elearning.viethoc.org">Lớp Hàm Thụ Online</a></div>
+      <div style="text-align : left;">&bull; <a href="https://elearning.viethoc.org">Lớp Hàm Thụ Online</a></div>
     </td>
     <td width="24" style="background-image : url(themes/vvh/boxstyles/img/rightBg.gif)"><img height="8" alt="" src="themes/vvh/boxstyles/img/rightBg.gif" width="24" border="0" /></td>
   </tr>
@@ -178,8 +178,8 @@
     <div align="center">
       <div class="PDDiv">
                 <span class="PhorumTitleText PhorumLargeFont">
-          <a href="http://www.viethoc.org/phorum/list.php?10">Việt Sử - VN History</a>&nbsp;:&nbsp;          Diễn Đàn Viện Việt Học        </span>
-        <a href="http://www.viethoc.org/phorum/index.php" style="border-bottom:none"><img src="/px/pic65.gif" width="270" height="107" border="0" /></a>        <div class="PhorumFloatingText">This forum hosts all discussions on VH History topic. &nbsp;</div>
+          <a href="https://www.viethoc.org/phorum/list.php?10">Việt Sử - VN History</a>&nbsp;:&nbsp;          Diễn Đàn Viện Việt Học        </span>
+        <a href="https://www.viethoc.org/phorum/index.php" style="border-bottom:none"><img src="/px/pic65.gif" width="270" height="107" border="0" /></a>        <div class="PhorumFloatingText">This forum hosts all discussions on VH History topic. &nbsp;</div>
 
     <style type="text/css">
     .mod_smileys_img {
@@ -188,9 +188,9 @@
     }
     </style> <div class="PhorumNavBlock" style="text-align: left;">
   <div style="float: right;">
-    <span class="PhorumNavHeading">Goto Thread:</span>&nbsp;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,1144862383,newer">Previous</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,1144862383,older">Next</a>
+    <span class="PhorumNavHeading">Goto Thread:</span>&nbsp;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,1144862383,newer">Previous</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,1144862383,older">Next</a>
   </div>
-  <span class="PhorumNavHeading PhorumHeadingLeft">Goto:</span>&nbsp;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/index.php">Forum List</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/list.php?10">Message List</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/posting.php?10">New Topic</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/search.php?10">Search</a>&bull;</div>
+  <span class="PhorumNavHeading PhorumHeadingLeft">Goto:</span>&nbsp;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/index.php">Forum List</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/list.php?10">Message List</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/posting.php?10">New Topic</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/search.php?10">Search</a>&bull;</div>
     <div class="PhorumReadMessageBlock">
         <div class="PhorumStdBlock">
 <div class="type4">
@@ -215,7 +215,7 @@ Mong các bạn hiểu và thông cảm cho chúng tôi.<br />
 Admin</HTML></div><br />
           </div>
         <div class="PhorumReadNavBlock" style="text-align: right;">
-      <span class="PhorumNavHeading PhorumHeadingLeft">Options:</span>&nbsp;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,5839,5839#REPLY">Reply To This Message</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,5839,5839,quote=1#REPLY">Quote This Message</a>    </div>
+      <span class="PhorumNavHeading PhorumHeadingLeft">Options:</span>&nbsp;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,5839,5839#REPLY">Reply To This Message</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,5839,5839,quote=1#REPLY">Quote This Message</a>    </div>
   </div>
       <a name="msg-6298"></a>
     <div class="PhorumReadMessageBlock">
@@ -230,7 +230,7 @@ Admin</HTML></div><br />
 Xin các bạn đóng góp các ý kiến một cách hòa nhã vào trong các chủ đề trên.</div><br />
           </div>
         <div class="PhorumReadNavBlock" style="text-align: right;">
-      <span class="PhorumNavHeading PhorumHeadingLeft">Options:</span>&nbsp;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,5839,6298#REPLY">Reply To This Message</a>&bull;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/read.php?10,5839,6298,quote=1#REPLY">Quote This Message</a>    </div>
+      <span class="PhorumNavHeading PhorumHeadingLeft">Options:</span>&nbsp;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,5839,6298#REPLY">Reply To This Message</a>&bull;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/read.php?10,5839,6298,quote=1#REPLY">Quote This Message</a>    </div>
   </div>
       <a name="msg-9437"></a>
     <div class="PhorumReadMessageBlock">
@@ -240,14 +240,22 @@ Xin các bạn đóng góp các ý kiến một cách hòa nhã vào trong các 
             <div class="PhorumReadBodyHead">Posted by: <strong>Lê Bắc</strong> (---.dsl.sntc01.pacbell.net)</div>
       <div class="PhorumReadBodyHead">Date: April 12, 2006 10:19AM</div>
 </div>
-      <div class="PhorumReadBodyText"> Lúc này có nhiều thiếp bị đăng những bài không có liên quan đến chủ đề (bots, spams, hijacked threads).<br />
-<br />
-1. Xin quý bạn chỉ đăng những góp ý liên quan đến chủ đề của thiếp, nếu không liên quan thì xin mở một thiếp mới.<br />
-<br />
-2. Diễn đàn có trang bị bàn gõ tiếng Việt, xin quý bạn viết tiếng Việt bỏ dấu cho rõ ràng.<br />
-<br />
-Những bài nào vi phạm 2 điều trên sẽ bị xóa bỏ.  Nếu bạn nào vi phạm thường xuyên, tôi xin mạn phép dùng function của forum này để xóa bỏ tất cả các bài viết của bạn đó từ trước đến nay, đó là một điều rất tiếc vì có thể trong đó có những bài có giá trị, tuy nhiên vì không có thời giờ và nhân lực để xem xét hết tất cả các thiếp và lọc ra những thiếp có giá trị hay vi phạm nội qui, v.v.. do đó việc dùng built-in function của forum để xóa bỏ tất cả các bài viết của một người là việc vạn bất đắc dĩ để bảo toàn tính nghiêm túc và diskspace của diễn đàn.<br />
-<br />
+      <div class="PhorumReadBodyText"> Lúc này có nhiều thiếp bị đăng những bài không có liên quan đến chủ đề (bots, spams, hijacked threads).
+<br />
+
+<br />
+1. Xin quý bạn chỉ đăng những góp ý liên quan đến chủ đề của thiếp, nếu không liên quan thì xin mở một thiếp mới.
+<br />
+
+<br />
+2. Diễn đàn có trang bị bàn gõ tiếng Việt, xin quý bạn viết tiếng Việt bỏ dấu cho rõ ràng.
+<br />
+
+<br />https:https:
+Những bài nào vi phạm 2 điều trên sẽ bị xóa bỏ.  Nếu bạn nào vi phạm thường xuyên, tôi xin mạn phép dùng function của forum này để xóa bỏ tất cả các bài viết của bạn đó từ trước đến nay, đó là một điều rất tiếc vì có thể trong đó có những bài có giá trị, tuy nhiên vì không có thời giờ và nhân lực để xem xét hết tất cả các thiếp và lọc ra những thiếp có giá trị hay vi phạm nội qui, v.v.. do đó việc dùng built-in function của forum để xóa bỏ tất cả các bài viết của một người là việc vạn bất đắc dĩ để bảo toàn tính nghiêm túc và diskspace của diễn đàn.
+<br />
+
+<br />https:
 Lê Bắc.</div><br />
           </div>
         <div class="PhorumReadNavBlock" style="text-align: right;">
@@ -264,7 +272,7 @@ Lê Bắc.</div><br />
 <input type="hidden" name="email" value="" />
 <input type="hidden" name="forum_id" value="10" />
 <input type="hidden" name="thread" value="5839" />
-<input type="hidden" name="parent_id" value="5839" />
+<input type="hidden" name="parent_id" value="5839" />https:https:https:
 <input type="hidden" name="allow_reply" value="1" />
 <input type="hidden" name="special" value="" />
 <input type="hidden" name="attachments" value="a:0:{}" />
@@ -335,13 +343,13 @@ Lê Bắc.</div><br />
 &nbsp;<b>Th&#432; t&#7915; li&#234;n l&#7841;c</b>: &nbsp;P.O Box 11900 Westminster, CA 92685-1900<br />
 </font>
 </td>
-<td align="right"><font color="#F6A800">
+<td alignhttps:ht"><font color="#F6A800">https:
 <b>Gi&#7901; l&#224;m vi&#7879;c</b>: Th&#7913; hai &#273;&#7871;n th&#7913; s&#225;u: 2:00PM - 6:00PM<br>
 
 Th&#7913; b&#7843;y: 10:30AM - 12:30PM. Ch&#7911; nh&#7853;t: &#272;&#243;ng c&#7917;a<br>
 <img src="themes/vvh/img/iconfone.gif" align="middle" width="16" height="16" border="0" />714-775-2050</font>
-<img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0" />
-<a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
+<img src="themes/vvhhttps:iconmail.gif" align="middle" width="16" height="16" border="0" />
+<a href="mailto:info@viethoc.https:style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0" />
 <a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
 </td></tr>

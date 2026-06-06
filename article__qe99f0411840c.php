@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -105,7 +105,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font size=2><center><i>Bạn có thể đọc Ðại-Việt Thông-Sử, soạn bởi Lê Quý Ðôn (1759) ngay trên web. Hãy vào trang <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Sách Việt-sử</a></i><br>-- Phuong-Lan<br></center></font>
+	<font size=2><center><i>Bạn có thể đọc Ðại-Việt Thông-Sử, soạn bởi Lê Quý Ðôn (1759) ngay trên web. Hãy vào trang <a href="https://www.viethoc.org/content.php?menu=24&page_id=47">Sách Việt-sử</a></i><br>-- Phuong-Lan<br></center></font>
 	</td>
 </tr>
 </table>
@@ -165,7 +165,7 @@
 <br />噫吁戲危乎高哉         - Y hu hy, nguy hồ, cao tai,
 <br />蜀道之難難於上青天   - Thục đạo chi nan, nan ư thướng thanh thiên !
 <br />
-<br />Xin mời quý bạn vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài "<a href="/eholdings/LyBach-DTP_Rev-1.pdf">Khi Phương Tây Ái Mộ Phương Đông</a>" của giáo sư <b>Ðàm Trung Pháp</b>.
+<br />Xin mời quý bạn vào <a href="https://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài "<a href="/eholdings/LyBach-DTP_Rev-1.pdf">Khi Phương Tây Ái Mộ Phương Đông</a>" của giáo sư <b>Ðàm Trung Pháp</b>.
 <br />
 <br /><b><i>Lê Văn Ðặng</i></b>
 <br /> 
@@ -230,7 +230,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

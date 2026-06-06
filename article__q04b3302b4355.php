@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="http://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="https://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -116,7 +116,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font size=2><center><i>Hai lớp <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target ="new_window">Việt Sử 100A</a> và <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target ="new_window">200A</a> sắp khai giảng. Bạn có thể ghi danh bằng cách email về info@viethoc.org hoặc điện thọai (714)775-2050.</i><br>-- <br></center></font>
+	<font size=2><center><i>Hai lớp <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target ="new_window">Việt Sử 100A</a> và <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target ="new_window">200A</a> sắp khai giảng. Bạn có thể ghi danh bằng cách email về info@viethoc.org hoặc điện thọai (714)775-2050.</i><br>-- <br></center></font>
 	</td>
 </tr>
 </table>
@@ -190,7 +190,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>To shed some light into the mystery of how Nôm characters were formed and then simplified, Prof. Lê Văn Ðặng just released an article <a href="eholdings/SimplifyNom.pdf">(Simplication in Nôm Characters)</a> on this topic. Start from the principles, Prof. Lê clearly explains the process how Nôm characters were first formed and then simplified to become the characters we have today. This "distillation" process of Nôm characters has been a neglected topic or went on unexplain in many Nôm teaching books. Please join us on this interesting article, and if you have any comments or questions for Prof. Lê, swing by our <a href="http://www.viethoc.org/phorum/index.php?f=5">Nôm Forums</a>,  for you most likely to find him there. <br />Nôm characters were generally created by:
+	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>To shed some light into the mystery of how Nôm characters were formed and then simplified, Prof. Lê Văn Ðặng just released an article <a href="eholdings/SimplifyNom.pdf">(Simplication in Nôm Characters)</a> on this topic. Start from the principles, Prof. Lê clearly explains the process how Nôm characters were first formed and then simplified to become the characters we have today. This "distillation" process of Nôm characters has been a neglected topic or went on unexplain in many Nôm teaching books. Please join us on this interesting article, and if you have any comments or questions for Prof. Lê, swing by our <a href="https://www.viethoc.org/phorum/index.php?f=5">Nôm Forums</a>,  for you most likely to find him there. <br />Nôm characters were generally created by:
 <br /><LI>Adapting / borrowing  an existing character from Chinese using sound (in Hán-Việt) or meaning or both sound and meaning; 
 <br /><LI>Grouping two (or more) existing characters called elements.
 <br />However, when engraving these characters on wood for printing or hand copying, the artisan sometime left out one element, frequently the middle element. The Nôm character is now simplified. This simplification makes the translation into Quốc ngữ and understanding of this writing even more difficult. Professor Lê, after many years researching on this subject, has discovered many examples of this simplification process. He will share with us his findings, along with explanation on the simplified Nôm characters background. Please join us, traverse the time in history to see why the simplification of Nôm had made this ancient writing becomes the most interesting language to learn, as professor Lê wrote <I>"... When reading or translating a Nôm work into Quốc ngữ, several factors involve: the When, Who, Where, What and Why questions must have reasonable answers...".</I> 
@@ -256,7 +256,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

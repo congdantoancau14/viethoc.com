@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -153,36 +160,36 @@
                         <option  value="14">2 weeks</option>
                         <option  value="31">1 month</option>
 			<option  value="62">2 months</option>
-                        <option  value="93">3 months</option>
-                </select></form>
-                </td></tr></table>
-<table width="99%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-	<td class="type5">"" <br />Announcements matching your query are:<br /><hr /></td>
-</tr>
-		<tr><td class="type5"><a href="article.php?sid=97"><b>Giới thiệu: Tự Điển Chữ Nôm Trích Dẫn, fonts và bàn gõ.</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 08 February @ 05:28:40 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=96"><b>Bản tóm tắt bài Thuyết-trình</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Friday 10 December @ 11:36:36 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=95"><b>Giới thiệu: Văn như Siêu Quát ...</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Tuesday 19 October @ 16:10:18 (<span class="boldtext">1</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=94"><b>Ngày Đại Học - College Day</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Thursday 30 September @ 15:29:37 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=93"><b>Thuyết trình: Tinh-lý của Thơ Ðường</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Tuesday 24 August @ 03:04:20 (<span class="boldtext">2</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=92"><b>Giới thiệu: Chinh Phụ Ngâm của Đặng Trần Côn</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Tuesday 24 August @ 02:55:56 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=91"><b>Thuyết trình: Khái quát về chữ Nôm & Chữ Hán và tiếng Hán-Việ</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 28 April @ 10:50:54 (<span class="boldtext">7</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=90"><b>Thuyết trình: Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 23 March @ 16:58:04 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=89"><b>Bài tựa  Lam Sơn Thực Lục 藍山實錄序</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 18 February @ 14:00:35 (<span class="boldtext">6</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=88"><b>Thuyết trình: André Malraux và Việt-Nam</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Thursday 05 February @ 14:24:27 (<span class="boldtext">3</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=87"><b>Thuyết trình: Thơ và Tuổi Trẻ Việt Nam.</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Tuesday 20 January @ 01:13:20 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=86"><b>Tự Ðức Thánh Chế Tự Học Giải Nghĩa Ca</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 07 January @ 12:06:05 (<span class="boldtext">1</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=85"><b>Giáo sư Trần Ngọc Ninh thuyết trình tại Viện Việt-Học</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Thursday 18 December @ 09:13:25 (<span class="boldtext">17</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=81"><b>Lời Nguyện Tâm Quyết của Ngài Quảng Ðức</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Thursday 16 October @ 10:51:36 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=80"><b>Chinh-phụ ngâm en français</b></a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 15 October @ 15:02:07 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=77"><b>Trầm bổng chuông ngân</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Thursday 24 July @ 19:45:11 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=76"><b>Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</b></a> by: <a href="http://www.viethoc.org">admin</a> on: Wednesday 23 July @ 12:54:09 (<span class="boldtext">23</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=75"><b>Trao đổi với Lê Hữu Mục...</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Wednesday 16 July @ 11:55:15 (<span class="boldtext">3</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=74"><b>Nguyễn Ngọc Bích và Thơ Hồ Xuân Hương</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Tuesday 24 June @ 14:59:05 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=70"><b>Bản dịch tiếng Nhựt Chinh Phụ Ngâm Diễn Ca</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Friday 23 May @ 09:51:05 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=69"><b>Thuyết trình: VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Monday 21 April @ 10:27:19 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=68"><b>Chinh Phụ Ngâm Khúc  征 婦 吟 曲 - The Song of a Soldier's Wife</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Wednesday 02 April @ 10:45:59 (<span class="boldtext">0</span>)</td></tr>
-<tr><td class="type5"><a href="article.php?sid=67"><b>Tuồng Lý Thiên Long</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Tuesday 01 April @ 23:17:09 (<span class="boldtext">0</span>)</td></tr>
+                        <option  value="93">3 months</option>https:
+                </select></form>https:
+                </td></tr></table>https:
+<table width="99%" cellspacing="0" cellpadding="0" border="0">https:
+<tr>https:
+	<td class="type5">"" <br />Announcements matching your query are:<br /><hr /></td>https:
+</tr>https:
+		<tr><td class="type5"><a href="article.php?sid=97"><b>Giới thiệu: Tự Điển Chữ Nôm Trích Dẫn, fonts và bàn gõ.</b></a> by: <https:f="http://www.viethoc.org">avuong</a> on: Tuesday 08 February @ 05:28:40 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=96"><b>Bản tóm tắt bài Thuyết-trình</b></a> by: <a href="htthttps:ww.viethoc.org">avuong</a> on: Friday 10 December @ 11:36:36 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=95"><b>Giới thiệu: Văn như Siêu Quát ...</b></a> by: <a href="http:/https:viethoc.org">admin</a> on: Tuesday 19 October @ 16:10:18 (<span class="boldtext">1</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=94"><b>Ngày Đại Học - College Day</b></a> by: <a href="http://www.vihttps:.org">admin</a> on: Thursday 30 September @ 15:29:37 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=93"><b>Thuyết trình: Tinh-lý của Thơ Ðường</b></a> by: <a href="hthttps:www.viethoc.org">admin</a> on: Tuesday 24 August @ 03:04:20 (<span class="boldtext">2</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=92"><b>Giới thiệu: Chinh Phụ Ngâm của Đặng Trần Côn</b></a> by: <a href="http://wwhttps:thoc.org">admin</a> on: Tuesday 24 August @ 02:55:56 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=91"><b>Thuyết trình: Khái quát về chữ Nôm & Chữ Hán và tiếng Hán-Việhttps:/a> by: <a href="http://www.viethoc.org">avuong</a> on: Wednesday 28 April @ 10:50:54 (<span class="boldtext">7</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=90"><b>Thuyết trình: Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Thttps:</a> by: <a href="http://www.viethoc.org">avuong</a> on: Tuesday 23 March @ 16:58:04 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=89"><b>Bài tựa  Lam Sơn Thực Lục 藍山實錄序</b></a> by:https:ref="http://www.viethoc.org">avuong</a> on: Wednesday 18 February @ 14:00:35 (<span class="boldtext">6</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=88"><b>Thuyết trình: André Malraux và Việt-Nam</b></a> by: <a href="http://www.viehttps:org">admin</a> on: Thursday 05 February @ 14:24:27 (<span class="boldtext">3</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=87"><b>Thuyết trình: Thơ và Tuổi Trẻ Việt Nam.</b></a> https:a href="http://www.viethoc.org">admin</a> on: Tuesday 20 January @ 01:13:20 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=86"><b>Tự Ðức Thánh Chế Tự Học Giải Nghĩa Ca</b></a> by: <a href="https://www.viethoc.org">avuong</a> on: Wednesday 07 January @ 12:06:05 (<span class="boldtext">1</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=85"><b>Giáo sư Trần Ngọc Ninh thuyết trình tại Viện Việt-Học</b></a> byhttps:href="http://www.viethoc.org">admin</a> on: Thursday 18 December @ 09:13:25 (<span class="boldtext">17</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=81"><b>Lời Nguyện Tâm Quyết của Ngài Quảng Ðức</b></a> by: <a href="http://www.vihttps:.org">avuong</a> on: Thursday 16 October @ 10:51:36 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=80"><b>Chinh-phụ ngâm en français</b></a> by: <a href="http://www.viethoc.org">avuong</ahttps: Wednesday 15 October @ 15:02:07 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=77"><b>Trầm bổng chuông ngân</b></a> by: <a hrefhttps:p://www.viethoc.org">admin</a> on: Thursday 24 July @ 19:45:11 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=76"><b>Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</b></a> by: <https:f="http://www.viethoc.org">admin</a> on: Wednesday 23 July @ 12:54:09 (<span class="boldtext">23</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=75"><b>Trao đổi với Lê Hữu Mục...</b></a> by: <a href="http://https:iethoc.org/">plan</a> on: Wednesday 16 July @ 11:55:15 (<span class="boldtext">3</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=74"><b>Nguyễn Ngọc Bích và Thơ Hồ Xuân Hương</b></a> by: https:ef="http://www.viethoc.org/">plan</a> on: Tuesday 24 June @ 14:59:05 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=70"><b>Bản dịch tiếng Nhựt Chinh Phụ Ngâm Diễn Ca</b></a> by: <a href="hthttps:www.viethoc.org/">plan</a> on: Friday 23 May @ 09:51:05 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=69"><b>Thuyết trình: VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</b></a> by: <a href="htthttps:ww.viethoc.org/">plan</a> on: Monday 21 April @ 10:27:19 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=68"><b>Chinh Phụ Ngâm Khúc  征 婦 吟 曲 - The Song of a Soldier's Wihttps:></a> by: <a href="http://www.viethoc.org/">plan</a> on: Wednesday 02 April @ 10:45:59 (<span class="boldtext">0</span>)</td></tr>
+<tr><td class="type5"><a href="article.php?sid=67"><b>Tuồng Lý Thiên Long</b></a> by: <a href="htthttps:ww.viethoc.org/">plan</a> on: Tuesday 01 April @ 23:17:09 (<span class="boldtext">0</span>)</td></tr>
 <tr><td class="type5"><a href="article.php?sid=66"><b>Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Thursday 20 March @ 16:00:06 (<span class="boldtext">0</span>)</td></tr>
 <tr><td class="type5"><a href="article.php?sid=65"><b>Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Thursday 13 March @ 16:13:48 (<span class="boldtext">1</span>)</td></tr>
 <tr><td class="type5"><a href="article.php?sid=64"><b>Chinh Phụ Ngâm Khúc  征 婦 吟 曲</b></a> by: <a href="http://www.viethoc.org/">plan</a> on: Monday 03 March @ 13:48:36 (<span class="boldtext">3</span>)</td></tr>
@@ -200,7 +207,7 @@
 </tr>
 </table>
 </td>
-</tr>
+</tr>https:
 </table>
 
 	<center><span class="smalltextatbottom">

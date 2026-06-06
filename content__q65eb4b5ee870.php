@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -128,7 +128,7 @@
           <table width="100%"><tr><td class="type5" valign="top" colspan="2"><p><center><img src="/images/user_pages/trangthanhuu.jpg"/></center><br />
 Viện Việt-Học xin trân trọng lưu trữ những tài liệu, những bài khảo luận, những sáng tác quý giá đã nhận được từ các bạn hữu tại trang Thân Hữu này để chúng ta cùng nhau tham luận và học hỏi. Chúng tôi cũng xin thành thật cảm ơn sự đóng góp của các bạn hữu cùng bạn đọc.<br /><br /><br /><hr /></p><tr><td class="type5" valign="top" colspan="2"><p><p><center><img src="images/user_pages/thngonngu.jpg" border="0"></center></p>
 <UL>
-<LI> <a img="http://www.vnx.org/eholdings/T_BiaTruoc.jpg" border="1"><a href="http://www.vnx.org/eholdings/Syntax.pdf">Tiếng Việt và Ngôn Ngữ Học Hiện Đại</a>, <i>Vũ Tiến Dũng</i><br>
+<LI> <a img="https://www.vnx.org/eholdings/T_BiaTruoc.jpg" border="1"><a href="https://www.vnx.org/eholdings/Syntax.pdf">Tiếng Việt và Ngôn Ngữ Học Hiện Đại</a>, <i>Vũ Tiến Dũng</i><br>
 Vũ Tiến Dũng hiện đang định cư tại Germany. Ông theo học Tin học, Ngôn ngữ học điện toán (UniStuttgart), chuyên sâu về ứng dụng trí thông minh nhân tạo trong lĩnh vực tự động hóa. Từ năm 1988 cho đến nay, ông nghiên cứu, giảng dạy, thực hiện, cố vấn kỹ nghệ về kỹ thuật tự động hóa (Competence Center for Machine Tools and Special Machines, Siemens AG, Stuttgart, Automation Research Center of Siemens - UniErlangen, Germany). Đây là cuốn sách thứ nhất thuộc chuỗi chuyên luận Tiếng Việt  và Ngôn Ngữ Học Hiện Đại của ông. <i>"Toàn chuỗi chuyên luận này sẽ cố gắng làm sáng tỏ sự khác biệt bằng những lý thuyết ngôn ngữ học mới (Functional Grammar, Lexical Functional Grammar, GPSG, HPSG, ...), xa hơn nữa là gợi ra những tiền đề có thể sử dụng tin học, biến tiếng Việt thành những ứng dụng hữu ích và nhân bản..."</i> (trích trang bìa sau của cuốn sách).
 </li></p><tr><td class="type5" valign="top" colspan="2"><p><hr size="1">
 <p><center><img src="images/user_pages/thvanhoa.jpg" border="0"></center></p>
@@ -139,7 +139,7 @@ Bài khảo cứu về Lịch Tây Lịch Ta / Tàu.  Trong bài này, tác gi�
 <LI><a href="eholdings/LSKDTVNVVH.pdf">Lược-Sử Kinh Dịch Tại Việt Nam</a>, <i>Việt Chi Nguyễn-Hữu Quang</i> (PDF, 191KB) - Revised Feb 15, 2002<br>
 Đây là nguyên-bản bài "Lược-sử Kinh Dịch tại VN" để thay thế bài rút gọn đã đăng. Nội-dung và sử-kiện vẫn y cũ.
 </LI><br /><br />
-<li><a href="http://www.viethoc.com/content.php?menu=2400&page_id=57" target="new_window">Ý Nghĩa Quốc Hiệu Lạc Việt</a>, <i>GS Vũ Thế Ngọc</i> (HTML)<br />
+<li><a href="https://www.viethoc.com/content.php?menu=2400&page_id=57" target="new_window">Ý Nghĩa Quốc Hiệu Lạc Việt</a>, <i>GS Vũ Thế Ngọc</i> (HTML)<br />
 Do GS Vũ Thế Ngọc viết, đăng trong Đặc San Đền Hùng, Xuân Kỷ Tỵ 1989, San Jose - Anh Lê Bắc trích lại đăng trong Forum-VN History (6/27/2001)<br></li><br>
 <li><a href="eholdings/SoKienHanh.pdf" target="new_window">Sở Kiến Hành của Nguyễn Du</a>, <i>TKDang dịch</i> (PDF, 181KB)<br />
 Do ông TKDang viết gửi vào trang nhà Viện Việt-học (8/7/2002)<br></li><br>
@@ -164,7 +164,7 @@ Do ông Ðoàn Xuân Kiên viết gửi vào trang nhà Viện Việt-học (6/4
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

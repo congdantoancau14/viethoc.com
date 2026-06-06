@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -115,14 +122,18 @@
 	<td class="type0">
 <table width="100%" border="0" cellspacing="1" cellpadding="3" summary="Data for Generic Block">
 <tr>
-	<td class="type4">
+	<td class="type4">https:https:
 	<span class="type4bigger">Tỳ Bà Hành ( 琵琶行) - Bản mới</span><br />
 		Posted on Friday 14 February @ 13:37:00
 	</td>
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Trước đây Viện Việt-Học có phổ biến bài Tỳ Bà Hành ( 琵琶行) của Bạch Cư Dị (白居易),  với lời Tựa do Nguyễn Hữu Vinh dịch.  Quý khách nào có chép và lưu trữ bài hành này xin cảm phiền chép lại <a href="http://www.viethoc.org/eholdings/TyBaHanh-2.pdf">bản mới</a>.  <br /><br />Ngoài ra chúng tôi thỉnh cầu quý vị nào phổ biến tài liệu lấy từ trang Web Việt-Học nên tôn trọng tác quyền, thông thường phải được sự ưng thuận của Viện Việt-Học.  <br /><p>Quý vị có thể vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc nguyên tác Tỳ Bà Hành và bản dịch của Phan Huy Vịnh.</p><br /><br />Viện Việt Học
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Trước đây Viện Việt-Học có phổ biến bài Tỳ Bà Hành ( 琵琶行) của Bạch Cư Dị (白居易),  với lời Tựa do Nguyễn Hữu Vinh dịch.  Quý khách nào có chép và lưu trữ bài hành này xin cảm phiền chép lại <a href="http://www.viethoc.org/eholdings/TyBaHanh-2.pdf">bản mới</a>.  
+<br />
+<br />Ngoài ra chúng tôi thỉnh cầu quý vị nào phổ biến tài liệu lấy từ trang Web Việt-Học nên tôn trọng tác quyền, thông thường phải được sự ưng thuận của Viện Việt-Học.  <br /><p>Quý vị có thể vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc nguyên tác Tỳ Bà Hành và bản dịch của Phan Huy Vịnh.</p>
+<br />
+<br />Viện Việt Học
 	</td>
 </tr>
 </table>
@@ -171,7 +182,29 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="133"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành ( 琵琶行) - Bản mới</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 29 July @ 04:32:47</td></tr><tr><td class="type5">Nhan xet ve ban dich Ty Ba Hanh cua Bach Cu Dị cua Nguyen Huu Vinh<br />1/ Ban duoc post len moi day goi la da sua thuc chat dich gia chi sua co phan loi tua cua tac gia ma thoị<br />2/ Phan dich cua ong Nguyen Huu Vinh qua nhieu cho sai :<br />           2.1. Bach Cu Di không phai là vui lòng ve giu chuc Tu Mã o quan Cuu Giang. Ông bi that sung o Kinh dô, nên bi thuyên chuyen ve Cuu Giang. Nên biet rang ngày xua, dang làm quan o Kinh dô mà bi thuyên chuyen tuc là bi luu dày. Có lë ông Vinh không hieu rõ su viec này, dong thoi không hieu rõ nghïa ch» tä thiên mà Bach Cu Di dã viet trong câu dau cua loi tua. Tä thiên chính là bi thÃt sung, bi dày (thuyên chuyen) ve nhà quê.<br />           2.2 Bach Cu Di là nguoi làm quan, mà làm quan thoi phong kien là thuc giai nguoi cao quí cûa xã hoi, nên không the có loi nói quá lich su voi con hát nhu loi dich cûa ông Vinh duoc.<br />           2.3. Ông Vinh, cung vì không hieu cái tình tiet cûa Bach Cu Di bi tä thiên nên dã dich sai hoàn toàn doan cuoi cùng. Ông dich: Hôm nay nghe nàng này nói chuyen, cam thuong cho so phan luu dày!<br />           Sai !<br />Nguyên van: Du xuÃt quan nhi niên diem nhiên tu an cam tu nhân ngôn thi tich thûy giác huu thiên trích y nhân vi truong cú ca dï tang chi phàm luc bách nhÃt thap luc ngôn menh viet Ty Bà Hành.<br />   Nghïa là: Ta làm quan (o dây) dã duoc hai nam, tu thay lòng bình on. Nghe nguoi này nói chieu nay, thì lan dau tiên moi cam thay cái y (buon) cua su  thiên trích....<br />   Chu thuy o dây nghïa là lan dau tiên, chu giác là tinh ra, nho ra, cam thÃy, chu thiên tuc là tä thiên nghïa là bi làm quan bi dày ve vùng xa,  chu trích là trích biem, tuc là bi giáng chuc.<br />   Tóm lai, Bach Cu Di vì nghe chuyen cua nguoi ca nu già nua kia, roi long cái so phan ham hiu cua nguoi dó vào cái canh bi dày ai trích biem cua mình, và nhân dó, tuc canh sinh tình, moi làm ra bài Ty Bà Hành này vay.<br /><br />Toàn bài dich lai là nhu sau:<br /><br /> <br />琵琶行并序<br />元和十年予左遷九江郡司馬明年秋送客湓浦口聞船中夜彈琵琶者聽其音錚錚然有京都聲問其人本長安倡女嘗學琵琶於穆曹二善才年長色衰委身為賈人婦遂命酒使快彈數曲曲罷憫然自敘少小時歡樂事今漂淪憔悴轉徙於江湖間予出官二年 恬然自安感斯人言是夕始覺有遷謫意因為長句歌以贈之凡六百一十六言命曰琵琶行<br /><br />Lời tựa của tác giả<br />Năm Nguyên Hòa thứ 10, ta bi thuyên chuyen về giữ chức Tư Mã ở quận Cửu giang. Mùa thu năm sau, tiễn khách bên ben Bồn Pho, dêm nghe có nguoi dánh đàn Tỳ Bà trong thuyen. Nghe trong tiếng đàn thánh thót, có âm điệu kinh đô, bèn hỏi, thì nguoi Ãy nói: Tôi vốn là con hát ở Trường An, xua học đàn Tỳ Bà với hai thày dàn ho Mục và ho Tào. Nay tuổi già sắc tàn, moi nuong thân làm vo lái buôn. Lien cho dọn rượu ra, bäo hãy vui lòng gay vài khúc. Dàn xong, thÃy thuong hai. Nàng kể lại cuộc đời từ lúc thieu thoi chÌ lo choi boi hoan lac, bây gio sa co tieu tuy, luu lac giang hồ. Ta về đây làm quan đã được hai năm, dã tu thÃy lòng thanh thản. Nhung chieu nay lan dau tiên ta cảm thay cái noi dau kho cûa số phận bi lưu đày trích biem cûa mình. Bèn làm một bài thơ dài tang gồm 616 chu, gọi là Tỳ Bà Hành.<br />Ngoai ra theo cho toi biet thi bai tho chu Nom la do Phan Huy Vinh (1800-1870) chau noim cu Phan Huy Ich dich chu khong phai ong Le Van Dang dich xin chinh lai cho dung.<br />De nghi ongNguyen Huu Vinh xem lai phan dich cua ong.<br />Thanh Van Dang Gia Thoai Sydney Australia</td></tr></table><br />[ 
+<a name="133"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành ( 琵琶行) - Bản mới</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 29 July @ 04:32:47</td></tr><tr><td class="type5">Nhan xet ve ban dich Ty Ba Hanh cua Bach Cu Dị cua Nguyen Huu Vinh
+<br />1/ Ban duoc post len moi day goi la da sua thuc chat dich gia chi sua co phan loi tua cua tac gia ma thoị
+<br />2/ Phan dich cua ong Nguyen Huu Vinh qua nhieu cho sai :
+<br />           2.1. Bach Cu Di không phai là vui lòng ve giu chuc Tu Mã o quan Cuu Giang. Ông bi that sung o Kinh dô, nên bi thuyên chuyen ve Cuu Giang. Nên biet rang ngày xua, dang làm quan o Kinh dô mà bi thuyên chuyen tuc là bi luu dày. Có lë ông Vinh không hieu rõ su viec này, dong thoi không hieu rõ nghïa ch» tä thiên mà Bach Cu Di dã viet trong câu dau cua loi tua. Tä thiên chính là bi thÃt sung, bi dày (thuyên chuyen) ve nhà quê.
+<br />           2.2 Bach Cu Di là nguoi làm quan, mà làm quan thoi phong kien là thuc giai nguoi cao quí cûa xã hoi, nên không the có loi nói quá lich su voi con hát nhu loi dich cûa ông Vinh duoc.
+<br />           2.3. Ông Vinh, cung vì khôhttps:eu cái tình tiet cûa Bach Cu Di bi tä thiên nên dã dich sai hoàn toàn doan cuoi cùng. Ông dich: Hôm nay nghe nàng này nói chuyen, cam thuong cho so phan luu dày!
+<br />           Sai !
+<br />Nguyên van: Du xuÃt quan nhi niên diem nhiên tu an cam tu nhân ngôn thi tich thûy giác huu thiên trích y nhân vi truong cú ca dï tang chi phàm luc bách nhÃt thap luc ngôn menh viet Ty Bà Hành.
+<br />   Nghïa là: Ta làm quan (o dây) dã duoc hai nam, tu thay lòng bình on. Nghe nguoi này nói chieu nay, thì lan dau tiên moi cam thay cái y (buon) cua su  thiên trích....
+<br />   Chu thuy o dây nghïa là lan dau tiên, chu giác là tinh ra, nho ra, cam thÃy, chu thiên tuc là tä thiên nghïa là bi làm quan bi dày ve vùng xa,  chu trích là trích biem, tuc là bi giáng chuc.
+<br />   Tóm lai, Bach Cu Di vì nghe chuyen cua nguoi ca nu già nua kia, roi long cái so phan ham hiu cua nguoi dó vào cái canh bi dày ai trích biem cua mình, và nhân dó, tuc canh sinh tình, moi làm ra bài Ty Bà Hành này vay.
+<br />
+<br />Toàn bài dich lai là nhu sau:
+<br />
+<br /> 
+<br />琵琶行并序
+<br />元和十年予左遷九江郡司馬明年秋送客湓浦口聞船中夜彈琵琶者聽其音錚錚然有京都聲問其人本長安倡女嘗學琵琶於穆曹二善才年長色衰委身為賈人婦遂命酒使快彈數曲曲罷憫然自敘少小時歡樂事今漂淪憔悴轉徙於江湖間予出官二年 恬然自安感斯人言是夕始覺有遷謫意因為長句歌以贈之凡六百一十六言命曰琵琶行
+<br />
+<br />Lời tựa của tác giả
+<br />Năm Nguyên Hòa thứ 10, ta bi thuyên chuyen về giữ chức Tư Mã ở quận Cửu giang. Mùa thu năm sau, tiễn khách bên ben Bồn Pho, dêm nghe có nguoi dánh đàn Tỳ Bà trong thuyen. Nghe trong tiếng đàn thánh thót, có âm điệu kinh đô, bèn hỏi, thì nguoi Ãy nói: Tôi vốn là con hát ở Trường An, xua học đàn Tỳ Bà với hai thày dàn ho Mục và ho Tào. Nay tuổi già sắc tàn, moi nuong thân làm vo lái buôn. Lien cho dọn rượu ra, bäo hãy vui lòng gay vài khúc. Dàn xong, thÃy thuong hai. Nàng kể lại cuộc đời từ lúc thieu thoi chÌ lo choi boi hoan lac, bây gio sa co tieu tuy, luu lac giang hồ. Ta về đây làm quan đã được hai năm, dã tu thÃy lòng thanh thản. Nhung chieu nay lan dau tiên ta cảm thay cái noi dau kho cûa số phận bi lưu đày trích biem cûa mình. Bèn làm một bài thơ dài tang gồm 616 chu, gọi là Tỳ Bà Hành.
+<br />Ngoai ra theo cho toi biet thi bai tho chu Nom la do Phan Huy Vinh (1800-1870) chau noim cu Phan Huy Ich dich chu khong phai ong Le Van Dang dich xin chinh lai cho dung.
+<br />De nghi ongNguyen Huu Vinh xem lai phan dich cua ong.
+<br />Thanh Van Dang Gia Thoai Sydney Australia</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=133&amp;sid=57&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

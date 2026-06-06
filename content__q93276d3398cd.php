@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -57,7 +57,7 @@
 <tr><td class="type0">
 <table width="100%" cellpadding="5" cellspacing="1" border="0" summary="Data for Main Menu">
 <tr><td class="type4">Main Menu</td></tr><tr><td class="type5">
-<a href="/index.php">Home Page</a><br /><a href="/content.php?menu=25&amp;page_id=54">About Us</a><br /><a href="/content.php?menu=17&amp;page_id=2">Announcements</a><br /><a href="/content.php?menu=14&amp;page_id=4">Activities</a><br />&nbsp;&nbsp;&nbsp;<a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục - Books Catalog</a><br />&nbsp;&nbsp;&nbsp;<a href="content.php?menu=1402&amp;page_id=60"></a><br /><a href="/content.php?menu=15&amp;page_id=24">Programs & Curriculum</a><br /><a href="/content.php?menu=12&amp;page_id=6">Organization</a><br /><a href="/content.php?menu=13&amp;page_id=12">Faculty</a><br /><a href="/content.php?menu=16&amp;page_id=25">Classes</a><br /><a href="/content.php?menu=24&amp;page_id=47">Việt-Học Thư Quán</a><br /><a href="/content.php?menu=19&amp;page_id=37">Student Corner</a><br /><a href="/content.php?menu=20&amp;page_id=42">Newsletter</a><br /><a href="/phorum/index.php">Forums - Diễn Đàn Việt Học</a><br /><a href="/submit.php">Submit News/Article</a><br /><a href="/admin.php?menu=21">Admin</a><br /><a href="month.php?menu=26">Calendar</a><br /></td></tr></table></td></tr></table>
+<a href="/index.php">Home Page</a><br /><a href="/content.php?menu=25&amp;page_id=54">About Us</a><br /><a href="/content.php?menu=17&amp;page_id=2">Announcements</a><br /><a href="/content.php?menu=14&amp;page_id=4">Activities</a><br />&nbsp;&nbsp;&nbsp;<a href="https://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục - Books Catalog</a><br />&nbsp;&nbsp;&nbsp;<a href="content.php?menu=1402&amp;page_id=60"></a><br /><a href="/content.php?menu=15&amp;page_id=24">Programs & Curriculum</a><br /><a href="/content.php?menu=12&amp;page_id=6">Organization</a><br /><a href="/content.php?menu=13&amp;page_id=12">Faculty</a><br /><a href="/content.php?menu=16&amp;page_id=25">Classes</a><br /><a href="/content.php?menu=24&amp;page_id=47">Việt-Học Thư Quán</a><br /><a href="/content.php?menu=19&amp;page_id=37">Student Corner</a><br /><a href="/content.php?menu=20&amp;page_id=42">Newsletter</a><br /><a href="/phorum/index.php">Forums - Diễn Đàn Việt Học</a><br /><a href="/submit.php">Submit News/Article</a><br /><a href="/admin.php?menu=21">Admin</a><br /><a href="month.php?menu=26">Calendar</a><br /></td></tr></table></td></tr></table>
 <br />
 <!--Start Event Code -->
 
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -97,13 +97,13 @@
 <tr>
 		<td class="type5" background="" valign="top">
 	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
-<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
-<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR>
-<br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
-<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
-<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
-<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
-<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+<br /><font color="FF0000">August 16, 2003</font><br><a href="https://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR>
+<br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="https://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="https://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -155,7 +155,7 @@
 	  <td class="type5">
           <table width="100%"><tr><td class="type5" colspan="2" valign="top"><span class="boldtext"><center>ÂM THANH TRE TRÚC VIỆT NAM</center></span>
               <p><p><center>3 giờ trưa đến 5 giờ 15 chiều Chủ Nhật, 27 tháng 10 năm 2002<br>tại phòng hội của Viện<br>15355 Brookhurst St., Suite 222, Westminster, CA 92683, Tel: (714) 775-2050</center></p><p>Luỹ tre làng và chiếc thuyền nan đã bao bọc và chuyên chở văn hóa Việt Nam thiên di từ hơn bốn ngàn năm qua. Những biểu tượng thật giản dị nhưng đầy ý nghĩa. Tre trúc còn đi đời sống tâm linh dân tộc qua âm nhạc bằng những sáng tạo kỳ diệu của tiếng <i>sáo trúc</i>, tiếng <i>tiêu</i> của đồng bằng sông Hồng, sông Hương, sông Cửu Long, tiếng ống vỗ <i>không-pút</i>, tiếng đàn <i>brố</i>, tiếng đàn <i>t'rưng</i>, tiếng khèn <i>đinh-năm</i>, tiếng sáo <i>a-lai</i>, v.v... của núi rừng Cao Nguyên.</p>
-<p>Viện Việt-Học hân hạnh giới thiệu buổi triển lãm, trình diễn và dẫn giải các nhạc cụ tre trúc Việt Nam với sự góp mặt đặc biệt của giáo sư Âm Nhạc học <a href="http://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Nguyễn Thuyết Phong</a> (Kent State University, Ohio) cùng hai nghệ sĩ <a href="http://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Dock Rmah</a> (Greensboro, NC) và <a href="http://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Miranda Arana</a> (Oklahoma City, OK). Trong dịp hiếm có này, khán thính giả sẽ được xem và trực tiếp thể nghiệm các nhạc cụ độc đáo của quê hương.</p>
+<p>Viện Việt-Học hân hạnh giới thiệu buổi triển lãm, trình diễn và dẫn giải các nhạc cụ tre trúc Việt Nam với sự góp mặt đặc biệt của giáo sư Âm Nhạc học <a href="https://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Nguyễn Thuyết Phong</a> (Kent State University, Ohio) cùng hai nghệ sĩ <a href="https://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Dock Rmah</a> (Greensboro, NC) và <a href="https://www.viethoc.org/content.php?menu=17&page_id=60" target="_new">Miranda Arana</a> (Oklahoma City, OK). Trong dịp hiếm có này, khán thính giả sẽ được xem và trực tiếp thể nghiệm các nhạc cụ độc đáo của quê hương.</p>
 <hr size="1">
 CHƯƠNG TRÌNH
 <br>
@@ -183,13 +183,13 @@ CHƯƠNG TRÌNH
 <HR SIZE="1"></p></td><td class="type5" width="10%" valign="top">
               <img src="./images/user_pages/dock_1.jpg" alt="ong Dock Rmah" />
               </td></tr></table></td></tr><tr><td class="type5" colspan="2" valign="top"><span class="boldtext"><center>SOUNDS OF BAMBOO FROM VIETNAM</center></span>
-              <p>The musical performance and explication event<br><br><center><font color="#0000FF">SOUNDS OF BAMBOO FROM VIETNAM</font></center><br>will be held at <b><i>Institute of Vietnamese Studies campus</i></b>, 15355 Brookhurst St., Suite 222, Westminster, CA 92685 on <b><i>Sunday, October 27, 2002, 3:00 pm. (714) 775-2050</i></b><br><br>Featured Artists: <b><a href= "http://www.phong-nguyen.com/phongnguyen.html" target="_new">Dr. Thuyet-Phong Nguyen</a>, <a href= "http://www.phong-nguyen.com/dockrmah.html" target="_new">Dock Rmah</a>, </b>and<b> <a href= "http://www.phong-nguyen.com/miranda.html" target="_new">Miranda Arana</a></b>
+              <p>The musical performance and explication event<br><br><center><font color="#0000FF">SOUNDS OF BAMBOO FROM VIETNAM</font></center><br>will be held at <b><i>Institute of Vietnamese Studies campus</i></b>, 15355 Brookhurst St., Suite 222, Westminster, CA 92685 on <b><i>Sunday, October 27, 2002, 3:00 pm. (714) 775-2050</i></b><br><br>Featured Artists: <b><a href= "https://www.phong-nguyen.com/phongnguyen.html" target="_new">Dr. Thuyet-Phong Nguyen</a>, <a href= "https://www.phong-nguyen.com/dockrmah.html" target="_new">Dock Rmah</a>, </b>and<b> <a href= "https://www.phong-nguyen.com/miranda.html" target="_new">Miranda Arana</a></b>
 <hr size="1">
 <br><center><img src="images/main_page/ntp102702_1.jpg"></center>
 <p>ABOUT THE EVENT<p>
 <p>In Vietnam, bamboo tubes and roots have been used to produce musical instruments of magnificent shapes and amazing sounds. From the highlands to the lowlands, bamboo music serves to signal, praise, and entertain. Many kinds of instruments are skillfully made from this simple material: lute, zither, gong, clapper, jews harp, buzzer, flute, etc.  Sounds of the bamboo flute and clapper in Vietnamese chamber music imprint in the mind of poets and singers a significant artistic aesthetic. The sheer beauty of the music of different ethnic groups lies not just in the sounds, but in the diversity of repertoire played either on a single tube or a complex polyphonic bamboo ensemble. Sounds of the bamboo from Vietnam is presented in the way the music is heard in everyday life of the Viet, the Jarai, the Bahnar, the Sedang, and the Ede.</p>
 <p>ABOUT THE ARTISTS<p>
-<p><i>A renowned scholar and performer, <a href= "http://www.phong-nguyen.com/phongnguyen.html" target="_new">Phong Nguyen</a> is one of the world's foremost performers of Vietnamese traditional music. An ethnomusicology professor at UCLA and Kent State, Dr. Nguyen brings an in-depth knowledge to his performances that is rare in any genre. His ensemble includes lutes, zithers, flutes, percussion and vocals representing the wide variety of Vietnamese musical styles. He is a 1997 recipient of the National Endowment for the Arts' National Heritage Award, this country's highest honor for musicians. Upon presenting this award to him, former President Bill Clinton remarked, "This prestigious award, our nation's highest honor in the traditional arts, recognizes both the excellence of your work and your unique achievements as an artist." Joining him in this concert are Dock Rmah and Miranda Arana. A Jarai artist who received a North Carolina Heritage Award, <a href= "http://www.phong-nguyen.com/dockrmah.html" target="_new">Dock</a> excels in bamboo instruments of his culture from Vietnam’s Central Highlands. Ethnomusicologist <a href= "http://www.phong-nguyen.com/miranda.html" target="_new">Miranda Arana</a> is the first American to master the extensive repertoire of the Vietnamese bamboo flute. She has traveled with Phong Nguyen to many international concerts. </i></p>
+<p><i>A renowned scholar and performer, <a href= "https://www.phong-nguyen.com/phongnguyen.html" target="_new">Phong Nguyen</a> is one of the world's foremost performers of Vietnamese traditional music. An ethnomusicology professor at UCLA and Kent State, Dr. Nguyen brings an in-depth knowledge to his performances that is rare in any genre. His ensemble includes lutes, zithers, flutes, percussion and vocals representing the wide variety of Vietnamese musical styles. He is a 1997 recipient of the National Endowment for the Arts' National Heritage Award, this country's highest honor for musicians. Upon presenting this award to him, former President Bill Clinton remarked, "This prestigious award, our nation's highest honor in the traditional arts, recognizes both the excellence of your work and your unique achievements as an artist." Joining him in this concert are Dock Rmah and Miranda Arana. A Jarai artist who received a North Carolina Heritage Award, <a href= "https://www.phong-nguyen.com/dockrmah.html" target="_new">Dock</a> excels in bamboo instruments of his culture from Vietnam’s Central Highlands. Ethnomusicologist <a href= "https://www.phong-nguyen.com/miranda.html" target="_new">Miranda Arana</a> is the first American to master the extensive repertoire of the Vietnamese bamboo flute. She has traveled with Phong Nguyen to many international concerts. </i></p>
 <hr size="1"></p></td></tr>     </table>
             </td>
           </tr>
@@ -209,7 +209,7 @@ CHƯƠNG TRÌNH
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.org">info@viethoc.org</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

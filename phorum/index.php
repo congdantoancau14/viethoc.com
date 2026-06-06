@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="EN">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="EN">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <title>VVH - Forum</title>
@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="templates/default/google.css" />
 <link rel="stylesheet" href="templates/default/phorum.css" type="text/css" />
         </head>
-<body onload="" xmlns="http://www.google.com/ns/jotspot" id="body" class=" en">
+<body onload="" xmlns="https://www.google.com/ns/jotspot" id="body" class=" en">
 <table class="logo" width="100%" cellpadding="0" cellspacing="0">
 <tr valign="top"><td><img src="themes/vvh/images/logo.jpg" width="300" height="90" align="right" border="0" alt="" /></td></tr>
 </table>
@@ -15,11 +15,11 @@
 <table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0">
 <tr>
 <td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left">
-<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed">
+<div xmlns="https://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed">
 <h4 class="sites-embed-title">Danh Mục</h4>
 <div class="sites-embed-content sites-sidebar-nav ">
 <ul jotId="navList">
-<li class="topLevel nav-first"><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.org/index.php" class="topLevel">Website Cũ</a>
+<li class="topLevel nav-first"><div dir="ltr" style="padding-left: 19px;"><a href="https://www.viethoc.org/index.php" class="topLevel">Website Cũ</a>
 
 </div></li>
 <li class="topLevel parent" wuid="gx:5a259464de4a8216"><div class="current-bg" jotId="wuid:gx:5a259464de4a8216" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Viện Việt-Học
@@ -63,9 +63,9 @@
 <li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="/nhu-lieu" jotId="wuid:gx:36c6a84cede79896" class="topLevel">Nhu Liệu</a>
 
 </div></li>
-<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="http://store.viethoc.com" class="topLevel">Tiệm Sách</a>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://store.viethoc.com" class="topLevel">Tiệm Sách</a>
 </div></li>
-<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.org/phorum/index.php" class="topLevel">Diễn Đàn Viện Việt-Học</a>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://www.viethoc.org/phorum/index.php" class="topLevel">Diễn Đàn Viện Việt-Học</a>
 </div></li>
 </ul>
 
@@ -91,7 +91,7 @@
         margin: 0px 3px 0px 3px;
     }
     </style> <div class="PhorumNavBlock">
-  <span class="PhorumNavHeading">Goto:</span>&nbsp;<a class="PhorumNavLink" href="http://www.viethoc.org/phorum/search.php?0">Search</a>&bull;
+  <span class="PhorumNavHeading">Goto:</span>&nbsp;<a class="PhorumNavLink" href="https://www.viethoc.org/phorum/search.php?0">Search</a>&bull;
 </div>
 <table id="phorum-index" cellspacing="0">
             <tr class="folder">
@@ -102,7 +102,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?15">Hán Việt</a><p>Diễn đàn thảo luận về các đề tài của chữ Hán Việt.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?15">Hán Việt</a><p>Diễn đàn thảo luận về các đề tài của chữ Hán Việt.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           514                  </td>
@@ -112,7 +112,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?11">Nôm</a><p>Diễn đàn thảo luận về các đề tài chữ Nôm.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?11">Nôm</a><p>Diễn đàn thảo luận về các đề tài chữ Nôm.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           430                  </td>
@@ -122,7 +122,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?20">Tiếng Việt</a><p>Diễn đàn thảo luận về mọi đề tài liên quan đến tiếng Việt, nguồn gốc tiếng Việt, v.v ...</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?20">Tiếng Việt</a><p>Diễn đàn thảo luận về mọi đề tài liên quan đến tiếng Việt, nguồn gốc tiếng Việt, v.v ...</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           146                  </td>
@@ -132,7 +132,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?13">Văn Hoá</a><p>Diễn đàn trao đổi ý kiến và thảo luận về các đề tài có liên quan đến nghệ thuật, văn học và văn hoá Việt Nam.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?13">Văn Hoá</a><p>Diễn đàn trao đổi ý kiến và thảo luận về các đề tài có liên quan đến nghệ thuật, văn học và văn hoá Việt Nam.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           263                  </td>
@@ -142,7 +142,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?10">Việt Sử - VN History</a><p>This forum hosts all discussions on VH History topic. </p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?10">Việt Sử - VN History</a><p>This forum hosts all discussions on VH History topic. </p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           488                  </td>
@@ -152,7 +152,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?9">Việt-Học Mạn Đàm</a><p>Unrelated topics! This is where "everything goes", a catch-all, clearing house questions & discussions.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?9">Việt-Học Mạn Đàm</a><p>Unrelated topics! This is where "everything goes", a catch-all, clearing house questions & discussions.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           327                  </td>
@@ -162,7 +162,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?3">VVH Web Site</a><p>VVH Web Site has just been revamped and there are still many glitches as well as other areas which can be improved. Please use this forum to discuss, suggest, or report any VVH Web Site related problems.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?3">VVH Web Site</a><p>VVH Web Site has just been revamped and there are still many glitches as well as other areas which can be improved. Please use this forum to discuss, suggest, or report any VVH Web Site related problems.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           26                  </td>
@@ -171,14 +171,14 @@
         <td class="forum-last-post" nowrap="nowrap">March 22, 2010 07:31PM</td>
       </tr>
                 <tr class="folder">
-                  <th class="forum-name"><a href="http://www.viethoc.org/phorum/index.php?18">Dự Án - Projects</a></th>
+                  <th class="forum-name"><a href="https://www.viethoc.org/phorum/index.php?18">Dự Án - Projects</a></th>
                 <th class="forum-threads">Threads</th>
         <th class="forum-posts">Posts</th>
         <th class="forum-last-post">Last Post</th>
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?14">Hán Nôm - Software</a><p>Diễn đàn thảo luận về các nhu liệu Hán Nôm của Viện Việt Học và thân hữu thực hiện.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?14">Hán Nôm - Software</a><p>Diễn đàn thảo luận về các nhu liệu Hán Nôm của Viện Việt Học và thân hữu thực hiện.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           44                  </td>
@@ -188,7 +188,7 @@
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?19">Nam-Phong Tạp-Chí</a><p>Diễn đàn thảo luận về dự án Nam Phong Tạp Chí của VVH.  Ghi danh tình nguyện phiên dịch các văn bản chữ Hán.</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?19">Nam-Phong Tạp-Chí</a><p>Diễn đàn thảo luận về dự án Nam Phong Tạp Chí của VVH.  Ghi danh tình nguyện phiên dịch các văn bản chữ Hán.</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           2                  </td>
@@ -197,14 +197,14 @@
         <td class="forum-last-post" nowrap="nowrap">October 31, 2009 01:06AM</td>
       </tr>
                 <tr class="folder">
-                  <th class="forum-name"><a href="http://www.viethoc.org/phorum/index.php?21">Tài Liệu</a></th>
+                  <th class="forum-name"><a href="https://www.viethoc.org/phorum/index.php?21">Tài Liệu</a></th>
                 <th class="forum-threads">Threads</th>
         <th class="forum-posts">Posts</th>
         <th class="forum-last-post">Last Post</th>
       </tr>
                 <tr class="forum">
         <td class="forum-name">
-          <a href="http://www.viethoc.org/phorum/list.php?22">Hoa Văn Tường Giải</a><p>Sách Hoa Văn tự học</p><small>Options: </small>
+          <a href="https://www.viethoc.org/phorum/list.php?22">Hoa Văn Tường Giải</a><p>Sách Hoa Văn tự học</p><small>Options: </small>
         </td>
         <td class="forum-threads" nowrap="nowrap">
           33                  </td>
@@ -236,13 +236,13 @@ Th&#7913; b&#7843;y: 10:30AM - 12:30PM. Ch&#7911; nh&#7853;t: &#272;&#243;ng c&#
 <img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0" />
 <a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0" />
-<a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
+<a href="https://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">https://www.viethoc.org</a>&nbsp;
 </td></tr>
 </table>
 <table width="100%" cellspacing="1" cellpadding="0" bgcolor="#C0C0C0">
 <tr><td style="border-top: 1px solid #778;" valign="top" align="right">
-Powered by <a href="http://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
-Theme design &#169; <a href="http://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
+Powered by <a href="https://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
+Theme design &#169; <a href="https://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
 </td></tr></table>
 </body>
 </html>

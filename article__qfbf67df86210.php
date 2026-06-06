@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -115,14 +122,29 @@
 	<td class="type0">
 <table width="100%" border="0" cellspacing="1" cellpadding="3" summary="Data for Generic Block">
 <tr>
-	<td class="type4">
+	<td class="type4">https:https:
 	<span class="type4bigger">Thuyết trình: Khái quát về chữ Nôm & Chữ Hán và tiếng Hán-Việ</span><br />
 		Posted on Wednesday 28 April @ 10:50:54
 	</td>
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về hai đề tài: <br /><br /><b>Khái quát về chữ Nôm</b> do Giáo sư Lê Văn Đặng trình bày.<br />      và <br /><b>Chữ Hán và tiếng Hán-Việt</b> do Giáo sư Phạm Văn Hải trình bày.<br /><br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ trưa đến 5 giờ 30 chiều Chủ Nhật, 9 tháng 5 năm 2004 tại phòng hội của Viện. <br />15355 Brookhurst St., Suite 222, Westminster, CA 92683 <br /><br />Xin quý vị xem <a href="./images/user_pages/VHTmLVD-PVH_050904-U.pdf" target="new_window">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả. <br /><br />Trân trọng, <br />Viện Việt-Học<br /><hr><br />Buổi thuyết trình đã được thâu thanh và lưu trữ tại đây:<br />- <a href="http://www.teamvn.com/cacle/Thuyet%20Trinh%20Han-Nom/thuyet%20trinh%20Han-Nom%2005092004-phan1.mp3">Phần 1</a><br />- <a href="http://www.teamvn.com/cacle/Thuyet%20Trinh%20Han-Nom/thuyet%20trinh%20Han-Nom%2005092004-phan2.mp3">Phần 2</a>
+	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về hai đề tài: 
+<br />
+<br /><b>Khái quát về chữ Nôm</b> do Giáo sư Lê Văn Đặng trình bày.
+<br />      và 
+<br /><b>Chữ Hán và tiếng Hán-Việt</b> do Giáo sư Phạm Văn Hải trình bày.
+<br />
+<br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ trưa đến 5 giờ 30 chiều Chủ Nhật, 9 tháng 5 năm 2004 tại phòng hội của Viện. <br />15355 Brookhurst St., Suite 222, Westminster, CA 92683 
+<br />
+<br />Xin quý vị xem <a href="./images/user_pages/VHTmLVD-PVH_050904-U.pdf" target="new_window">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả. 
+<br />
+<br />Trân trọng, 
+<br />Viện Việt-Học
+<br /><hr>
+<br />Buổi thuyết trình đã được thâu thanh và lưu trữ tại đây:
+<br />- <a href="http://www.teamvn.com/cacle/Thuyet%20Trinh%20Han-Nom/thuyet%20trinh%20Han-Nom%2005092004-phan1.mp3">Phần 1</a>
+<br />- <a href="http://www.teamvn.com/cacle/Thuyet%20Trinh%20Han-Nom/thuyet%20trinh%20Han-Nom%2005092004-phan2.mp3">Phần 2</a>
 	</td>
 </tr>
 </table>
@@ -171,7 +193,8 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="125"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 21 May @ 14:10:27</td></tr><tr><td class="type5">Xin hỏi, buổi thuyết-trình này có được, ghi-chép, thâu-thanh không ? hay có bản in về đề-tài để ở đâu đó trong  thư-quán VVH không ?<br />TT</td></tr></table><br />[ 
+<a name="125"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 21 May @ 14:10:27</td></tr><tr><td class="type5">Xin hỏi, buổi thuyết-trình này có được, ghi-chép, thâu-thanh không ? hay có bản in về đề-tài để ở đâu đó trong  thư-quán VVH không ?
+<br />TT</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=125&amp;sid=91&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
@@ -179,14 +202,30 @@ Send Your Comment</a>
 	Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</a>by: Anonymous on: Friday 01 October @ 08:18:36<br />
 				<br /><a name="127"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Sunday 23 May @ 10:14:37</td></tr><tr><td class="type5">Bạn có thể nhấn vào 2 cái link ở trên để nghe lại phần thu thanh của buổi thuyết trình.</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=127&amp;sid=91&amp;mode=&amp;order=&amp;thold=">
-	Reply</a>
+	Reply</a>https:
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=144&amp;sid=91&amp;pid=127&amp;mode=&amp;order=&amp;thold=#144">
 	Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</a>by: Anonymous on: Wednesday 06 October @ 20:13:24<br />
-				<br /><a name="134"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 02 August @ 14:04:36</td></tr><tr><td class="type5">Xin cảm ơn Viện Việt Học đã tổ chức và truyền thanh buổi thuyết trình về chữ Nôm, chữ Hán trong tiếng Việt, đặc biệt đa tạ giáo sư Đăng và Hảị<br /><br />Nội dung bài nói chuyện rất giá trị cho những ai còn muốn nhớ cội nguồn của mình.<br />Xin Viện Việt Hoc cho thu thập và phổ biến chi tiết hơn chút nữa về chữ Nôm - Hán Việt, tỉ dụ như sự biến dạng từ nguồn gốc và qua các triều đại của nhiều chữ (như trong bài của GS Hải, bản kiến tác chữ Nôm).<br /><br />Xin Viện Việt Học cho tổ chức những buổi thuyết trình tương tự nhằm bảo tồn và lưu truyền Việt chất - nhất là gây ấn tượng trong giới trẻ, nữ giới - những ai mang quốc tịch nước người mà quên rằng trong giòng máu mình không thể nào loại được máu Việt ra. Đức Chúa Trời đã tạo dựng nên người Việt thì ngàn năm vẫn còn người Việt trên trái đất - ngoại trừ chính Đức Chúa Trời hủy diệt mà thôi.<br /><br />Xin khiêm nhường bình bầu bài thuyết trình 9/10.<br /><br />Trân trọng<br /><br />Nguyễn Ru<br />rnguy44@hotmailcom</td></tr></table><br />[ 
+				<br /><a name="134"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 02 August @ 14:04:36</td></tr><tr><td class="type5">Xin cảm ơn Viện Việt Học đã tổ chức và truyền thanh buổi thuyết trình về chữ Nôm, chữ Hán trong tiếng Việt, đặc biệt đa tạ giáo sư Đăng và Hảị
+<br />
+<br />Nội dung bài nói chuyện rất giá trị cho những ai còn muốn nhớ cội nguồn của mình.
+<br />Xin Viện Việt Hoc cho thu thập và phổ biến chi tiết hơn chút nữa về chữ Nôm - Hán Việt, tỉ dụ như sự biến dạng từ nguồn gốc và qua các triều đại của nhiều chữ (như trong bài của GS Hải, bản kiến tác chữ Nôm).
+<br />
+<br />Xin Viện Việt Học cho tổ chức những buổi thuyết trình tương tự nhằm bảo tồn và lưu truyền Việt chất - nhất là gây ấn tượng trong giới trẻ, nữ giới - những ai mang quốc tịch nước người mà quên rằng trong giòng máu mình không thể nào loại được máu Việt ra. Đức Chúa Trời đã tạo dựng nên người Việt thì ngàn năm vẫn còn người Việt trên trái đất - ngoại trừ chính Đức Chúa Trời hủy diệt mà thôi.
+<br />
+<br />Xin khiêm nhường bình bầu bài thuyết trình 9/10.
+<br />
+<br />Trân trọng
+<br />
+<br />Nguyễn Ru
+<br />rnguy44@hotmailcom</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=134&amp;sid=91&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
-		 ]<br /><br /><a name="137"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 30 August @ 11:41:48</td></tr><tr><td class="type5">Ca'i link cu?a buo^?i thuye^'t tri`nh pha^`n 1 va` 2 dde^`u mo+? kho^ng ddu+o+.c. Xin web master con la.i du`ng.<br /><br />Ca'm o+n<br /><br />Dda(ng</td></tr></table><br />[ 
+		 ]<br /><br /><a name="137"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: Khái quát về chữ Nôm & Chữ Há</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 30 August @ 11:41:48</td></tr><tr><td class="type5">Ca'i link cu?a buo^?i thuye^'t tri`nh pha^`n 1 va` 2 dde^`u mo+? kho^ng ddu+o+.c. Xin web master con la.i du`ng.
+<br />
+<br />Ca'm o+n
+<br />
+<br />Dda(ng</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=137&amp;sid=91&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

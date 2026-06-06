@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -105,7 +105,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font size=2><center><i>You can type Vietnamese directly on our <a href="http://www.viethoc.org/phorum/">forums</a>, when you use Internet Explorer?</i><br>-- Ly<br></center></font>
+	<font size=2><center><i>You can type Vietnamese directly on our <a href="https://www.viethoc.org/phorum/">forums</a>, when you use Internet Explorer?</i><br>-- Ly<br></center></font>
 	</td>
 </tr>
 </table>
@@ -141,7 +141,7 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Learning Nôm the new way!</span>&nbsp;<br /> by: avuong on: Thursday 10 May @ 13:12:36</td></tr><tr><td class="type5"><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a>
+	<span class="italic">Learning Nôm the new way!</span>&nbsp;<br /> by: avuong on: Thursday 10 May @ 13:12:36</td></tr><tr><td class="type5"><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="https://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a>
 We are honor and welcome Mr. Nguyễn to VVH. </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Learning Nôm the new way!" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
@@ -174,7 +174,7 @@ We are honor and welcome Mr. Nguyễn to VVH. </td></tr></table>&nbsp;<form acti
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

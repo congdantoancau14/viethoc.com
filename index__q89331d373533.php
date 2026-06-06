@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta name="generator" content="phpWebSite" />
 <meta name="keywords" content="Vietnamese, Studies, Culture, History, Han, Nom, Classes" />
@@ -117,7 +117,7 @@ td.wiki {
 
 
 
-<a href="http://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>
+<a href="https://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>
 </td>
 
 
@@ -563,7 +563,7 @@ Viện Việt-Học sẽ khai giảng các Lớp Hàm Thụ Online sau đây và
 </ol>
 Học viên có thể bắt đầu ghi danh.<br />
 Hạn chót ghi danh: <b>9 tháng 7, 2006.</b><br />
-Xin xem thêm chi tiết ở trang <a href="http://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>.</td></tr>
+Xin xem thêm chi tiết ở trang <a href="https://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>.</td></tr>
 
 
 </table>
@@ -831,13 +831,13 @@ Viện Việt-Học đã khai giảng lớp <a href="/index.php?module=pagemaste
 <img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0">
 <a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0">
-<a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
+<a href="https://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">https://www.viethoc.org</a>&nbsp;
 </td></tr>
 </table>
 <table width="100%" cellspacing="1" cellpadding="0" bgcolor="#C0C0C0">
 <tr><td style="border-top: 1px solid #778;" valign="top" align="right">
-Powered by <a href="http://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
-Theme design &#169; <a href="http://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
+Powered by <a href="https://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
+Theme design &#169; <a href="https://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
 </td></tr></table>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.com">webmaster@viethoc.com</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="http://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="http://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=64" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="#FF0000">Oct. 27, 2002</font><br>Thuyết trình và trình diễn về <a href="https://www.viethoc.org/content.php?menu=17&page_id=60">ÂM THANH TRE TRÚC VIỆT NAM</a><br><br><font color="#FF0000">Nov. 2, 2002</font><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 100A</a><br>Khai giảng <a href="https://www.viethoc.org/content.php?menu=17&page_id=2" target="new_window">LỚP VIỆT SỬ 200A</a><br><br><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="https://www.viethoc.org/content.php?menu=17&page_id=64" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -190,9 +190,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>Never before have we seen a more responsive & effective forum on such a hard topic as Nôm! We are grateful to have Prof. Lê Văn Ðặng on the forum, not only to answer questions, but also provide materials to the topic. Please join us on the <a href="http://www.viethoc.org/phorum/list.php?f=11">Nôm forum</a> and here is the <a href="http://www.viethoc.org/214_Notes.pdf">Notes on 214 Historical Radicals of Nôm.</a> <br />Each Hán/Nôm character is written with different character elements called radicals and some additional strokes. Most Chinese Dictionaries classify the radicals in the traditional radical-stroke system.<BR>
+	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>Never before have we seen a more responsive & effective forum on such a hard topic as Nôm! We are grateful to have Prof. Lê Văn Ðặng on the forum, not only to answer questions, but also provide materials to the topic. Please join us on the <a href="https://www.viethoc.org/phorum/list.php?f=11">Nôm forum</a> and here is the <a href="https://www.viethoc.org/214_Notes.pdf">Notes on 214 Historical Radicals of Nôm.</a> <br />Each Hán/Nôm character is written with different character elements called radicals and some additional strokes. Most Chinese Dictionaries classify the radicals in the traditional radical-stroke system.<BR>
 <br />The Kangxi dictionary uses the 214-radical system; Cihai as well as Ciyuan also classify characters in this traditional stroke count system. In Vietnam, the famous Hán Việt Tự Ðiển by Thiều Chửu classifies the radicals a bit differently from the authoritative Kangxi, using only 213 radicals (the two radicals 34 & 35 are grouped together). Most of the newly created Nôm characters are difficult to classify. Prof. Chen Ching-ho for example likely used the sound / phonetic components: the characters <b>lên</b> (to go up) and <b>trên</b> (space above) are found in the radical No. 162 <b>xước</b> (to pace) following the sound element <b>liên</b> (to unite). If classified according to the meaning components, the
-<br />two characters will be with the characters <b>thăng</b> (to go up) in the radical <b>thập</b> (ten) and <b?thượng</b> (above) in the radical nhứt (one) successively... (Please see the full article <a href="http://www.viethoc.org/214_Notes.pdf">here</a>)
+<br />two characters will be with the characters <b>thăng</b> (to go up) in the radical <b>thập</b> (ten) and <b?thượng</b> (above) in the radical nhứt (one) successively... (Please see the full article <a href="https://www.viethoc.org/214_Notes.pdf">here</a>)
 	</td>
 </tr>
 </table>
@@ -261,7 +261,7 @@ Send Your Comment</a>
 	<B>Campus Address</B>: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA - <B>Phone</B>: (714) 775-2050, <B>Fax</B>: (714) 775-3550<br />
 	<B>Mailing Address</B>: P.O Box 11900 Westminster, CA 92685-1900, USA - <B>Email</B>: <a href="mailto:info@viethoc.com">info@viethoc.com</a><br />
 	<hr />Copyright &copy; Vien Viet Hoc 2001<br />This Site is powered by phpWebSite &copy; The Web Technology Group, Appalachian State University<br />
-	phpWebSite is licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
+	phpWebSite is licensed under the <a href="https://www.gnu.org/copyleft/gpl.html">GNU GPL</a><br />
 	</span></center>
 </body>
 </html>

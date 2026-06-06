@@ -2,7 +2,7 @@
 * by Tran Anh Tuan [tuan@physik.hu-berlin.de]
 * Copyright (c) 2001, 2002 AVYS e.V.. All Rights Reserved.
 *
-* Originally published and documented at http://www.avys.de/
+* Originally published and documented at https://www.avys.de/
 * You may use this code without fee on noncommercial web sites.
 * You may NOT alter the code and then call it another name and/or resell it.
 * The copyright notice must remain intact on srcipts.

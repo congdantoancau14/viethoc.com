@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta name="generator" content="phpWebSite" />
 <meta name="keywords" content="Vietnamese, Studies, Culture, History, Han, Nom, Classes" />
@@ -117,7 +117,7 @@ td.wiki {
 
 
 
-<a href="http://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>
+<a href="https://elearning.viethoc.org" target="_blank">Lớp Học Hàm Thụ</a>
 </td>
 
 
@@ -273,7 +273,7 @@ td.wiki {
 
 
 
-<a href="http://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
+<a href="https://www.viethoc.org/index.php?module=photoalbum&amp;PHPWS_Album_op=view&amp;PHPWS_Album_id=7&amp;MMN_position=68:68">Tang lễ Gs NKKham</a>
 </td>
 
 
@@ -806,19 +806,19 @@ Viện Việt-Học kính báo đến các quí vị học giả, cựu môn sin
 <div align="center"><br />
 June 30 - July 1 &#x0026; July 7-8, 2007 tại Viện Việt Học.</div><br />
 <br />
-<a href= "http://picasaweb.google.com/hoaihuong1234/HoiNghiTiengViet2?authkey=ZL9xcJwaqn8"><b>Vài hình ảnh của Hội Nghị (II)</b></a><br />
+<a href= "https://picasaweb.google.com/hoaihuong1234/HoiNghiTiengViet2?authkey=ZL9xcJwaqn8"><b>Vài hình ảnh của Hội Nghị (II)</b></a><br />
 <br />
-<a href= "http://www.viethoc.org/index.php?module=photoalbum&#x0026;PHPWS_Album_op=view&#x0026;PHPWS_Album_id=8"><b>Vài hình ảnh của Hội Nghị (I)</b></a><br />
+<a href= "https://www.viethoc.org/index.php?module=photoalbum&#x0026;PHPWS_Album_op=view&#x0026;PHPWS_Album_id=8"><b>Vài hình ảnh của Hội Nghị (I)</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=125"><b>Tường thuật về tuần lễ đầu của Hội Nghị</a></b> Tâm Việt<br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=125"><b>Tường thuật về tuần lễ đầu của Hội Nghị</a></b> Tâm Việt<br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=124"><b>Chương trình Hội Nghị</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=124"><b>Chương trình Hội Nghị</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=123"><b>Bài vở đã nhận được</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=123"><b>Bài vở đã nhận được</b></a><br />
 <br />
-<a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=120"><b>Thu thập tài liệu</b></a><br />
+<a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=120"><b>Thu thập tài liệu</b></a><br />
 <br ><br />
-<b><a href="http://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=122">Symposium International Sur La langue Vietnamienne</a></b><br />
+<b><a href="https://www.viethoc.org/index.php?module=pagemaster&#x0026;PAGE_user_op=view_page&#x0026;PAGE_id=122">Symposium International Sur La langue Vietnamienne</a></b><br />
 <br />
 </td>
     </tr>
@@ -967,13 +967,13 @@ Th&#7913; b&#7843;y: 10:30AM - 12:30PM. Ch&#7911; nh&#7853;t: &#272;&#243;ng c&#
 <img src="themes/vvh/img/iconmail.gif" align="middle" width="16" height="16" border="0">
 <a href="mailto:info@viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">info@viethoc.org</a>
 <img src="themes/vvh/img/iconhome.gif" align="middle" width="16" height="16" border="0">
-<a href="http://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">http://www.viethoc.org</a>&nbsp;
+<a href="https://www.viethoc.org" style="text-decoration:none; border-bottom:none; color: #F6A800">https://www.viethoc.org</a>&nbsp;
 </td></tr>
 </table>
 <table width="100%" cellspacing="1" cellpadding="0" bgcolor="#C0C0C0">
 <tr><td style="border-top: 1px solid #778;" valign="top" align="right">
-Powered by <a href="http://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
-Theme design &#169; <a href="http://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
+Powered by <a href="https://phpwebsite.appstate.edu" target="_blank"><font style="text-decoration:none">phpWebSite &#169;.</font></a> &nbsp; &nbsp; &nbsp;
+Theme design &#169; <a href="https://sharondippity.com" target="_blank"><font style="text-decoration:none">Sharondippity</font></a>
 </td></tr></table>
 </body>
 </html>

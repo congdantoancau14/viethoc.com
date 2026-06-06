@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -115,14 +122,16 @@
 	<td class="type0">
 <table width="100%" border="0" cellspacing="1" cellpadding="3" summary="Data for Generic Block">
 <tr>
-	<td class="type4">
+	<td class="type4">https:https:
 	<span class="type4bigger">Thán Ðại Tuyết 嘆 大 雪 < Hạt Cát 曷吉 ></span><br />
 		Posted on Monday 24 February @ 12:49:12
 	</td>
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>風 切 切 	Phong thiết thiết <br>寒 冽 冽 	Hàn liệt liệt <br>車 落 烈 	Xa lạc liệt<br>鳥 飛 絕 	Ðiểu phi tuyệt<br>遠 近 東 西 白 雪	Viễn cận Ðông Tây bạch tuyết.<br><br>Mùa Ðông năm nay, một số tiểu bang ở miền Ðông Hoa Kỳ bị một trận bảo tuyết lớn trong nhiều ngày.  Nhân được “nghỉ tuyết”, Hạt Cát có viết mấy lời than oán bằng chữ Hán, có thêm phần phiên Hán Việt và tự dịch ra quốc ngữ.  <br /> <br />Chúng tôi thân mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/thandaituyet.pdf" target="new_window">Thán Ðại Tuyết 嘆 大 雪 của Hạt Cát 曷吉.</a><br><br><i>Lê Văn Ðặng</i><br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>風 切 切 	Phong thiết thiết <br>寒 冽 冽 	Hàn liệt liệt <br>車 落 烈 	Xa lạc liệt<br>鳥 飛 絕 	Ðiểu phi tuyệt<br>遠 近 東 西 白 雪	Viễn cận Ðông Tây bạch tuyết.<br><br>Mùa Ðông năm nay, một số tiểu bang ở miền Ðông Hoa Kỳ bị một trận bảo tuyết lớn trong nhiều ngày.  Nhân được “nghỉ tuyết”, Hạt Cát có viết mấy lời than oán bằng chữ Hán, có thêm phần phiên Hán Việt và tự dịch ra quốc ngữ.  
+<br /> <br />Chúng tôi thân mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/thandaituyet.pdf" target="new_window">Thán Ðại Tuyết 嘆 大 雪 của Hạt Cát 曷吉.</a><br><br><i>Lê Văn Ðặng</i>
+<br />
 	</td>
 </tr>
 </table>
@@ -171,7 +180,25 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="56"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thán Ðại Tuyết 嘆 大 雪</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 08 March @ 13:46:05</td></tr><tr><td class="type5">Thời tôi ở TrungQuốc, những lúc cảm khái thân tù tội<br />chưa tìm được hướng tới tự do, có làm thơ 7 câu chữ Hán<br />và đưa cho các bạn người TrungQuốc phê bình, thì họ nói<br />biết làm thơ, trong lòng cũng thấy vui thích lắm.<br /><br />Nhân đọc sách Văn của học sinh TrungQuốc, có thấy<br />vài bài thơ của các lãnh tụ TrungCộng, viết rất thường,<br />bèn hỏi ý kiến người TrungQuốc, thì họ nói, nếu sau<br />nay tôi nổi tiếng, thì những bài thơ tôi làm cũng có thể<br />được đưa vào sách bắt học sinh học vậy. Tôi chợt nhớ<br />tới câu truyện Trạng Quỳnh và câu thành ngữ<br />Miệng người sang có gang có thép.<br /><br />Bài thơ tuyết, từ và nghĩa xem ra không hợp với nhau lắm,<br />lại theo thể tự do, nên khó đánh giá được nghệ thuật.<br />Có lẽ nên đăng trên báo TrungQuốc thì đúng chỗ hơn.<br /><br />AnhMỹ Trần<br />Tôi không biết cho tên vào, nên đành phải viết tay vậy .</td></tr></table><br />[ 
+<a name="56"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thán Ðại Tuyết 嘆 大 雪</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 08 March @ 13:46:05</td></tr><tr><td class="type5">Thời tôi ở TrungQuốc, những lúc cảm khái thân tù tội
+<br />chưa tìm được hướng tới tự do, có làm thơ 7 câu chữ Hán
+<br />và đưa cho các bạn người TrungQuốc phê bình, thì họ nói
+<br />biết làm thơ, trong lòng cũng thấy vui thích lắm.
+<br />
+<br />Nhân đọc sách Văn của học sinh TrungQuốc, có thấy
+<br />vài bài thơ của các lãnh tụ TrungCộng, viết rất thường,
+<br />bèn hỏi ý kiến người TrungQuốc, thì họ nói, nếu sau
+<br />nay tôi nổi tiếng, thì những bài thơ tôi làm cũng có thể
+<br />được đưa vào sách bắt học sinh học vậy. Tôi chợt nhớ
+<br />tới câu truyện Trạng Quỳnh và câu thàhttps:ữ
+<br />Miệng người sang có gang có thép.
+<br />
+<br />Bài thơ tuyết, từ và nghĩa xem ra không hợp với nhau lắm,
+<br />lại theo thể tự do, nên khó đánh giá được nghệ thuật.
+<br />Có lẽ nên đăng trên báo TrungQuốc thì đúng chỗ hơn.
+<br />
+<br />AnhMỹ Trần
+<br />Tôi không biết cho tên vào, nên đành phải viết tay vậy .</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=56&amp;sid=61&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

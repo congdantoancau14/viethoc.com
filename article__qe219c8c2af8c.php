@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -16,7 +16,7 @@
 <script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 <!-- Urchin Tracking -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-103253-1";
@@ -43,7 +43,7 @@ urchinTracker();
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -84,7 +84,7 @@ urchinTracker();
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -104,7 +104,26 @@ urchinTracker();
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Nov 13, 2005</font><br>Thuyết trình: <a href="/article.php?sid=114">Họ Hồng Bàng và dấu tích trong dân gian</a> của Giáo sư Trần Lam Giang.<BR><br /><font color="FF0000">Oct 9, 2005</font><br>Ra mắt tác phẩm: <a href="/article.php?sid=113">Bốn Phương Mây Trắng</a> của Giáo sư Nguyễn Sỹ Tế.<BR><br /><font color="FF0000">Oct 2, 2005</font><br>Thuyết trình: <a href="/article.php?sid=112">Làm thế nào để hướng dẫn con em học tập thành công nơi học đường Hoa Kỳ</a> của Giáo sư Tony Đoàn.<BR><br /><font color="FF0000">Sep 11, 2005</font><br>Thuyết trình: <a href="/article.php?sid=111">Phật giáo, Tính dục và Âm nhạc tính trong Cung Oán Ngâm Khúc</a> của Giáo sư Nguyễn Ngọc Bích.<BR><br /><font color="FF0000">Sep 4, 2005</font><br><a href="/article.php?sid=110">Ngày Quảng Nam - Đà Nẵng</a><BR><br /><font color="FF0000">Aug 21, 2005</font><br>Thuyết trình: <a href="/article.php?sid=109">Những ưu và khuyết điểm của nền giáo-dục quốc-gia Việt-nam trước năm 1975</a> của Giáo sư Trần Ngọc Ninh.<BR><br /><font color="FF0000">Jun 5, 2005</font><br>Thuyết trình: <a href="/article.php?sid=106">Tìm hiểu Văn Hoá Đồng Nai - Cửu Long</a> của Giáo sư Nguyễn Thanh Liêm.<BR><br /><font color="FF0000">May 15, 2005</font><br>Thuyết trình: <a href="/article.php?sid=105">Những Kỷ Niệm từ Cuộc Chiến Chống Pháp đến Cuộc Sống Lưu Vong</a> của Bác sĩ Nguyễn Lưu Viên.<BR><br /><font color="FF0000">Apr 17, 2005</font><br>Ra mắt sách: <a href="/article.php?sid=103">Làm việc với những nhân vật danh tiếng thế giới</a> của tác giả Nguyễn Hữu Hanh.<BR><br /><font color="FF0000">Apr 3, 2005</font><br>Thuyết trình: <a href="/article.php?sid=100">Hồ Xuân Hương và Đoạn Trường Tân Thanh</a> của Giáo sư Trần Ngọc Ninh.<BR><br /><font color="FF0000">Mar 5, 2005</font><br> Hội thảo: <a href="/article.php?sid=99">Chữ Nôm và Giới Thiệu Tự Điển Chữ Nôm Trích Dẫn Online</a>.<BR><br /><font color="FF0000">Sep 5, 2004</font><br>Thuyết trình: <a href="/article.php?sid=93">Tinh-lý của Thơ Ðường</a> của Giáo sư Nguyễn Sỹ Tế.<BR><br /><font color="FF0000">May 9, 2004</font><br>Thuyết trình: <a href="/article.php?sid=91">Khái quát về chữ Nôm & Chữ Hán và tiếng Hán-Việt</a> của các Giáo sư Lê Văn Đặng và Phạm Văn Hải.<BR><br /><font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">Nov 13, 2005</font><br>Thuyết trình: <a href="/article.php?sid=114">Họ Hồng Bàng và dấu tích trong dân gian</a> của Giáo sư Trần Lam Giang.<BR>
+<br /><font color="FF0000">Oct 9, 2005</font><br>Ra mắt tác phẩm: <a href="/article.php?sid=113">Bốn Phương Mây Trắng</a> của Giáo sư Nguyễn Sỹ Tế.<BR>
+<br /><font color="FF0000">Oct 2, 2005</font><br>Thuyết trình: <a href="/article.php?sid=112">Làm thế nào để hướng dẫn con em học tập thành công nơi học đường Hoa Kỳ</a> của Giáo sư Tony Đoàn.<BR>
+<br /><font color="FF0000">Sep 11, 2005</font><br>Thuyết trình: <a href="/article.php?sid=111">Phật giáo, Tính dục và Âm nhạc tính trong Cung Oán Ngâm Khúc</a> của Giáo sư Nguyễn Ngọc Bích.<BR>
+<br /><font color="FF0000">Sep 4, 2005</font><br><a href="/article.php?sid=110">Ngày Quảng Nam - Đà Nẵng</a><BR>
+<br /><font color="FF0000">Aug 21, 2005</font><br>Thuyết trình: <a href="/article.php?sid=109">Những ưu và khuyết điểm của nền giáo-dục quốc-gia Việt-nam trước năm 1975</a> của Giáo sư Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">Jun 5, 2005</font><br>Thuyết trình: <a href="/article.php?sid=106">Tìm hiểu Văn Hoá Đồng Nai - Cửu Long</a> của Giáo sư Nguyễn Thanh Liêm.<BR>
+<br /><font color="FF0000">May 15, 2005</font><br>Thuyết trình: <a href="/article.php?sid=105">Những Kỷ Niệm từ Cuộc Chiến Chống Pháp đến Cuộc Sống Lưu Vong</a> của Bác sĩ Nguyễn Lưu Viên.<BR>
+<br /><font color="FF0000">Apr 17, 2005</font><br>Ra mắt sách: <a href="/article.php?sid=103">Làm việc với những nhân vật danh tiếng thế giới</a> của tác giả Nguyễn Hữu Hanh.<BR>
+<br /><font color="FF0000">Apr 3, 2005</font><br>Thuyết trình: <a href="/article.php?sid=100">Hồ Xuân Hương và Đoạn Trường Tân Thanh</a> của Giáo sư Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">Mar 5, 2005</font><br> Hội thảo: <a href="/article.php?sid=99">Chữ Nôm và Giới Thiệu Tự Điển Chữ Nôm Trích Dẫn Online</a>.<BR>
+<br /><font color="FF0000">Sep 5, 2004</font><br>Thuyết trình: <a href="/article.php?sid=93">Tinh-lý của Thơ Ðường</a> của Giáo sư Nguyễn Sỹ Tế.<BR>
+<br /><font color="FF0000">May 9, 2004</font><br>Thuyết trình: <a href="/article.php?sid=91">Khái quát về chữ Nôm & Chữ Hán và tiếng Hán-Việt</a> của các Giáo sư Lê Văn Đặng và Phạm Văn Hải.<BR>
+<br /><font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -130,7 +149,16 @@ urchinTracker();
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài:<br /><br /><center><b>Hồ Xuân Hương và Đoạn Trường Tân Thanh</b><br />do Giáo sư Trần Ngọc Ninh trình bày.</center><br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ trưa đến 5 giờ chiều Chủ Nhật, 3 tháng 4 năm 2005 tại phòng hội của Viện. <br />15355 Brookhurst St., Suite 222, Westminster, CA 92683<br /><br />Xin quý vị xem <a href="/eholdings/VHTmTNNinh_040305-U-2.pdf">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả.<br /><br />Trân trọng,<br />Viện Việt-Học 
+	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài:
+<br />
+<br /><center><b>Hồ Xuân Hương và Đoạn Trường Tân Thanh</b>
+<br />do Giáo sư Trần Ngọc Ninh trình bày.</center>
+<br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ trưa đến 5 giờ chiều Chủ Nhật, 3 tháng 4 năm 2005 tại phòng hội của Viện. <br />15355 Brookhurst St., Suite 222, Westminster, CA 92683
+<br />
+<br />Xin quý vị xem <a href="/eholdings/VHTmTNNinh_040305-U-2.pdf">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả.
+<br />
+<br />Trân trọng,
+<br />Viện Việt-Học 
 	</td>
 </tr>
 </table>
@@ -173,7 +201,7 @@ Send Your Comment</a>
 	<input type="submit" value="Refresh" /></form></td>
 </tr>
 <tr>
-	<td class="type6" align="center">
+	<td class="type6" align="center">https:
 	The comments are owned by the poster. VietnamJournal is not responsible for its content.
 	</td>
 </tr>

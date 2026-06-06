@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- BEGIN: File: /themes/Default/header.php -->
 
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.org/nomtool/convert/convert.js">
+<script language="JavaScript" src="https://www.viethoc.org/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -35,7 +35,7 @@
 	</td>
 </tr>
 <tr>
-    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="http://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="http://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
+    <td class="type4small" align="center">This website contains materials in Vietnamese language, using <a href="https://www.unicode.org">Unicode</a>, UTF-8 Unicode Transformation Format.<br />If your browser does not display Vietnamese correctly, please review this <a href="https://www.nonsong.org/Unicode/unicode_faqs.html">article</a>, or send us (<a href="mailto:webmaster@viethoc.org">webmaster@viethoc.org</a>) an email with your questions.	</td>
     <td class="type2small" align="right">
     <form action="search.php" method="post"><font size="2">Search:</font><input type="text" size="15" name="query" onkeypress="return (vietKey(this))" /></form>
 	</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<CENTER><a href="http://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
+	<CENTER><a href="https://www.viethoc.org/content.php?index=17&page_id=63" target="New_window">ÂM THANH TRE TRÚC VIỆT NAM</a></CENTER>
 	</td>
 </tr>
 </table>
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -119,8 +126,8 @@
        <tr>
 	  <td class="type5">
           <table width="100%"><tr>  
-               <td class="type5" width="90%" valign="top"><br /><i>GS Vũ Thế Ngọc </i>
-<p>Với các tài liệu Cổ Nhân học, Nhân Chủng học và Khảo Cổ học được phát hiện trong hai thập niên qua, thêm vào những nghiên cứu của các ngành khoa học khác từ Dân Tộc học, Ngôn Ngữ học cho đến các ngành Kim Loại học, Địa Chất học ... ngày nay người ta đã có thể mang thời đại Hùng Vương vào chính sử. Thành ra phạm vi của bài viết này chỉ hết sức khiêm nhượng như là một chú thích nhỏ của một luận văn lịch sử về thời dựng nước đầu tiên của Việt tộc.</p>
+               <td class="type5" width="90%" valign="top"><br /><https:Vũ Thế Ngọc </i>https:
+<p>Với các tài liệu Cổ Nhân học, Nhân Chủng học và Khảo Cổ học đượchttps: hiện trong hai thập niên qua, thêm vào những nghiên cứu của các ngành khoa học khác từ Dân Tộc học, Ngôn Ngữ học cho đến các ngành Kim Loại học, Địa Chất học ... ngày nay người ta đã có thể mang thời đại Hùng Vương vào chính sử. Thành ra phạm vi của bài viết này chỉ hết sức khiêm nhượng như là một chú thích nhỏ của một luận văn lịch sử về thời dựng nước đầu tiên của Việt tộc.</p>
 <p>Bài viết cũng không có những phát kiến nào mới lạ hơn là bổ xung và tổng kết những đề nghị, luận cứ của các học giả đi trước. Tuy nhiên nó cũng có một hy vọng là để chấm dứt những bài "sưu khảo" chỉ lập lại những ý kiến của Maspero, Lê Dư, Lê Chí Thiệp ... cách đây hơn nửa thế kỷ, hoặc tệ hơn nữa là các bài viết ca tụng mơ hồ cái gọi là "chim lạc".</p>
 <h5>Từ Ngữ Hán Việt: Hầm Bẫy Các Học Giả </h5>
 <p>Một thời báo chí Sài Gòn đã chế diễu một ngài tổng bộ trưởng của Việt Nam Cộng Hòa khi ông ta nhầm Nhật Nhĩ Man (chữ Hán cũ phiên âm để chỉ nước Đức: Germany, German) là nước Nhật (Japan). Nhưng nhiều người không biết là chính "trò chơi" tương tự đã là hầm bẫy biết bao học giả Việt Nam và ngoại quốc trong vấn đề nghiên cứu lịch sử, văn hóa Việt Nam. Bởi vì lý do duy nhất là tất cả tài liệu lịch sử của chúng ta đều viết bằng Hán văn, và một số không nhỏ các danh từ về nhân, vật, địa danh, danh xưng ... chỉ là chữ "ký âm" mà các vị không biết, chỉ chạy theo nghĩa tự Hán Việt.</p>
@@ -187,7 +194,7 @@ Nêu - Lêu (...!) - Rêu </p>
 <ol>
 <li>Minh chứng "Lạc" là Nước, cổ âm của tiếng Việt và cổ Hán cũng trùng hợp như vậy (21).</li>
 <li>Dân Lạc Việt bản địa là chủ nhân đầu tiên trên thế giới biết về nghề làm "ruộng nước" (lúa gạo) và rất hãnh diện khi nhận mình là "Lạc dân" (không thể hiểu là "người nước" (22) như Nguyễn Kim Thản viết, mà nên hiểu là "người có ruộng nước", "người làm chủ ruộng lúa", "người biết làm nghề nông", giống như là "Engineer, Actor, Artist, Administrator ... Mặc dù không ai phủ nhận là nền văn hóa của chúng ta cho đến hiện nay vẫn đặt cơ sở trên nền kinh tế thuộc về "nước" (nói theo kiểu Hydraulic Society), yếu tố "sông nước" không thể tách rời khỏi văn hóa Việt: Long Quân ... theo cha xuống biển ... người trong một nước .... như tác giả đã viết). Vậy thì để trả lời câu hỏi là Hùng Vương hay Lạc Vương của các cụ đặt ra từ trước 1945, ta trả lời thế nào?
-</li>
+</li>https:
 </ol></p>
 <p>KẾT LUẬN: Lạc Vương là Hùng Vương.<br>
 Không có vấn đề viết nhầm.<br>
@@ -196,7 +203,7 @@ Kết luận ta có thể thoải mái mà hiểu rằng từ Lạc trong Lạc 
 <p>Trước hết về thư tịch, sách cổ hơn hết là Giao Châu Ngoại Vực Ký (thế kỷ thứ 4) do sách Thủy Kinh Chú (thế kỷ thứ 6) dẫn lại (xem phần trên) thì đều viết là Lạc (Lạc Vương, Lạc Điền, Lạc Tướng ... ) Trái lại sách Nam Việt Chí (thế kỷ thứ 5) do sách Sơ Học Ký (thế kỷ thứ 7) dẫn lại thì đều viết là Hùng (Hùng Vương, Hùng Điền ....)</p>
 <p>Riêng sách sử chúng ta viết về sau, nhưng đặc biệt là tất cả đều viết là Lạc (xem phần trên), trừ danh từ duy nhất là Hùng Vương, thì viết chữ <img src="http://www.chinalanguage.com/cgi-bin/char.cgi?96C4" border=0>:  Hùng (xem các sách Lĩnh Nam Chích Quái, Việt Điện U Linh, Việt Sử Lược, Đại Việt Sử Ký Toàn Thư, v.v....)</p>
 <p>Sử gia Ngô Sĩ Liên còn cho biết: (trước là) Lạc Tướng sau lầm ra Hùng Tướng (Lạc Tướng hậu ngọa vi Hùng Tướng) (23)</p>
-<p>Trước đệ nhị thế chiến H. Maspero đọc Hán Thư cho thấy trước thế kỷ thứ 5 sách Trung Quốc chỉ dùng từ ngữ Lạc Vương và từ ngữ Hùng Vương chỉ thấy xuất hiện từ sau Nam Việt Chí (thế kỷ thứ 5) nên chủ trương chỉ có Lạc Vương, sở dĩ có từ Hùng Vương vì viết nhầm chữ Lạc (các + chuy) thành chữ Hùng (quang + chuy). Đó có lẽ cũng là lý của Ngô Sĩ Liên (24).</p>
+<p>Trước đệ nhị thế chiến H. Maspero đọc Hán Thư cho thấy trước thế kỷ thứ 5 sách Trung Quốc chỉ dùng từ ngữ Lạc Vương và từ ngữ Hùng Vương chỉ thấy xuất hiện từ sau Nam Việt Chí (thế kỷ thứ 5) nên chủ trương https:ó Lạc Vương, sở dĩ có từ Hùng Vương vì viết nhầm chữ Lạc (các + chuy) thành chữ Hùng (quang + chuy). Đó có lẽ cũng là lý của Ngô Sĩ Liên (24).</p>
 <p>Lê Dư và hầu hết các học giả Việt Nam sau này, đều chủ trương Hùng Vương bởi các lẽ:</p>
 <ol>
 <li>Lạc Vương là chữ do người Trung Quốc dùng để ghi tên Vua nước Lạc, chữ Hùng Vương mới là tên hiệu của tổ nước Việt.</li>
@@ -223,7 +230,7 @@ Vũ Thế Ngọc</i>
 </tr>
 </table>
 </td>
-</tr>
+</tr>https:
 </table>
 
 	<center><span class="smalltextatbottom">
