@@ -1,0 +1,412 @@
+H3 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 14pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #0000ff; 
+background-color : transparent; 
+}
+
+H4 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 11pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #996611; 
+background-color : transparent; 
+}
+
+SELECT {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #996611; 
+background-color : transparent; 
+}
+
+BODY {
+font-size : 10px; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #999966; 
+background-repeat : no-repeat; 
+background-attachment : fixed; 
+background-position : 0% 0%; 
+margin : 0%; 
+padding : 0; 
+border-width : 0; 
+border-style : none; 
+border-color : inherit; 
+width : auto; 
+}
+
+A:visited {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Times, Arial, Helvetica, sans-serif; 
+font-weight : bold; 
+color : #000099; 
+background-color : transparent; 
+}
+
+A:link {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+font-weight : normal; 
+color : #666600; 
+background-color : transparent; 
+}
+
+A.lightlink:visited {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #3333ff; 
+background-color : inherit; 
+}
+
+A.lightlink:link {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #ff9900; 
+background-color : transparent; 
+}
+
+.type6 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ffffff; 
+}
+
+.type5 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ffffff; 
+}
+.type5bigger {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ffffff; 
+}
+.type4small {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ddddbb; 
+}
+
+.type4bigger {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 14pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #666600; 
+background-color : #ddddbb; 
+}
+
+.type4 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ddddbb; 
+}
+
+.type3 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ffffff; 
+}
+
+.type2 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ddddbb; 
+}
+
+.type2small {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ddddbb; 
+}
+
+.type2smaller {
+font-style : italic; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 8pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #006666; 
+background-color : #ddddbb; 
+}
+
+.type1 {
+color : inherit; 
+background-color : #ffffff; 
+}
+
+.type0 {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : inherit; 
+background-color : #006666; 
+}
+
+.smalltextatbottom {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : transparent; 
+}
+
+.searchprops {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #444444; 
+background-color : transparent; 
+}
+
+.search {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : transparent; 
+}
+
+.onebiggerred {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #ff0000; 
+background-color : transparent; 
+}
+
+.onebigger {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 12pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : transparent; 
+}
+
+.normaltext {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 10pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : transparent; 
+}
+.boldtext {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 12pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #339900; 
+background-color : transparent; 
+}
+.active {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : #00ff00; 
+}
+.inactive {
+font-style : normal; 
+font-variant : normal; 
+font-weight : normal; 
+font-size : 9pt; 
+font-family : Arial, Helvetica, sans-serif; 
+color : #000000; 
+background-color : #ff0000; 
+}
+A:hover {
+color : #ff9900; 
+background-color : transparent; 
+}
+
+.error {
+      font-style : normal; 
+      font-variant : normal; 
+      font-weight : normal; 
+      font-size : 8pt; 
+      font-family : Arial, Helvetica, sans-serif; 
+      color : #000000; 
+      background-color : #ff6464; 
+      }
+
+em     {       
+        font-style:     normal;
+        font-weight:    bold;
+        }       
+                
+strong  {       
+        font-style:     italic;
+        font-weight:    bold;
+                }       
+                
+em strong, strong em    {       
+        text-transform: uppercase;
+        font-style:     normal;
+        font-weight:    bolder;
+             }       
+                
+b       {
+        font-weight:    bold;
+        }
+        
+i       {
+        font-style:     italic;
+        }
+
+TD	{
+	font-style : normal; 
+	font-variant : normal; 
+	font-weight : normal; 
+	font-size : 10pt; 
+	font-family : Arial, Helvetica, sans-serif; 
+	color : #006666; 
+	}
+INPUT	{
+	font-family: Arial, Helvetica;
+	font-size: 10pt;
+	color : #996611; 
+	}
+TEXTAREA {
+	font-family: Arial, Helvetica;
+	font-size: 10pt;
+	width: 500px;
+	}
+.forum_title {
+	font-family: Arial, Helvetica;
+	font-style : normal; 
+	font-variant : normal; 
+	font-weight : normal; 
+	font-size : 14pt; 
+	}
+.forum	{
+        font-family: Arial, Helvetica;
+	font-style : normal; 
+	font-variant : normal; 
+	font-weight : normal; 
+	font-size : 12pt; 
+	}
+.nav	{
+	font-family: MS Sans Serif,Geneva,sans-serif;
+	font-size: 8pt;
+	}
+
+.nom_body {
+font-size : 10pt; 
+font-family : "GTCN-Cap 1a";
+font-face : "GTCN-Cap 1a";
+color : #006666; 
+background-color : transparent; 
+background-repeat : no-repeat; 
+background-attachment : fixed; 
+background-position : 0% 0%; 
+margin : 0%; 
+padding : 0; 
+border-width : 0; 
+border-style : none; 
+border-color : inherit; 
+width : auto; 
+}
+
+.vni_body {
+font-size : 10pt; 
+font-family : VNI-Times;
+font-face : VNI-Times;
+color : #006666; 
+background-color : #999966; 
+background-repeat : no-repeat; 
+background-attachment : fixed; 
+background-position : 0% 0%; 
+margin : 0%; 
+padding : 0; 
+border-width : 0; 
+border-style : none; 
+border-color : inherit; 
+width : auto; 
+}
+
+.H4_nom {
+font-style : normal; 
+font-variant : normal; 
+font-weight : bold; 
+font-size : 18pt; 
+font-family : "GTCN-Cap 1a";
+font-face : "GTCN-Cap 1a";
+color : #996611; 
+background-color : transparent; 
+}
+
+.HanNom {
+font-size : 24pt; 
+font-family: 'HAN NOM A','HAN NOM B','Arial Unicode MS';
+}

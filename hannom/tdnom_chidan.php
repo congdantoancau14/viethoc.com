@@ -1,0 +1,1052 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(d){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var f=a?new e(a.responseStart):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart,d=a.responseStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" href="/_/rsrc/1445308032503/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/d7f346/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(b){return document.getElementById(b)}window.byId=d;function g(b){return b.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(b,a,c){var e=new String(k++);b={eventName:b,handler:a,compId:c,key:e};h.push(b);return e};window.JOT_removeListenerByKey=function(b){for(var a=0;a<h.length;a++)if(h[a].key==b){h.splice(a,1);break}};window.JOT_removeAllListenersForName=function(b){for(var a=0;a<h.length;a++)h[a].eventName==b&&h.splice(a,1)};
+window.JOT_postEvent=function(b,a,c){var e={eventName:b,eventSrc:a||{},payload:c||{}};if(window.JOT_fullyLoaded)for(a=h.length,c=0;c<a&&c<h.length;c++){var f=h[c];f&&f.eventName==b&&(e.listenerCompId=f.compId||"",(f="function"==typeof f.handler?f.handler:window[f.handler])&&f(e))}else window.JOT_delayedEvents.push({eventName:b,eventSrc:a,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(b,a){var c=((new Date).getTime()-b)/6E4;if(1440<=c||0>c)return null;var e=0;60<=c&&(c/=60,e=2);2<=c&&e++;return a?window.JOT_siteRelTimeStrs[e].replace("__duration__",Math.floor(c)):window.JOT_userRelTimeStrs[e].replace("__duration__",Math.floor(c))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/Home","deleted":false,"title":"Vi\u1ec7n Vi\u1ec7t-H\u1ecdc","dir":"ltr"}];
+  var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/d7f346/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"enableAnalytics":true,"pageSharingId":"jotspot_page","enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"web","isStartPageEnabled":true,"adsensePublisherId":null,"features":{"validateClientGvizDataSourceUrls":true,"contactStoreMigrationPollForGapi":true,"gapiLoaderUtil":true,"moreMobileStyleImprovements":true,"gadgetsInStratus":false,"freezeTemplateUpdates":false,"accumulativeBubblePanelCreation":true,"domainAnalyticsInGAOnly":true,"publicTemplateSearchInStratus":true,"templatesInStratus":true,"fileCabinetScreenReaderFix":true,"updatedTosAndPrivacyLinks":null,"publicGadgetSearchInStratus":false,"pageDrafts":false,"mobileOrientationFix":true,"plusBadge":false,"pdfEmbedSupport":false,"jsClickFix":true,"updatedReportAbuseForm":true},"isPublic":true,"isConsumer":false,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"onepickBaseUrl":"https://docs.google.com","domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://www.google.com/a/SelectSession?continue\u003dhttp://sites.google.com/a/viethoc.com/web/Home\u0026service\u003djotspot","analyticsAccountId":"UA-13076073-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/d7f346/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/d7f346/system/js/codemirror.js","http://www.gstatic.com/sites/p/d7f346/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/d7f346/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/d7f346/system/app/css/trogedit.css","/_/rsrc/1464476367000/system/app/css/editor.css","http://www.gstatic.com/sites/p/d7f346/system/app/css/codeeditor.css","/_/rsrc/1464476367000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"viethoc.com","baseUri":"","name":"web","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Vi\u1ec7n Vi\u1ec7t-H\u1ecdc","locale":"en","wuid":"wuid:gx:5a259464de4a8216","revision":204,"path":"/Home","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"Home","canChangePath":false,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="verify-v1" content="6UB8EpkcMSQaCRVvrCURMrJmCda7O9e7OIaC6MAhHAc" />
+<meta name="title" content="web" />
+<meta itemprop="name" content="web" />
+<meta property="og:title" content="web" />
+<meta name="description" content="Main public website" />
+<meta itemprop="description" content="Main public website" />
+<meta id="meta-tag-description" property="og:description" content="Main public website" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/d7f346/system/app/themes/vinylpanel/standard-css-vinylpanel-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1464476367000/system/app/css/overlay.css?cb=vinylpanel15a%25170goog-ws-leftnonemiddlestandard" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1464476367000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>web</title>
+<meta itemprop="image" content="/_/rsrc/1445308033595/config/customLogo.gif?revision=2" />
+<meta property="og:image" content="/_/rsrc/1445308033595/config/customLogo.gif?revision=2" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="height:auto;">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="height:auto;">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="sites-chrome-header-valign-middle"><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.viethoc.com/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1445308033595/config/customLogo.gif?revision=2" alt="web" class="sites-logo sites-chrome-header-valign-middle " /></a></h2></div></td><td class="sites-layout-searchbox sites-chrome-header-valign-middle "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/customSearch" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-ns" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search all sites" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-select-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search all sites</div><div id="sites-searchbox-select-dropdown" class="goog-inline-block goog-flat-menu-button"><div class="goog-inline-block goog-flat-menu-button-caption"></div><div class="goog-inline-block goog-flat-menu-button-dropdown sites-jfk-menu-button-dropdown"> </div></div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:170px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><h4 class="sites-embed-title">Danh Mục</h4><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.com/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Website Cũ</a></div></li><li class="topLevel parent " wuid="gx:5a259464de4a8216"><div class="current-bg" jotId="wuid:gx:5a259464de4a8216" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Viện Việt-Học</div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/about" jotId="wuid:gx:59f5e2841e34cef1" class="sites-navigation-link">About</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/muc-dhich" jotId="wuid:gx:11618ced453684f6" class="sites-navigation-link">Mục Đích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/co-cau-to-chuc" jotId="wuid:gx:115e411aceaca77" class="sites-navigation-link">Cơ Cấu Tổ Chức</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/sinh-hoat" jotId="wuid:gx:2c5c009d07a368cd" class="sites-navigation-link">Sinh Hoạt</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/chuong-trinh-sinh-hoat" jotId="wuid:gx:3ff426fed0a21075" class="sites-navigation-link">Lịch Sinh Hoạt</a></div></li></ul></li><li class="topLevel parent " wuid="gx:78d55b25fde25d95"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/viet-hoc-thu-quan-1" jotId="wuid:gx:78d55b25fde25d95" class="sites-navigation-link topLevel">Thư Viện</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ho-so-van-ban-dhien-tu" jotId="wuid:gx:d53ec5b7bdd7e6b" class="sites-navigation-link">Sử</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/van-hoc" jotId="wuid:gx:6e298b9d72508331" class="sites-navigation-link">Văn Học</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ngon-ngu" jotId="wuid:gx:bf0d1ebd5314966" class="sites-navigation-link">Ngôn Ngữ</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/than-huu" jotId="wuid:gx:1d83c030e0267fb6" class="sites-navigation-link">Thân Hữu</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2165037b0a8baa3a"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/Ban-Ging-Hun" jotId="wuid:gx:2165037b0a8baa3a" class="sites-navigation-link topLevel">Ban Giảng Huấn</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-the-anh" jotId="wuid:gx:1a4f6a65381b9c49" class="sites-navigation-link">Nguyễn Thế Anh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-ngoc-bich" jotId="wuid:gx:84ca3bf88d0dccb" class="sites-navigation-link">Nguyễn Ngọc Bích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/pham-van-hai" jotId="wuid:gx:7cda5d8133fc48a8" class="sites-navigation-link">Phạm Văn Hải</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-dhinh-hoa" jotId="wuid:gx:4dfee4c5089831a5" class="sites-navigation-link">Nguyễn Đình Hoà</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-khac-hoach" jotId="wuid:gx:586d396839584a1f" class="sites-navigation-link">Nguyễn Khắc Hoạch</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dhoan-khoach" jotId="wuid:gx:703db01c7e8f0b79" class="sites-navigation-link">Đoàn Khoách</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-ngoc-ninh" jotId="wuid:gx:5bc8f14c711f5c87" class="sites-navigation-link">Trần Ngọc Ninh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dham-trung-phap" jotId="wuid:gx:6cfd5e06995a18d7" class="sites-navigation-link">Đàm Trung Pháp</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-gia-phung" jotId="wuid:gx:4aceb2a330069e8c" class="sites-navigation-link">Trần Gia Phụng</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-van-sam" jotId="wuid:gx:6b719110b81f19ef" class="sites-navigation-link">Nguyễn Văn Sâm</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Ti-Liu" jotId="wuid:gx:3c89211deb95a5dd" class="sites-navigation-link topLevel">Tài Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/van-hoc" jotId="wuid:gx:598a5317d05759bf" class="sites-navigation-link topLevel">Văn Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Home/lop-ngu-phap-viet-ngu" jotId="wuid:gx:44e28dca3ba78bb7" class="sites-navigation-link topLevel">Lớp Ngữ Pháp Việt Ngữ</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/du-an" jotId="wuid:gx:24b8dc0f09ce379f" class="sites-navigation-link topLevel">Dự Án</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/nhu-lieu" jotId="wuid:gx:36c6a84cede79896" class="sites-navigation-link topLevel">Nhu Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://store.viethoc.com" class="sites-navigation-link topLevel">Tiệm Sách</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.com/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Diễn Đàn Viện Việt-Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.clbvnvvh.org/" class="sites-navigation-link topLevel" target="_blank">Câu Lạc Bộ Văn Nghệ – Viện Việt-Học</a></div></li></ul></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6989304010477204" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Vinh Danh</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><span style="color:rgb(39,78,19)">GS Nguyễn Khắc Kham</span><br /><ul><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham">Đôi nét về GS</a><br /></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/thuong-tho-100-tuoi">Thượng thọ 100 tuổi</a></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/cac-bai-viet">Các bài viết về GS</a></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/tang-le">Tang lễ</a><br /></li></ul></div></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_28547384733172876" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Giờ Mở Cửa</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><div style="color:rgb(0,0,0)">
+<div dir="ltr"><font style="color:rgb(0,0,255)">Thứ hai, thứ tư và thứ sáu: <br /></font><div style="margin-left:40px"><span style="color:rgb(39,78,19)">4:00PM - 6:30PM </span><br /></div><font style="color:rgb(0,0,255)">
+
+Thứ bảy: <br /></font><div style="margin-left:40px"><span style="color:rgb(39,78,19)">10:30AM - 12:30PM </span><br /></div><font style="color:rgb(0,0,255)">Chủ nhật: <br /></font><div style="margin-left:40px;color:rgb(39,78,19)">Đóng cửa</div></div>
+</div></div></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_013899808084047005" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Liên Lạc</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><div style="color:rgb(39,78,19)">
+<div dir="ltr"><div><font style="color:rgb(39,78,19)"><b style="color:rgb(0,0,255)">Địa chỉ viện</b><span style="color:rgb(0,0,255)">:</span><br />
+</font>
+<div style="margin-left:40px">
+15355 Brookhurst St., Suite 222, <br />
+Westminster, CA 92683, USA<br />
+<br />
+</div>
+<font style="color:rgb(39,78,19)">
+<b style="color:rgb(0,0,255)">Thư từ liên lạc</b><span style="color:rgb(0,0,255)">:</span>  <br />
+</font>
+<div style="margin-left:40px">P.O. Box 11900 <br />
+Westminster, CA 92685-1900</div>
+<div style="color:rgb(0,0,255)"><ul><li>714-775-2050</li><li><a href="mailto:info@viethoc.com" style="border-bottom-width:medium;border-bottom-style:none;text-decoration:none;color:rgb(0,0,255)">info@viethoc.com</a></li><li><a href="http://www.viethoc.com" style="border-bottom-width:medium;border-bottom-style:none;text-decoration:none">http://www.viethoc.com</a></li></ul>
+</div>
+</div>
+</div>
+</div></div></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_41901171262919223" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Thắc Mắc</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr">Những câu hỏi, thắc mắc thường xuyên<br />
+<ul><li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/phiem-luan/vanchuyeninganydai-1" style="text-decoration:none">Đề tài i-ngắn/y-dài</a></li>
+<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/khao-luan/tinhthandhaihoc" style="text-decoration:none">Tinh thần Đại Học</a></li>
+<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/bai-giang/viet-hoc" style="text-decoration:none">Việt-Học</a></li>
+<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/khao-luan/taisaoviethoc" style="text-decoration:none">Tại sao Việt-Học?</a></li></ul></div></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="display: none;">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="display: none;" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Viện Việt-Học</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-layout-name-two-column-hf sites-layout-vbox"><div class="sites-layout-tile sites-tile-name-header"><div dir="ltr"><div style="display:block;text-align:center">
+</div>
+<div style="display:block;text-align:center">
+<div style="display:block;margin:5px auto 0px;text-align:center"></div>
+<div style="display:block;text-align:left"></div>
+<br />
+</div>
+<div style="margin:0.2pt 0in"></div>
+<div style="text-align:center;display:block"><i style="line-height:1.5;font-size:10pt;background-color:transparent">
+<div style="display:inline!important"><i style="line-height:1.5;font-size:10pt;background-color:transparent">
+</i></div>
+</i></div>
+<div style="display:inline!important;line-height:0.7">
+<div style="text-align:left"></div>
+</div>
+<div style="font-size:x-small;color:rgb(34,34,34);font-family:times new roman,new york,times,serif;line-height:0px;display:block;text-align:center;margin-right:auto;margin-left:auto"></div></div></div><table cellspacing="0" class="sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><hr />
+Do hoàn-cảnh lịch-sử, dân-tộc Việt-nam hiện nay không chỉ sinh sống trong lãnh-thổ Việt-nam mà đã trải rộng khắp thế-giới.  Để các thế-hệ trẻ của cộng-đồng Việt-nam tại hải-ngoại không xa lìa gốc rễ văn-hoá - vốn là sức mạnh tinh-thần của dân-tộc - việc nghiên-cứu và giảng dạy ngôn-ngữ, văn-học, văn-hoá, lịch-sử, địa-lý Việt-nam tại hải-ngoại đã trở nên vô cùng khẩn-thiết.
+
+<p>Với chức-năng nghiên-cứu, quảng-bá và giảng dạy, Viện Việt-học hướng đến các mục-tiêu sau đây:</p>
+<ul>
+<li>Tạo sự cảm-thông và góp phần duy-trì mối liên-hệ mật-thiết giữa người Việt đang sống tại khắp nơi trên thế-giới; </li>
+<li>Phân-tích một cách nghiêm-túc ưu, nhược điểm của văn-hóa Việt-nam. Thẩm-định một cách khách-quan địa-vị cùng vai-trò của văn-hoá ấy trong toàn thể văn-hoá nhân-loại; </li>
+<li>Tìm cách bồi-dưỡng và phát-huy những nét đẹp, đáng trân-trọng gìn-giữ trong nếp sống tinh-thần của người Việt-nam; </li>
+<li>Góp ý một cách cụ-thể, sáng-tạo và hướng-thượng trước nhu-cầu thích-nghi một cách hài-hoà văn-hoá Việt-nam và văn-hoá địa-phương cũng như thế-giới.
+<div><br />
+<div style="display:block; margin:5px auto; text-align:center; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<div class="sites-embed-content-notitle">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/lotus.jpg" id="recentannouncements-thumb-3229659145656354" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/phan-uu/phanuu-12-baquaphu-nguyenkhachoach" dir="ltr" class="sites-announcement-embed-post-title">
+                    PHÂN ƯU</a>
+<span class="wiki_summarized" dir="ltr">
+<span> Vô cùng xúc động nhận được tin đau buồn: </span>
+<span> Thân mẫu cuả Ông</span><b><span>
+Nguyễn Khắc Đôn </span></b><span>và Cô</span><b><span> Nguyễn Hoàng
+Lan - </span></b>
+<span> Hội viên thường trực </span><b><span>Hội-Đồng Điều-Hành Viện</span></b> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Feb 1, 2016, 11:22 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308033902/upload/119px-Blender3D_li_kerze.jpg-%28119x240px%29.jpg" id="recentannouncements-thumb-857429633014183" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/phan-uu/phanuu-11" dir="ltr" class="sites-announcement-embed-post-title">
+                    PHÂN ƯU</a>
+<span class="wiki_summarized" dir="ltr">
+<span> Vô cùng xúc động khi được tin </span>
+<span> </span>
+<b><span> Giáo-sư  TÔN THẤT THIỆN </span></b>
+<span> Đã mệnh chung vào ngày 3
+tháng Mười năm 2014 </span>
+<span> tại Ottawa, Canada </span>
+<b><span> Hưởng thọ 91 tuổi </span></b>
+<span> Viện</span> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Feb 1, 2016, 11:24 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308058246/Home/phan-uu/phanuu-10/Sen2.jpg.1379682715611.jpg" id="recentannouncements-thumb-5260459564212523" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/phan-uu/phanuu-10" dir="ltr" class="sites-announcement-embed-post-title">
+                    Phân Ưu</a>
+<span class="wiki_summarized" dir="ltr"><font>Nhận được tin buồn: </font><b><font>Giáo sư NGUYỄN THÀNH LONG </font></b>Cựu Hiệu Trưởng Trung Học Tổng Hợp Chưởng Binh Lễ An Giang Cựu Chủ Tịch Hội Đồng Liên Tôn Việt Nam ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Oct 7, 2014, 2:46 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>4</strong>.
+                    <a href="/Home/phan-uu" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+</div>
+</li></ul>
+<div style="text-align:center;margin-right:auto;margin-left:auto;display:block"></div>
+<hr size="2" width="100%" />
+<div>
+<div style="display:block; margin:5px auto; text-align:center; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Điểm Sách - Giới thiệu Sách</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308060201/Ti-Liu/bien-khao/dhiem-sach/buocduongcuacailuong/BuocDuongcuaCaiLuong-frontcover.jpg" id="recentannouncements-thumb-22049065541286295" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/dhiem-sach/buocduongcuacailuong" dir="ltr" class="sites-announcement-embed-post-title">
+                    BƯỚC ĐƯỜNG CỦA CẢI LƯƠNG</a>
+<span class="wiki_summarized" dir="ltr"><span>Đôi Điều Ghi Vội Về Một Cuốn Sách </span>Sắp<span> Phát Hành  </span><b><span>BƯỚC ĐƯỜNG CỦA CẢI LƯƠNG </span></b><span> Của Nhà </span>Biên Khảo <b><span>Nguyễn Tuấn Khanh </span></b><span>  </span>Sắp tới<span> đây, Viện Việt-Học California</span> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Oct 3, 2014, 11:56 PM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://store.viethoc.com/sach-viet-ngu/ducphatgiuachungta/BiaSach.jpg" id="recentannouncements-thumb-1397036112215655" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/dhiem-sach/dhucphatgiuachungta" dir="ltr" class="sites-announcement-embed-post-title">
+                    Đức Phật Giưã Chúng Ta</a>
+<span class="wiki_summarized" dir="ltr"><b>Tác giả: </b><span>Trần Ngọc Ninh </span><b>Xuất bản: </b><b><span>Viện Việt Học, 2013 </span></b><b>Giá tiền: </b><b><span>$25.00 US </span></b><b>Số trang: </b><span>200 (32 trang m</span><font><span>àu) </span></font><span>Bi</span>à<span> cứng </span><b><span>Cước phí trong nước</span></b> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Sep 16, 2013, 9:31 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.trangnhahoaihuong.com/img/UVDT_cover_s.jpg" id="recentannouncements-thumb-5360083969332824" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/dhiem-sach/gioithieusachmoiuocvongduytan" dir="ltr" class="sites-announcement-embed-post-title">
+                    Sách mới: Ước Vọng Duy Tân</a>
+<span class="wiki_summarized" dir="ltr"><b><font>ƯỚC VỌNG DUY TÂN A DREAM FOR VIETNAM</font></b><b> </b><font>Tuyển tập </font><b><font>TRẦN NGỌC NINH</font></b><font> VĂN HÓA - HUYỀN THOẠI - VĂN HỌC SỬ TRẦN UYÊN THI chủ biên  Sách dày 472 trang, do</font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Mar 10, 2013, 7:20 AM</span> by Uyên-Thi Trần
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308060210/Ti-Liu/bien-khao/dhiem-sach/phuongphapdaytiengvietnhumotngonnguthuhai/DayTiengViet.png" id="recentannouncements-thumb-19061989622985331" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/dhiem-sach/phuongphapdaytiengvietnhumotngonnguthuhai" dir="ltr" class="sites-announcement-embed-post-title">
+                    Phương Pháp Dạy Tiếng Việt Như Một Ngôn Ngữ Thứ Hai</a>
+<span class="wiki_summarized" dir="ltr"><font>
+</font><span><font>Viện Việt-Học
+trân trọng giới thiệu tác phẩm </font></span><strong><em><span><font>Phương Pháp Dạy Tiếng Việt Như Một Ngôn Ngữ Thứ
+Hai</font></span></em></strong><span><font> cuả Giáo sư </font></span><strong><span><font>Nguyễn Hưng Quốc</font></span></strong><span><font> (Victoria University, Melbourne, Australia</font></span> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">May 28, 2012, 6:59 AM</span> by Uyên-Thi Trần
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308060211/Ti-Liu/bien-khao/dhiem-sach/vietsudhaicuong6-trangiaphung/VSDC6.jpg" id="recentannouncements-thumb-2033130401404898" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/dhiem-sach/vietsudhaicuong6-trangiaphung" dir="ltr" class="sites-announcement-embed-post-title">
+                    Việt Sử Đại Cương 6 - Trần Gia Phụng</a>
+<span class="wiki_summarized" dir="ltr"><font>
+</font><i><font><span>Việt
+Sử Đại Cương</span></font></i><font><span> - </span></font><em><font><span>tập 6 c</span></font></em><font><span>ủa sử gia Trần Gia Phụng viết về những diễn biến chính trị,
+văn hóa, kinh tế, xã hội của hai miền Nam</span></font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">May 28, 2012, 6:54 AM</span> by Uyên-Thi Trần
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 5</strong> of <strong>19</strong>.
+                    <a href="/Ti-Liu/bien-khao/dhiem-sach" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div style="display:block; text-align:right; margin-left: auto; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Sinh hoạt</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<a href="/Home/sinh-hoat/muoilamnamvienviet-hoc" dir="ltr" class="sites-announcement-embed-post-title">
+                    Mười Lăm Năm Viện Việt-Học</a>
+<span class="wiki_summarized" dir="ltr"><b><span>Chủ Nhật 18 tháng Giêng năm 2015 từ 11 giờ sáng đến 7 giờ</span></b> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Mar 7, 2015, 2:39 PM</span> by Uyên-Thi Trần
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<a href="/Home/sinh-hoat/biendoikhihauvavannangluongthuctoancau-ramatsachvacdvietnamvanhoavamoitruong" dir="ltr" class="sites-announcement-embed-post-title">
+                    Biến đổi khí hậu và vấn nạn lương thực toàn cầu - Ra Mắt Sách và CD Việt Nam: Văn hoá và Môi trường</a>
+<span class="wiki_summarized" dir="ltr">
+<span><font>Chủ-nhật 16 tháng Mười Hai năm 2012 từ 2:00 PM – 4:30 PM </font></span>
+<font><span>Thuyết trình về đề tài:</span></font><b><font> </font></b><b><span>Biến đổi khí hậu và vấn nạn lương thực toàn</span></b> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">May 6, 2015, 12:08 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<a href="/Home/sinh-hoat/demthovanhac-tuankhanhdutule" dir="ltr" class="sites-announcement-embed-post-title">
+                    Đêm Thơ và Nhạc - Tuấn Khanh – Du Tử Lê</a>
+<span class="wiki_summarized" dir="ltr">
+<span><font>ThứBảy 15 tháng Mười Hai năm 2012 từ 7:30 PM – 10:00 PM </font></span>
+<span><font>Đêm nhạc thính-phòng Tháng Mười Hai - </font></span><b><span><font>Thơ và Nhạc - Tuấn Khanh – Du Tử Lê </font></span></b>
+<span><font>Câu</font></span> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">May 6, 2015, 12:17 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>39</strong>.
+                    <a href="/Home/sinh-hoat" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<br />
+<br />
+<div></div>
+<br />
+</div></div></td><td class="sites-layout-tile sites-tile-name-content-2"><div dir="ltr">
+<div>
+<div style="display:block; margin:5px auto; text-align:center; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Lịch Sinh Hoạt Hàng Tháng</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1455009514813/upload/1.TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-thumb%28180x120px%29.jpg" id="recentannouncements-thumb-46914486127579536" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/chuong-trinh-sinh-hoat/lichsinhhoat2016thang02" dir="ltr" class="sites-announcement-embed-post-title">
+                    Lịch Sinh Hoạt tháng Hai năm 2016</a>
+<span class="wiki_summarized" dir="ltr">
+<b><span><font> ▪  </font></span></b><b><i><font><span>Buổi nói chuyện về đề-tài:  </span></font></i></b><b><span><font>Nhân-Sinh Vùng Đông-Nam-Á và Việt-Nam</font></span></b><b><i><span>  </span></i></b><b><span><font>▪ </font></span></b>
+<b><i><font><span> Diễn-giả: Giáo-sư Triệt Học Trần Đức Giang </span></font></i></b>
+<b><span><font> ▪  Đêm Nhạc Thính-Phòng Tháng Hai</font></span></b> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Feb 9, 2016, 3:03 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 1</strong> of <strong>28</strong>.
+                    <a href="/Home/chuong-trinh-sinh-hoat" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div></div></div><div><div style="text-align:right"></div>
+<div style="display:block; text-align:right; margin-left: auto; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Thông   báo</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1454407139247/upload/TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-OUTSIDE-front%28475x738px%29.png" id="recentannouncements-thumb-2541014361810565" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/thong-bao/thiepmoi-nhansinh-vung-dna-va-vn-gs-triethoc-tranducgiang" dir="ltr" class="sites-announcement-embed-post-title">
+                    THIỆP MỜI 2016-02-03 - NHÂN-SINH VÙNG ĐÔNG-NAM-Á VÀ VIỆT-NAM - GIÁO-SƯ TRIỆT HỌC TRẦN ĐỨC GIANG</a>
+<span class="wiki_summarized" dir="ltr"> <b><font> Trân trọng kính mời các quí vị tham dự buổi thuyết-trình: </font></b><b><span><font>NHÂN-SINH VÙNG ĐÔNG-NAM-Á VÀ VIỆT-NAM </font></span></b><b><i><font><span>Diễn giả: </span></font></i></b><b>Giáo-sư </b><i><span><font>Triệt Học Trần Đức Giang</font></span></i> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Feb 2, 2016, 3:26 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308034159/upload/DuongVaoVanChuong-%28BookCover%29-small-%28436x675px%29-46.2KB.jpg" id="recentannouncements-thumb-4417581617022509" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/thong-bao/thiepmoi-duongvaovanchuong-toantap-i-va-ii" dir="ltr" class="sites-announcement-embed-post-title">
+                    Thiệp mời - Đường Vào Văn Chương Toàn Tập I và II</a>
+<span class="wiki_summarized" dir="ltr"> <b><font> Trân trọng kính mời các quí vị tham dự buổi giới-thiệu tác-phẩm: </font></b><b><i><font><span>Đường Vào Văn Chương </span></font></i></b><b><font><span>Toàn Tập I và II</span></font></b><b><i> </i></b><b><i><font><span>Tác giả: Giáo-sư Đặng Phùng Quân</span></font></i></b> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Feb 2, 2016, 1:07 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/_/rsrc/1445308034684/upload/VVH_Me%205-9-15.jpg%20-%20small-%28470x657px%29-131KB.jpg" id="recentannouncements-thumb-24101747393927653" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Home/thong-bao/demnhacthinhphongthangnam2015-me" dir="ltr" class="sites-announcement-embed-post-title">
+                    Đêm Nhạc Thính Phòng Tháng Năm 2015 - Mẹ</a>
+<span class="wiki_summarized" dir="ltr"><span>| (Bích chương 444KB) || Download |  </span><font><span>Câu Lạc Bộ Văn Nghệ Viện Việt-Học Kính mời quý thân hữu tham dự </span></font><span>Đêm Nhạc Thính Phòng Tháng Năm với chủ đề:  </span><b><span>M</span></b><b><i><span>ẹ</span></i></b> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">May 6, 2015, 3:19 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>58</strong>.
+                    <a href="/Home/thong-bao" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div style="display:block; text-align:right; margin-left: auto; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Tiểu Luận</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<a href="/Ti-Liu/bien-khao/phiem-luan/vanchuyeninganydai-1" dir="ltr" class="sites-announcement-embed-post-title">
+                    Vẫn chuyện i ngắn, Y dài</a>
+<span class="wiki_summarized" dir="ltr">NGUYỄN ĐÌNH HOÀ <span>Cách
+đây chừng ba năm, tôi có mạo muội đề nghị với Tạp chí “Thế Kỷ 21” là nên viết tên
+tờ báo đứng đắn đó là</span> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Sep 3, 2013, 8:57 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic27.gif" id="recentannouncements-thumb-5469602855301778" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/phiem-luan/thuphachoa%E2%80%9Cchandung%E2%80%9Dcuamothocvienngoainguhuuhieu" dir="ltr" class="sites-announcement-embed-post-title">
+                    THỬ PHÁC HỌA “CHÂN DUNG”  CỦA MỘT HỌC VIÊN NGOẠI NGỮ HỮU HIỆU</a>
+<span class="wiki_summarized" dir="ltr"><b><span><font>Đàm Trung Pháp </font></span></b><span> </span>
+<font>Sau nhiều năm quan sát, ghi nhận và chia xẻ, giới nhà giáo ngôn ngữ 
+chúng tôi đã có thể phác họa ra “chân dung” của một</font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 12, 2015, 9:37 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic66.gif" id="recentannouncements-thumb-28270605757939293" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/phiem-luan/dhocthohaikunhatbanqualoivietromaji" dir="ltr" class="sites-announcement-embed-post-title">
+                    ĐỌC THƠ HAIKU NHẬT BẢN  QUA LỐI VIẾT ROMAJI</a>
+<span class="wiki_summarized" dir="ltr">
+<span><font> </font></span><b><span><font>Đàm Trung Pháp</font></span></b><span> </span>
+<span><font> </font></span>
+<span><font> Mỗi bài thơ "haiku" (phát âm lối Hán Việt là "bài cú") của người Nhật Bản là một tiểu vũ trụ thu gọn trong vẻn vẹn 17</font></span> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 12, 2015, 9:40 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>13</strong>.
+                    <a href="/Ti-Liu/bien-khao/phiem-luan" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div></div>
+<div style="display:block; text-align:right; margin-left: auto; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Bài Giảng / Thuyết Trình</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://lh5.ggpht.com/_LVKULSELNCM/S3wxlkPSUNI/AAAAAAAAAco/hTRoig7Amg8/s200/DSC06907.jpg" id="recentannouncements-thumb-2528130702749716" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/bai-giang/nguphapvietngu-baigiang1-1" dir="ltr" class="sites-announcement-embed-post-title">
+                    Ngữ Pháp Việt Ngữ - Bài Giảng #1</a>
+<span class="wiki_summarized" dir="ltr"><span>
+</span>
+<b><font><span>Giáo sư Trần Ngọc Ninh </span></font></b>
+<b><font><span>Bài giảng #1, 2008-09-29. </span></font></b><span><font>
+           (Lớp "Ngữ pháp Việt ngữ" do Giáo sư Trần Ngọc Ninh giảng hàng tuần vào mỗi tối Thứ Sáu</font></span> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Oct 9, 2013, 5:01 PM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic65.gif" id="recentannouncements-thumb-5573902948080233" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/bai-giang/thebottomlineinesleducation" dir="ltr" class="sites-announcement-embed-post-title">
+                    The Bottom Line In ESL Education *</a>
+<span class="wiki_summarized" dir="ltr">
+<b><span><font>* </font></span></b>
+<font><span> </span></font>
+<b><font><span>Phap Dam, Ph.D.</span></font></b>
+<b><font><span>Texas Woman’s University</span></font></b>
+<b><font><span> </span></font></b>
+<font><span> </span></font>
+<font><span>Distinguished colleagues,</span></font>
+<font><span> </span></font>
+<font><span>My remarks today have been inspired by a recent paper titled “What Teachers Need to Know about Language” by Dr</span></font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 15, 2015, 1:06 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic60.gif" id="recentannouncements-thumb-601668181247912" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/bai-giang/hindsightofanenglishlanguagelearner" dir="ltr" class="sites-announcement-embed-post-title">
+                    Hindsight Of An English Language Learner *</a>
+<span class="wiki_summarized" dir="ltr">
+<b><span><font> *</font></span></b>
+<b><span><font> </font></span></b>
+<b><font><span>Phap Dam, Ph.D.</span></font></b>
+<b><font><span>Texas Woman’s University</span></font></b>
+<font><span> </span></font>
+<font><span>Distinguished colleagues:</span></font>
+<font><span> </span></font>
+<font><span>             I have come a very long way in the process of acquiring American English since the day I was a</span></font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 15, 2015, 1:07 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>5</strong>.
+                    <a href="/Ti-Liu/bien-khao/bai-giang" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div style="display:block; text-align:right; margin-left: auto; clear:both; display:block;">
+<div class="sites-embed " style="sites-embed-full-width">
+<h4 class="sites-embed-title">Khảo   Luận</h4>
+<div class="sites-embed-content">
+<ul class="sites-announcement-snippet">
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<a href="/Ti-Liu/bien-khao/khao-luan/vietytohaithuonglanongvayhocdantoc" dir="ltr" class="sites-announcement-embed-post-title">
+                    VIỆT Y TỔ HẢI THƯỢNG LÃN ÔNG VÀ Y HỌC DÂN TỘC</a>
+<span class="wiki_summarized" dir="ltr"><span> Tìm hiểu về: VIỆT  Y  TỔ  HẢI  THƯỢNG  LÃN  ÔNG  VÀ  Y  HỌC  DÂN  TỘC  BS. Nguyễn Khắc Minh Thân Thế: Hải
+ Thượng Lãn Ông tên là Lê Hữu Trác</span> ... </span><BR />
+<span class="sites-text-secondary">
+<script type="text/javascript">
+      //<![CDATA[
+        function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
+          var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
+          if (relTimeStr) {
+            if (isSiteLocale) {
+              document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
+                '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            } else {
+              document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr +
+              '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
+            }
+          } else {
+            document.write(absTimeStr);
+          }
+        }
+      //]]>
+</script>
+      
+    
+  
+  Posted <span dir="ltr">Oct 4, 2014, 12:05 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic30.gif" id="recentannouncements-thumb-32595861002447823" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/khao-luan/vainetdhacthutrongcuphaptiengviet" dir="ltr" class="sites-announcement-embed-post-title">
+                    Vài Nét Đặc Thù Trong Cú Pháp Tiếng Việt</a>
+<span class="wiki_summarized" dir="ltr"><b><font> Đàm Trung Pháp </font></b><font>(Tóm
+ lược bài thuyết trình trong Hội Thảo Văn Hóa                            
+                             Việt Nam ngày 11-9-2010 tại San Jose State 
+University) </font> <b><u><font>Các chủ ngữ vô hình</font></u></b><b><font> </font></b><font> Nhiều</font> ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 13, 2015, 12:56 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+<li class="line-divider sites-embed-background sites-clear" dir="ltr">
+<div class="sites-announcement-snippet-thumbnail">
+<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic64.gif" id="recentannouncements-thumb-3746490840981158" class="sites-recentannouncements-thumbnails" style="display:none" />
+</div>
+<a href="/Ti-Liu/bien-khao/khao-luan/vanthesubieunhintuphuongtay" dir="ltr" class="sites-announcement-embed-post-title">
+                    "Vạn Thế Sư Biểu" Nhìn Từ Phương Tây</a>
+<span class="wiki_summarized" dir="ltr">Đàm Trung Pháp Từ trên hai ngàn năm nay, người Trung Hoa và các dân tộc Á Châu khác chịu ảnh hưởng của văn hóa Trung Hoa như Nhật Bản ... </span><BR />
+<span class="sites-text-secondary">
+                      
+  
+  
+  
+  
+  Posted <span dir="ltr">Apr 13, 2015, 9:09 AM</span> by Chí-Thông Nguyễn
+
+                    </span>
+</li>
+</ul>
+<div class="sites-embed-showing-results">
+                
+                    Showing posts <strong>1 - 3</strong> of <strong>12</strong>.
+                    <a href="/Ti-Liu/bien-khao/khao-luan" dir="ltr">View more »</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        //<![CDATA[
+          JOT_recentAnnouncementPreloadImages = function() {
+            var loader = new gsites.util.ImagePreloader();
+            loader.init('sites-canvas-main-content', 'sites-recentannouncements-thumbnails');
+          };
+          JOT_addListener('pageLoaded', JOT_recentAnnouncementPreloadImages);
+          JOT_addListener('completeEditRender', JOT_recentAnnouncementPreloadImages);
+        //]]>
+</script>
+<div dir="ltr"><br /></div></div></div></td></tr></tbody></table><div class="sites-layout-tile sites-tile-name-footer sites-layout-empty-tile"><div dir="ltr"><div style="text-align:left"><br /></div></div></div></div>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=http://sites.google.com/a/viethoc.com/web/Home">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/d7f346/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+      
+          sites.core.Analytics.createTracker();
+          sites.core.Analytics.trackPageview();
+        
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-select-button',
+                        {"object":[{"action":"/system/app/pages/search","id":"search-site","label":"Search this site"},{"action":"/system/app/pages/customSearch","id":"search-ns","label":"Search all sites"}]}['object'],
+                        'search-ns',
+                        {"label":"Configure search options...","url":"/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Danh Mục", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('http://www.viethoc.com/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>

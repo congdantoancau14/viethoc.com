@@ -1,0 +1,263 @@
+/*
+	sharonPark theme for phpWebSite
+	(c) 2005 Sharondippity http://sharondippity.com
+	All Rights Reserved
+	
+
+*/
+
+
+
+.logo	{
+
+	background: url(images/logoBg.jpg) repeat #A98D75;
+	border-bottom-color: #5C5656;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	}
+	
+
+.main
+	{
+	margin-bottom:0px;
+	margin-top:0px;
+	background: #5B3C4B;
+	border: 0;
+	padding:0px;
+		}
+
+.left
+	{
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	padding:10px;
+	background: url(images/leftBg.gif) repeat-y #EDF3ED right;
+	border-right-color: #999;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: #DBDBDB;
+	border-top-style: solid;
+	border-top-width: 1px;
+	}
+	
+.content
+	{
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	padding:10px;
+	border-left-color: #fff;
+	border-left-style: solid;
+	border-left-width: 1px;
+	background: url(images/centerBg2.gif) repeat-y #FDFDFA left;
+	border-top-color: #DBDBDB;
+	border-top-style: solid;
+	border-top-width: 1px;
+	}
+.right
+	{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #fff;
+	}
+
+
+.text
+	{
+	font-size: small;
+	color:#000000;
+	text-align:left;
+	padding:10px;
+	line-height:120%;
+	}
+
+
+
+a	{
+	color: #2D1A2A;
+	text-decoration: none;
+	border-bottom: 1px solid #2D1A2A;
+	}
+
+a:link
+	{
+	color: #2D1A2A; 
+	}
+
+a:visited
+	{
+	color: #2D1A2A;
+	}
+
+a:hover
+	{
+	color: #0000ff;
+	border-bottom: 1px solid #0000ff;
+	}
+		
+TD	{
+	FONT-FAMILY: Arial,Helvetica;
+	FONT-SIZE: small;
+	}
+		
+BODY   {
+	font-size: small;
+	text-align:left;
+	margin-top: 0px;
+	margin: 0;
+	background-color: #AFA08F;
+	color: #000;
+	padding: 0;
+	font-family: arial, helvetica, sans-serif;
+	}
+		
+
+H2, H3	{
+	font-family: arial, helvetica, sans-serif;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	text-align:left;
+	color:#505266
+	}
+		
+.boxcontent     
+	{
+	background: none;
+	 color: #000000;
+	 font-size: small;
+	 font-family: arial, helvetica;
+	 }
+
+	
+.bg_medium	{background-color: #AFA08F;}
+
+.bg_light 
+	{
+	background-color : #905C62;
+	color: #BDBDC9;
+	}
+
+.bg_dark 	
+	{
+	background-color : #5B3C4B;
+	color: silver;
+	}
+
+.bg_light a	
+	{
+	color:#D7D7CB;
+	border-bottom: 1px solid #D7D7CB;
+	}
+
+.bg_light a:link
+	{
+	color: #D7D7CB;
+	}
+
+.bg_light a:visited
+	{
+	color: #D7D7CB;
+	}
+
+
+
+
+
+.black	{background-color : #5B3C4B;
+	color: silver;
+	}
+.boxTitle       
+	{
+	border-bottom: #3D4249 1px solid;
+	font-family: "Times New Roman", Times, serif;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	letter-spacing: .5em;
+	font-size: small;
+	font-weight: bold;
+	text-align:right;
+	color:#3D4249;
+	}
+	
+.even_box
+	{
+	font-family: Arial, Sans-serif;
+	font-size: small;
+	color: #000000;
+	text-align:left;
+	padding:10px;
+	line-height:120%;
+	}
+
+
+.footer {
+	margin-bottom:0px;
+	margin-top:0px;
+	padding:0px;
+	background: url(images/logoBg.jpg) repeat #A98D75;
+	border-top: 1px #000 solid;
+	font-size: 10px;
+	color:#ffffff;
+  	text-align:center;
+	}
+	
+
+.footer a	{
+	color:#D7D7CB;
+	text-decoration:underline;
+	}
+
+.footer a:link
+	{
+	color: #D7D7CB;
+	text-decoration:underline;
+	}
+
+.footer a:visited
+	{
+	color: #D7D7CB;
+	text-decoration:underline;
+	}
+
+.type4 {
+font-style : normal;
+font-variant : normal;
+font-weight : bold;
+font-size : 10pt;
+font-family : Arial, Helvetica, sans-serif;
+color : #006666;
+background-color : #ddddbb;
+border-top-style: groove;
+}
+
+.type4bigger {
+font-style : normal;
+font-variant : normal;
+font-weight : bold;
+font-size : 14pt;
+font-family : Arial, Helvetica, sans-serif;
+color : #666600;
+background-color : #ddddbb;
+line-height:100%;
+}
+        
+    /* by Vuong 05/25/06 */
+    .BoldHan
+    {
+        font-family: "HAN NOM A", "Arial Unicode MS", "HAN NOM B";
+        font-size: 32px;
+      /* color: darkblue; */
+    }
+
+    /* by Vuong 05/25/06 */
+    .hantext
+    {
+	text-align: left; 
+	font-family: arial, helvetica, "Arial Unicode MS", "HAN NOM A", "HAN NOM B";
+    }

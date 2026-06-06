@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack]
+"SURROGATE"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\International\Scripts\42]
+"IEFixedFontName"="HAN NOM B"
+"IEPropFontName"="HAN NOM B"
+
