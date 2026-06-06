@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +153,36 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a><img src="/images/ntp.jpg" align="left" />Viện Việt-Học thân mời quý thân hữu tham dự buổi thuyết trình, chiếu phim và trình diễn về đề tài:<center><a href="/eholdings/VhTmNTP.pdf">Hát Bội:<br />Một Nghệ Thuật<br />Cao Quí và Thống Nhất</a><br /><br />với <b>Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy</b><br /><br />do<br />Viện Việt-Học tổ chức vào lúc:<br /><b>2 giờ trưa đến 5 giờ chiều<br />Chủ Nhật, 2 tháng 11 năm 2003</b></center> <br /><hr /><ul><br /><B><a href="/eholdings/VhTmNTP.pdf">CHƯƠNG TRÌNH</a></B><br /><li>2:00 pm · Thủ tục khai mạc</li><br /><li>2:05 pm-2:15 pm · Gs. Viện trưởng Trần Ngọc Ninh giới thiệu diễn giả</li><br /><li>2:15 pm-3:00 pm · Thuyết trình và trình diễn của Gs. Nguyễn Thuyết Phong và Nghệ sĩ Ngọc Bầy</li><br /><li>3:00 pm-3:30 pm · Thảo luận</li><br /><li>3:30 pm · Ra mắt sách “Âm Nhạc: Niềm Vui Tuổi Thơ” (tác giả Nguyễn Thuyết Phong)</li><br /><li>3:30 pm-3:40 pm · Giới thiệu về tác phẩm</li><br /><li>3:40 pm-4:30 pm · Trình diễn một số nhạc cụ Việt Nam và hướng dẫn<br />chế tạo các nhạc cụ này (Gs. Nguyễn Thuyết Phong và Nghệ sĩ Kim Oanh)</li><br /><li>4:30 pm-5:00 pm	· Tiệc trà</li><br /></ul><br /><p>SƠ LƯỢC TIỂU SỬ<br /><br />Gs.  NGUYỄN THUYẾT PHONG<br /><br />Gs. Nguyễn Thuyết Phong tốt nghiệp Tiến Sĩ ngành Dân Tộc Nhạc Học (Ethnomusicology) hạng “Tối danh dự” tại Viện đại học Sorbonne, Paris (1982). Trong hơn gần hai thập kỷ qua ông đã có những đóng góp đáng kể trong lãnh vực nghiên cứu âm nhạc Á Châu và Việt Nam. Ông là diễn giả âm nhạc ở nhiều nước trên thế giới và đã xuất bản các tác phẩm nghiên cứu và thực hành âm nhạc như From Rice Paddies and Temple Yards (World Music Press, 1989), New Perspectives on Vietnamese Music (Yale University, 1989), Thế Giới Âm Thanh Việt Nam (Hoa Cau, 1988), và các công trình tập thể qua các đại từ điển âm nhạc thế giới Garland (Mỹ), New Grove (Anh Quốc), Iwanami Shoten (Nhật Bản). Cùng với Giáo sư Trần Văn Khê, ông là một trong hai nhà Nhạc Học người Việt được ghi danh vào đại từ điển danh nhân âm nhạc thế giới The New Grove (Anh Quốc). Trong quá trình thể hiện và tích cực phát huy truyền thống âm nhạc Việt Nam tại Mỹ, ông được chính phủ Hoa Kỳ phong tặng danh hiệu Di Sản Quốc Gia tại White House năm 1997. Tiến sĩ  Nguyễn Thuyết Phong hiện là Giáo sư Dân Tộc Nhạc Học tại Kent State University, Ohio.</p><br /><p><br />ABOUT THE ARTIST<br /><br />A renowned scholar and performer, Phong Nguyen is one of the world's foremost performers of Vietnamese traditional music. An ethno-musicology professor at UCLA and Kent State University, Dr. Nguyen brings an in-depth knowledge to his performances that is rare in any genre. His ensemble includes lutes, zithers, flutes, percussion and vocals representing the wide variety of Vietnamese musical styles. He is a 1997 recipient of the National Endowment for the Arts' National Heritage Award, this country’s highest honor for musicians. Upon presenting this award to him, former President Bill Clinton remarked, "This prestigious award, our nation's highest honor in the traditional arts, recognizes both the excellence of your work and your unique achievements as an artist”. Joining Dr. Nguyen’s lecture, Ms. Ngoc Bay – a former instructor at Vietnam’s School of Theatrical Arts, now living in Westminster, California – will perform an excerpt of “General Luu Kim Dinh Rescues Tho Chau”. </p>
+	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a><img src="/images/ntp.jpg" align="left" />Viện Việt-Học thân mời quý thân hữu tham dự buổi thuyết trình, chiếu phim và trình diễn về đề tài:<center><a href="/eholdings/VhTmNTP.pdf">Hát Bội:
+<br />Một Nghệ Thuật
+<br />Cao Quí và Thống Nhất</a>
+<br />
+<br />với <b>Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy</b>
+<br />
+<br />do
+<br />Viện Việt-Học tổ chức vào lúc:
+<br /><b>2 giờ trưa đến 5 giờ chiều
+<br />Chủ Nhật, 2 tháng 11 năm 2003</b></center> <br /><hr /><ul>
+<br /><B><a href="/eholdings/VhTmNTP.pdf">CHƯƠNG TRÌNH</a></B>
+<br /><li>2:00 pm · Thủ tục khai mạc</li>
+<br /><li>2:05 pm-2:15 pm · Gs. Viện trưởng Trần Ngọc Ninh giới thiệu diễn giả</li>
+<br /><li>2:15 pm-3:00 pm · Thuyết trình và trình diễn của Gs. Nguyễn Thuyết Phong và Nghệ sĩ Ngọc Bầy</li>
+<br /><li>3:00 pm-3:30 pm · Thảo luận</li>
+<br /><li>3:30 pm · Ra mắt sách “Âm Nhạc: Niềm Vui Tuổi Thơ” (tác giả Nguyễn Thuyết Phong)</li>
+<br /><li>3:30 pm-3:40 pm · Giới thiệu về tác phẩm</li>
+<br /><li>3:40 pm-4:30 pm · Trình diễn một số nhạc cụ Việt Nam và hướng dẫn
+<br />chế tạo các nhạc cụ này (Gs. Nguyễn Thuyết Phong và Nghệ sĩ Kim Oanh)</li>
+<br /><li>4:30 pm-5:00 pm	· Tiệc trà</li>
+<br /></ul>
+<br /><p>SƠ LƯỢC TIỂU SỬ
+<br />
+<br />Gs.  NGUYỄN THUYẾT PHONG
+<br />
+<br />Gs. Nguyễn Thuyết Phong tốt nghiệp Tiến Sĩ ngành Dân Tộc Nhạc Học (Ethnomusicology) hạng “Tối danh dự” tại Viện đại học Sorbonne, Paris (1982). Trong hơn gần hai thập kỷ qua ông đã có những đóng góp đáng kể trong lãnh vực nghiên cứu âm nhạc Á Châu và Việt Nam. Ông là diễn giả âm nhạc ở nhiều nước trên thế giới và đã xuất bản các tác phẩm nghiên cứu và thực hành âm nhạc như From Rice Paddies and Temple Yards (World Music Press, 1989), New Perspectives on Vietnamese Music (Yale University, 1989), Thế Giới Âm Thanh Việt Nam (Hoa Cau, 1988), và các công trình tập thể qua các đại từ điển âm nhạc thế giới Garland (Mỹ), New Grove (Anh Quốc), Iwanami Shoten (Nhật Bản). Cùng với Giáo sư Trần Văn Khê, ông là một trong hai nhà Nhạc Học người Việt được ghi danh vào đại từ điển danh nhân âm nhạc thế giới The New Grove (Anh Quốc). Trong quá trình thể hiện và tích cực phát huy truyền thống âm nhạc Việt Nam tại Mỹ, ông được chính phủ Hoa Kỳ phong tặng danh hiệu Di Sản Quốc Gia tại White House năm 1997. Tiến sĩ  Nguyễn Thuyết Phong hiện là Giáo sư Dân Tộc Nhạc Học tại Kent State University, Ohio.</p>
+<br /><p>
+<br />ABOUT THE ARTIST
+<br />
+<br />A renowned scholar and performer, Phong Nguyen is one of the world's foremost performers of Vietnamese traditional music. An ethno-musicology professor at UCLA and Kent State University, Dr. Nguyen brings an in-depth knowledge to his performances that is rare in any genre. His ensemble includes lutes, zithers, flutes, percussion and vocals representing the wide variety of Vietnamese musical styles. He is a 1997 recipient of the National Endowment for the Arts' National Heritage Award, this country’s highest honor for musicians. Upon presenting this award to him, former President Bill Clinton remarked, "This prestigious award, our nation's highest honor in the traditional arts, recognizes both the excellence of your work and your unique achievements as an artist”. Joining Dr. Nguyen’s lecture, Ms. Ngoc Bay – a former instructor at Vietnam’s School of Theatrical Arts, now living in Westminster, California – will perform an excerpt of “General Luu Kim Dinh Rescues Tho Chau”. </p>
 	</td>
 </tr>
 </table>

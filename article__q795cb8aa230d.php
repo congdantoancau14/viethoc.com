@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -151,7 +151,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>When the name Nguyễn Trãi is mentioned, my first thought related to this 14th-century scholar is his well-known masterpiece, Bình Ngô Đại Cáo. It is an undisputable classic, powerful, well-written state address in 15th century, Vietnam. For other writings of this well rounded scholar, not too many are studied or interepreted. My naive explanation for this fact is that perhaps they are not as polished and insightful as the above mentioned writing. Prof. Lê Văn Đặng had proved me wrong in his paper introducing <a href="/eholdings/DaoHoaThi.pdf">Nguyễn Trãi's Đào Hoa Thi</a>. The original verse was written in Nôm script, and Prof. Lê had carefully transcribed into Quốc Ngữ, along with his explanations and interpretations.<br /><br />As we come to know Prof. Lê in his transcribing works, he always includes the original verse -- a gentle reminder for us to learn the Nôm as well -- an age old Vietnamese script but not forgotten in his heart. I hope you will enjoy Prof. Lê's recent paper as much as I do. 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>When the name Nguyễn Trãi is mentioned, my first thought related to this 14th-century scholar is his well-known masterpiece, Bình Ngô Đại Cáo. It is an undisputable classic, powerful, well-written state address in 15th century, Vietnam. For other writings of this well rounded scholar, not too many are studied or interepreted. My naive explanation for this fact is that perhaps they are not as polished and insightful as the above mentioned writing. Prof. Lê Văn Đặng had proved me wrong in his paper introducing <a href="/eholdings/DaoHoaThi.pdf">Nguyễn Trãi's Đào Hoa Thi</a>. The original verse was written in Nôm script, and Prof. Lê had carefully transcribed into Quốc Ngữ, along with his explanations and interpretations.
+<br />
+<br />As we come to know Prof. Lê in his transcribing works, he always includes the original verse -- a gentle reminder for us to learn the Nôm as well -- an age old Vietnamese script but not forgotten in his heart. I hope you will enjoy Prof. Lê's recent paper as much as I do. 
 	</td>
 </tr>
 </table>

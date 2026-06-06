@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR><br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -199,13 +203,34 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="72"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyên tựa Chinh Phụ Ngâm Diễn Âm Tân Khúc</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 25 June @ 12:51:39</td></tr><tr><td class="type5">Kính chào, <br />Viện Việt Học đã có nhiều cố gắng trong việc phát huy vốn cổ nước nhà, cụ thể là các bản Chinh Phụ Ngâm, chúng tôi rất đỗi hoan nghinh. <br />Riêng về bài Chinh Phụ Ngâm Diễn Âm Ngâm Khúc Nguyên tự của bạn Lê Sơn Thanh, chúng tôi có vài thắc mắc, xin được giải đáp: <br />ạ.- Xin cho biết tên Tác giả bài tựa ? <br />b.- Bạn Son có nói đến một bài thơ mà bài tựa phản ảnh, bài đó là bài nào, có phải của Phan Huy Ích không ? <br />c.- Giáo sư Ðằng giới thiệu đây là một bài rất giá trị, vậy xin cho biết nó giá trị ở phương diện nào, là một bản cổ văn hay nó còn cho biết xuất xứ dịch giả. Cho tới bây giờ thì dịch giả của nó vẫn là bà Ðoàn Thj Ðiểm. <br />Kính <br />e-mail : nguoibanhaingoai@yahoo.fr <br /><br /></td></tr></table><br />[ 
+<a name="72"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyên tựa Chinh Phụ Ngâm Diễn Âm Tân Khúc</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 25 June @ 12:51:39</td></tr><tr><td class="type5">Kính chào, 
+<br />Viện Việt Học đã có nhiều cố gắng trong việc phát huy vốn cổ nước nhà, cụ thể là các bản Chinh Phụ Ngâm, chúng tôi rất đỗi hoan nghinh. 
+<br />Riêng về bài Chinh Phụ Ngâm Diễn Âm Ngâm Khúc Nguyên tự của bạn Lê Sơn Thanh, chúng tôi có vài thắc mắc, xin được giải đáp: 
+<br />ạ.- Xin cho biết tên Tác giả bài tựa ? 
+<br />b.- Bạn Son có nói đến một bài thơ mà bài tựa phản ảnh, bài đó là bài nào, có phải của Phan Huy Ích không ? 
+<br />c.- Giáo sư Ðằng giới thiệu đây là một bài rất giá trị, vậy xin cho biết nó giá trị ở phương diện nào, là một bản cổ văn hay nó còn cho biết xuất xứ dịch giả. Cho tới bây giờ thì dịch giả của nó vẫn là bà Ðoàn Thj Ðiểm. 
+<br />Kính 
+<br />e-mail : nguoibanhaingoai@yahoo.fr 
+<br />
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=72&amp;sid=73&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=76&amp;sid=73&amp;pid=72&amp;mode=threaded&amp;order=0&amp;thold=#76">
 	Re: Nguyên tựa Chinh Phụ Ngâm Diễn Âm Tân Khúc</a>by: Anonymous on: Thursday 03 July @ 01:42:40<br />
-				<br /><a name="74"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyên tựa Chinh Phụ Ngâm Diễn Âm Tân Khúc</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 01 July @ 12:51:36</td></tr><tr><td class="type5">Kính chào, <br />Viện Việt Học đã có nhiều cố gắng trong việc phát huy vốn cổ nước nhà, cụ thể là các bản Chinh Phụ Ngâm, chúng tôi rất đỗi hoan nghinh. <br />Riêng về bài Chinh Phụ Ngâm Diễn Âm Ngâm Khúc Nguyên tự của bạn Lê Sơn Thanh, chúng tôi có vài thắc mắc, xin được giải đáp: <br />ạ.- Xin cho biết tên Tác giả bài tựa ? <br />b.- Bạn Son có nói đến một bài thơ mà bài tựa phản ảnh, bài đó là bài nào, có phải của Phan Huy Ích không ? <br />c.- Giáo sư Ðằng giới thiệu đây là một bài rất giá trị, vậy xin cho biết nó giá trị ở phương diện nào, là một bản cổ văn hay nó còn cho biết xuất xứ dịch giả. Cho tới bây giờ thì dịch giả của nó vẫn là bà Ðoàn Thj Ðiểm. <br />Kính <br />e-mail : nguoibanhaingoai@yahoo.fr <br /><br />Câu hỏi nay vẫn chưa được bạn Sơn hoặc giáo sư Ðằng trả lời. Quy vị<br /> bận chăng ?<br /><br /></td></tr></table><br />[ 
+				<br /><a name="74"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyên tựa Chinh Phụ Ngâm Diễn Âm Tân Khúc</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 01 July @ 12:51:36</td></tr><tr><td class="type5">Kính chào, 
+<br />Viện Việt Học đã có nhiều cố gắng trong việc phát huy vốn cổ nước nhà, cụ thể là các bản Chinh Phụ Ngâm, chúng tôi rất đỗi hoan nghinh. 
+<br />Riêng về bài Chinh Phụ Ngâm Diễn Âm Ngâm Khúc Nguyên tự của bạn Lê Sơn Thanh, chúng tôi có vài thắc mắc, xin được giải đáp: 
+<br />ạ.- Xin cho biết tên Tác giả bài tựa ? 
+<br />b.- Bạn Son có nói đến một bài thơ mà bài tựa phản ảnh, bài đó là bài nào, có phải của Phan Huy Ích không ? 
+<br />c.- Giáo sư Ðằng giới thiệu đây là một bài rất giá trị, vậy xin cho biết nó giá trị ở phương diện nào, là một bản cổ văn hay nó còn cho biết xuất xứ dịch giả. Cho tới bây giờ thì dịch giả của nó vẫn là bà Ðoàn Thj Ðiểm. 
+<br />Kính 
+<br />e-mail : nguoibanhaingoai@yahoo.fr 
+<br />
+<br />Câu hỏi nay vẫn chưa được bạn Sơn hoặc giáo sư Ðằng trả lời. Quy vị
+<br /> bận chăng ?
+<br />
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=74&amp;sid=73&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

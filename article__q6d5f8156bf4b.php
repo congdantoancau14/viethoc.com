@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,12 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>///
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +155,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a>Diễn Ðàn Việt-Học mới thêm <a href="http://www.viethoc.org/phorum/index.php">Diễn Ðàn Văn Hoá</a>. Chúng tôi xin trích bài <a href="http://www.viethoc.org/eholdings/AGide.pdf" target="new_window">Mục Sư Tâm Khúc</a>, đọc sách La Symphonie Pastorale của André Gide trong tập “Ký ức của Lê Văn Ðặng” và đưa vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a>. <br />Phần này cũng giúp trả lời câu hỏi mới đây của một khách viếng trang nhà Việt-Học, bạn Lê Công Bình, Seattle University, có đề cập trên Diễn Ðàn Việt Học.<br><br /> - <i>Lê Văn Ðặng</i> -
+	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a>Diễn Ðàn Việt-Học mới thêm <a href="http://www.viethoc.org/phorum/index.php">Diễn Ðàn Văn Hoá</a>. Chúng tôi xin trích bài <a href="http://www.viethoc.org/eholdings/AGide.pdf" target="new_window">Mục Sư Tâm Khúc</a>, đọc sách La Symphonie Pastorale của André Gide trong tập “Ký ức của Lê Văn Ðặng” và đưa vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a>. <br />Phần này cũng giúp trả lời câu hỏi mới đây của một khách viếng trang nhà Việt-Học, bạn Lê Công Bình, Seattle University, có đề cập trên Diễn Ðàn Việt Học.<br>
+<br /> - <i>Lê Văn Ðặng</i> -
 	</td>
 </tr>
 </table>

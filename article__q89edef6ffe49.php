@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR><br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -150,7 +154,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>龍城佳人  姓氏不記清  獨擅阮琴  <br />Long Thành giai nhơn, Tính thị bất ký thanh, Độc thiện Nguyễn cầm ...<br /><br />Trong lời mở đầu, tác giả viết về giai nhơn 佳人:  ... Sau gặp nàng ờ nhà anh tôi.  Nàng không đẹp, thấp người, má phính, tráng dồ, mặt gãy, khéo trang điểm, vẻ trang nhã.  Nàng hay uống rượu, mỗi lần uống đều say, nôm mửa cả ra, nằm dài trên mặt đất. <br /><br /><b><a href="/eholdings/LongThanhCamGiaCa.pdf">Long Thành Cầm Giả Ca</a></b>  龍城琴者歌 của  <b><i>Nguyễn Du</i></b>  阮攸 có nhiều dị bản.  Chúng tôi có trình bày bản do <b><i>Lãng Nhân</i></b> sưu tập.  Nay xin thay bản đó bằng bản trích trong <b>Bắc Hành Tạp Lục</b> 北行雜錄 .  Bản Quốc ngữ của <b>Học Canh</b> vẫn được giữ lại.<br /><br /><i>Lê Văn Ðặng</i> 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>龍城佳人  姓氏不記清  獨擅阮琴  
+<br />Long Thành giai nhơn, Tính thị bất ký thanh, Độc thiện Nguyễn cầm ...
+<br />
+<br />Trong lời mở đầu, tác giả viết về giai nhơn 佳人:  ... Sau gặp nàng ờ nhà anh tôi.  Nàng không đẹp, thấp người, má phính, tráng dồ, mặt gãy, khéo trang điểm, vẻ trang nhã.  Nàng hay uống rượu, mỗi lần uống đều say, nôm mửa cả ra, nằm dài trên mặt đất. 
+<br />
+<br /><b><a href="/eholdings/LongThanhCamGiaCa.pdf">Long Thành Cầm Giả Ca</a></b>  龍城琴者歌 của  <b><i>Nguyễn Du</i></b>  阮攸 có nhiều dị bản.  Chúng tôi có trình bày bản do <b><i>Lãng Nhân</i></b> sưu tập.  Nay xin thay bản đó bằng bản trích trong <b>Bắc Hành Tạp Lục</b> 北行雜錄 .  Bản Quốc ngữ của <b>Học Canh</b> vẫn được giữ lại.
+<br />
+<br /><i>Lê Văn Ðặng</i> 
 	</td>
 </tr>
 </table>
@@ -199,7 +210,9 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="45"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Chuyện Cô Cầm</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 28 March @ 08:00:39</td></tr><tr><td class="type5">Viện Việt Học đã soạn xong một dị bản bài thơ chữ Hán của Nguyễn Du, sẽ thay thế bản chữ Hán do Lãng Nhân dẫn trong sách Hán Văn Tinh Tuý.  Bản QN của Học Canh vẫn được giữ lại . Bản dịch của Học Canh hay hơn các bản dịch hiện có.<br />Chúng tôi sẽ thay thế vào lối đầu tháng Tư tới đây bản chữ Hán đồng thời với bài Tỳ Bà Hành cũng vừa được duyệt lại trong tháng Ba 2002.<br />Lê Văn Đặng</td></tr></table><br />[ 
+<a name="45"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Chuyện Cô Cầm</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 28 March @ 08:00:39</td></tr><tr><td class="type5">Viện Việt Học đã soạn xong một dị bản bài thơ chữ Hán của Nguyễn Du, sẽ thay thế bản chữ Hán do Lãng Nhân dẫn trong sách Hán Văn Tinh Tuý.  Bản QN của Học Canh vẫn được giữ lại . Bản dịch của Học Canh hay hơn các bản dịch hiện có.
+<br />Chúng tôi sẽ thay thế vào lối đầu tháng Tư tới đây bản chữ Hán đồng thời với bài Tỳ Bà Hành cũng vừa được duyệt lại trong tháng Ba 2002.
+<br />Lê Văn Đặng</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=45&amp;sid=33&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -190,7 +190,16 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=4&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Tin-Tức" align="right" hspace="4" /></a>Tờ báo Việt Mercury ngày 25 tháng 5, 2001 đã tường trình buổi thuyết trình của giáo sư Nguyễn Khắc Minh như sau ... <br /><I>Việt Mercury, 25/5/01</I><BR /><br />GARDEN GROVE - Trong chương trình giới thiệu, phát huy và bảo tồn văn hóa Việt Nam của Viện Việt Học, hồi 2 giờ chiều ngày 20 tháng Năm, 2001 tại giảng đường chính của Viện Việt Học, giáo sư Nguyễn Khắc Hoạch, giáo sư Nguyễn Phúc Bửu Tập, viện trưởng và viện phó đã giới thiệu bác sĩ Nguyễn Khắc Minh nguyên là giáo sư trưởng khoa Gây Mê và Hồi Sức của Trường Ðại Học Y Khoa Sài Gòn thuyết trình về đề tài "Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết."<br /><br />Trong hơn hai tiếng đồng hồ với lối trình bày giản dị dễ hiểu và lôi cuốn, bác sĩ Minh đã chứng minh rằng vào thế kỷ 18, ở vào thời kỳ Trịnh Nguyễn phân tranh, trong khi Tây y vẫn còn mơ hồ, chưa rõ ràng và tiến bộ nhanh như bây giờ, và trong lúc y học Trung Hoa thì phức tạp khó hiểu, Việt Nam ta đã có một danh y là Hải Thượng Lãn Ông.<br /><br />Ông đã để lại cho hậu thế nhiều bộ sách thuốc vô cùng quí giá mà vì thời gian hạn chế bác sĩ Nguyễn Khắc Minh chỉ giới thiệu một chương nhỏ, đó là "Vệ Sinh Yếu Quyết" tức y khoa phòng ngừa của chúng ta bây giờ với những phương thuốc đơn giản và có sẵn rất nhiều ở nước ta.<br /><br />Theo giáo sư Minh, trước đó nước ta cũng có nhiều lương y, trong đó có Tuệ Tĩnh nhưng Lãn Ông đã để lại cho chúng ta những bài học thật đơn giản, phổ thông và đại chúng.<br /><br />Trước một cử tọa, đa số là những người hành nghề y, dược, người đi dự nhận thấy có sự hiện diện của giáo sư Ðào Hữu Anh, nguyên khoa trưởng trường Y Khoa Sài Gòn, giáo sư Tô Ðồng nguyên khoa trưởng Dược Khoa, giáo sư Lê Quốc Hanh, bác sĩ Phạm Gia Cổn, bác sĩ Bùi Hoài Trung, dược sĩ Trần Ðức Hiếu.
+	<a href="search.php?query=&amp;topic=4&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Tin-Tức" align="right" hspace="4" /></a>Tờ báo Việt Mercury ngày 25 tháng 5, 2001 đã tường trình buổi thuyết trình của giáo sư Nguyễn Khắc Minh như sau ... <br /><I>Việt Mercury, 25/5/01</I><BR />
+<br />GARDEN GROVE - Trong chương trình giới thiệu, phát huy và bảo tồn văn hóa Việt Nam của Viện Việt Học, hồi 2 giờ chiều ngày 20 tháng Năm, 2001 tại giảng đường chính của Viện Việt Học, giáo sư Nguyễn Khắc Hoạch, giáo sư Nguyễn Phúc Bửu Tập, viện trưởng và viện phó đã giới thiệu bác sĩ Nguyễn Khắc Minh nguyên là giáo sư trưởng khoa Gây Mê và Hồi Sức của Trường Ðại Học Y Khoa Sài Gòn thuyết trình về đề tài "Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết."
+<br />
+<br />Trong hơn hai tiếng đồng hồ với lối trình bày giản dị dễ hiểu và lôi cuốn, bác sĩ Minh đã chứng minh rằng vào thế kỷ 18, ở vào thời kỳ Trịnh Nguyễn phân tranh, trong khi Tây y vẫn còn mơ hồ, chưa rõ ràng và tiến bộ nhanh như bây giờ, và trong lúc y học Trung Hoa thì phức tạp khó hiểu, Việt Nam ta đã có một danh y là Hải Thượng Lãn Ông.
+<br />
+<br />Ông đã để lại cho hậu thế nhiều bộ sách thuốc vô cùng quí giá mà vì thời gian hạn chế bác sĩ Nguyễn Khắc Minh chỉ giới thiệu một chương nhỏ, đó là "Vệ Sinh Yếu Quyết" tức y khoa phòng ngừa của chúng ta bây giờ với những phương thuốc đơn giản và có sẵn rất nhiều ở nước ta.
+<br />
+<br />Theo giáo sư Minh, trước đó nước ta cũng có nhiều lương y, trong đó có Tuệ Tĩnh nhưng Lãn Ông đã để lại cho chúng ta những bài học thật đơn giản, phổ thông và đại chúng.
+<br />
+<br />Trước một cử tọa, đa số là những người hành nghề y, dược, người đi dự nhận thấy có sự hiện diện của giáo sư Ðào Hữu Anh, nguyên khoa trưởng trường Y Khoa Sài Gòn, giáo sư Tô Ðồng nguyên khoa trưởng Dược Khoa, giáo sư Lê Quốc Hanh, bác sĩ Phạm Gia Cổn, bác sĩ Bùi Hoài Trung, dược sĩ Trần Ðức Hiếu.
 	</td>
 </tr>
 </table>
@@ -239,7 +248,9 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="8"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 17 July @ 17:56:38</td></tr><tr><td class="type5">Kính gởi giáo sư Viện Trưởng,<br /><br />    BS Nguyễn Khắc Minh giảng dạy gây tê mê và hồi sức bằng phương pháp y khoa cổ truyền hay bằng phương pháp y học tây phương ?  Kính . Xuân Hồng</td></tr></table><br />[ 
+<a name="8"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết</span>&nbsp;(Score 0)<br /> by: Anonymous on: Tuesday 17 July @ 17:56:38</td></tr><tr><td class="type5">Kính gởi giáo sư Viện Trưởng,
+<br />
+<br />    BS Nguyễn Khắc Minh giảng dạy gây tê mê và hồi sức bằng phương pháp y khoa cổ truyền hay bằng phương pháp y học tây phương ?  Kính . Xuân Hồng</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=8&amp;sid=12&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

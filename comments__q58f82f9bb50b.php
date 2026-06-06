@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,9 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Chuyện Cô Cầm</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Thursday 28 March @ 08:00:39</td></tr><tr><td class="type5">Viện Việt Học đã soạn xong một dị bản bài thơ chữ Hán của Nguyễn Du, sẽ thay thế bản chữ Hán do Lãng Nhân dẫn trong sách Hán Văn Tinh Tuý.  Bản QN của Học Canh vẫn được giữ lại . Bản dịch của Học Canh hay hơn các bản dịch hiện có.<br />Chúng tôi sẽ thay thế vào lối đầu tháng Tư tới đây bản chữ Hán đồng thời với bài Tỳ Bà Hành cũng vừa được duyệt lại trong tháng Ba 2002.<br />Lê Văn Đặng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Chuyện Cô Cầm</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Thursday 28 March @ 08:00:39</td></tr><tr><td class="type5">Viện Việt Học đã soạn xong một dị bản bài thơ chữ Hán của Nguyễn Du, sẽ thay thế bản chữ Hán do Lãng Nhân dẫn trong sách Hán Văn Tinh Tuý.  Bản QN của Học Canh vẫn được giữ lại . Bản dịch của Học Canh hay hơn các bản dịch hiện có.
+<br />Chúng tôi sẽ thay thế vào lối đầu tháng Tư tới đây bản chữ Hán đồng thời với bài Tỳ Bà Hành cũng vừa được duyệt lại trong tháng Ba 2002.
+<br />Lê Văn Đặng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Chuyện Cô Cầm" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

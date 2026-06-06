@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -140,7 +143,20 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 28 January @ 14:38:48</td></tr><tr><td class="type5">Kinh gu+?i ban DDieu ha`nh va` O^ng Viet Chi,<br /><br /><br />DDoc qua nhu+~ng lo`i than phie^`n cua ong Viet Chi to^i co' ca?m gia'c ra`ng o^ng VC ddang tra'ch mo'c va` phie^`n ha` ban ddieu ha`nh VVH. Co' the^? ddo' cu~ng la` mot va`i y' kien kha'c cua nhu+~ng vi kha'c ma` ho. chu+a no'i ra cha(ng?   To^i la` mot ke? ha^.u sinh do^'t dda.t ca'n cuo^'c cho ne^n khg co' ba`i vo+? gi` dde^? ddang va`o da^y ca? Tu` ddo' to^i nghi~ to^i se~ cong bi`nh trong y' kien do'ng go'p [Ho^ng biet co' ddu'ng nhu+ vay hong :-) ] Toi xin de` nghi., neu VVH co' du? cho^~ thi` ddu`ng ne^n lay ba`i na`y roi dang ba`i kha'c le^n la`m cho tac gia buo`n lo`ng. Co`n neu nhu+ khg co' cho^~ dde^? cu`ng ddang nhieu ba`i thi` viec lay ba`i cua Ong Viet Chi va` thay vo ba`i cua Ong Le Van DDang la` dieu hop ly'.<br /><br />Ngoa`i ra, toi xin co' i' kien voi ong Viet Chi,<br /><br />Khong biet ong Viet Chi trong khi viet y' kien co' no^?i gia^.n hay kho^ng, nhu+ng trong lo+`i va(n cua o^ng co' lu+?a sa^n ha^.n o+? be^n trong. To^i tro^.m nghi~ nhu+~ng ba^.c tuoi cao, co' ddoc va` ho.c chu+~No^m, chu+~ Ha'n  co' nghi~a ca` ca'c vi cao tuo^?i la` nhu+~ng ba^.c qua kho?i ca'i tuo^?i Tri Thie^n Ma.ng, biet the^' na`o la` DI.CH LY'  thi` du`ng ne^n gia^.n ho+`n nhu+ tuoi tre? chu'ng to^i.  <br /><br />Tren dday chi la` nhu+~ng y' kien   tho^ thie^?n mong ra(`ng no' kho^ng ga^y ra tranh ca?i. Neu co' la`m qui' vi. kho^ng ba(`ng lo`ng xin dduoc ru't la.i lo+`i no'i va` xin dduoc ban ky? thuat la^'y ra giu`m.<br /><br />Xin ca?m on.<br /><br />Le Viet Dieu </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 28 January @ 14:38:48</td></tr><tr><td class="type5">Kinh gu+?i ban DDieu ha`nh va` O^ng Viet Chi,
+<br />
+<br />
+<br />DDoc qua nhu+~ng lo`i than phie^`n cua ong Viet Chi to^i co' ca?m gia'c ra`ng o^ng VC ddang tra'ch mo'c va` phie^`n ha` ban ddieu ha`nh VVH. Co' the^? ddo' cu~ng la` mot va`i y' kien kha'c cua nhu+~ng vi kha'c ma` ho. chu+a no'i ra cha(ng?   To^i la` mot ke? ha^.u sinh do^'t dda.t ca'n cuo^'c cho ne^n khg co' ba`i vo+? gi` dde^? ddang va`o da^y ca? Tu` ddo' to^i nghi~ to^i se~ cong bi`nh trong y' kien do'ng go'p [Ho^ng biet co' ddu'ng nhu+ vay hong :-) ] Toi xin de` nghi., neu VVH co' du? cho^~ thi` ddu`ng ne^n lay ba`i na`y roi dang ba`i kha'c le^n la`m cho tac gia buo`n lo`ng. Co`n neu nhu+ khg co' cho^~ dde^? cu`ng ddang nhieu ba`i thi` viec lay ba`i cua Ong Viet Chi va` thay vo ba`i cua Ong Le Van DDang la` dieu hop ly'.
+<br />
+<br />Ngoa`i ra, toi xin co' i' kien voi ong Viet Chi,
+<br />
+<br />Khong biet ong Viet Chi trong khi viet y' kien co' no^?i gia^.n hay kho^ng, nhu+ng trong lo+`i va(n cua o^ng co' lu+?a sa^n ha^.n o+? be^n trong. To^i tro^.m nghi~ nhu+~ng ba^.c tuoi cao, co' ddoc va` ho.c chu+~No^m, chu+~ Ha'n  co' nghi~a ca` ca'c vi cao tuo^?i la` nhu+~ng ba^.c qua kho?i ca'i tuo^?i Tri Thie^n Ma.ng, biet the^' na`o la` DI.CH LY'  thi` du`ng ne^n gia^.n ho+`n nhu+ tuoi tre? chu'ng to^i.  
+<br />
+<br />Tren dday chi la` nhu+~ng y' kien   tho^ thie^?n mong ra(`ng no' kho^ng ga^y ra tranh ca?i. Neu co' la`m qui' vi. kho^ng ba(`ng lo`ng xin dduoc ru't la.i lo+`i no'i va` xin dduoc ban ky? thuat la^'y ra giu`m.
+<br />
+<br />Xin ca?m on.
+<br />
+<br />Le Viet Dieu </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Không Gian Chu Dịch" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -174,7 +174,9 @@
 </tr>
 </table>
 <br /><br />
-<a name="38"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 11 March @ 19:09:59</td></tr><tr><td class="type5">Ðó là thể thơ  “Thất Ngôn Trường Thiên Cổ Phong 七言長篇古風” không có niêm luật nhứt định.<br />Lê Văn Ðặng	<br /></td></tr></table><br />[ 
+<a name="38"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 11 March @ 19:09:59</td></tr><tr><td class="type5">Ðó là thể thơ  “Thất Ngôn Trường Thiên Cổ Phong 七言長篇古風” không có niêm luật nhứt định.
+<br />Lê Văn Ðặng	
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=38&amp;sid=32&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=32&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

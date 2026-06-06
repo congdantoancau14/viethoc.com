@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -174,7 +174,8 @@
 </tr>
 </table>
 <br /><br />
-<a name="47"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 16 August @ 19:22:21</td></tr><tr><td class="type5">toi muon mua cuon 1 cua bo sach Bon phuong may trang, tuy nhien, chua biet mua bang cach nao khi toi dang o trong nuoc va chi moi biet den thong tin nay (khong biet hien nay da xuat ban het 3 cuon chua)<br />E-mail cua toi: lamdienpv@yahooo.com</td></tr></table><br />[ 
+<a name="47"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 16 August @ 19:22:21</td></tr><tr><td class="type5">toi muon mua cuon 1 cua bo sach Bon phuong may trang, tuy nhien, chua biet mua bang cach nao khi toi dang o trong nuoc va chi moi biet den thong tin nay (khong biet hien nay da xuat ban het 3 cuon chua)
+<br />E-mail cua toi: lamdienpv@yahooo.com</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=47&amp;sid=25&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=25&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

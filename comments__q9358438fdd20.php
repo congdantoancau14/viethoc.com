@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -175,7 +175,11 @@
 </tr>
 </table>
 <br /><br />
-<a name="2"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Prof. Le, Dang published 214 radicals for Nôm</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 09 May @ 18:30:23</td></tr><tr><td class="type5">Dear Anonymous,<br />Thanks for your comment & question.<br />All 214 Radicals are Chinese (ChuHan/Nho).  Since ChuNom borrows everything from Chinese, the 214 Radicals are included.  Japanese uses them too in Kanji, besides there are major changes/modifications in TOYO Kanji (see Japanese-English Character Dictionary by A. Nelson, inner back cover for details).  I have sent some notes on 214-Radi. to the Web Master, he will soon post the file (in PDF) at the Nom Forum column.  You will find there the Nom borrowing/creation chart.  Another page about the Nom Simplfied will be posted at the Nom Forum within days.<br />Regards,<br />LeVanDang</td></tr></table><br />[ 
+<a name="2"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Prof. Le, Dang published 214 radicals for Nôm</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 09 May @ 18:30:23</td></tr><tr><td class="type5">Dear Anonymous,
+<br />Thanks for your comment & question.
+<br />All 214 Radicals are Chinese (ChuHan/Nho).  Since ChuNom borrows everything from Chinese, the 214 Radicals are included.  Japanese uses them too in Kanji, besides there are major changes/modifications in TOYO Kanji (see Japanese-English Character Dictionary by A. Nelson, inner back cover for details).  I have sent some notes on 214-Radi. to the Web Master, he will soon post the file (in PDF) at the Nom Forum column.  You will find there the Nom borrowing/creation chart.  Another page about the Nom Simplfied will be posted at the Nom Forum within days.
+<br />Regards,
+<br />LeVanDang</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=2&amp;sid=2&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=2&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

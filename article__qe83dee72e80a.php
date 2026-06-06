@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -150,7 +151,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a>Diễn Ðàn Việt-Học mới thêm <a href="http://www.viethoc.org/phorum/index.php">Diễn Ðàn Văn Hoá</a>. Chúng tôi xin trích bài <a href="http://www.viethoc.org/eholdings/AGide.pdf" target="new_window">Mục Sư Tâm Khúc</a>, đọc sách La Symphonie Pastorale của André Gide trong tập “Ký ức của Lê Văn Ðặng” và đưa vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a>. <br />Phần này cũng giúp trả lời câu hỏi mới đây của một khách viếng trang nhà Việt-Học, bạn Lê Công Bình, Seattle University, có đề cập trên Diễn Ðàn Việt Học.<br><br /> - <i>Lê Văn Ðặng</i> -
+	<a href="search.php?query=&amp;topic=14&amp;author="><img src="./images/topics/blank.gif" border="0" alt="No Topic" align="right" hspace="4" /></a>Diễn Ðàn Việt-Học mới thêm <a href="http://www.viethoc.org/phorum/index.php">Diễn Ðàn Văn Hoá</a>. Chúng tôi xin trích bài <a href="http://www.viethoc.org/eholdings/AGide.pdf" target="new_window">Mục Sư Tâm Khúc</a>, đọc sách La Symphonie Pastorale của André Gide trong tập “Ký ức của Lê Văn Ðặng” và đưa vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a>. <br />Phần này cũng giúp trả lời câu hỏi mới đây của một khách viếng trang nhà Việt-Học, bạn Lê Công Bình, Seattle University, có đề cập trên Diễn Ðàn Việt Học.<br>
+<br /> - <i>Lê Văn Ðặng</i> -
 	</td>
 </tr>
 </table>

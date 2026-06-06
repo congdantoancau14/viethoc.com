@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,18 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score: 1)<br /> by: anmota on: Wednesday 19 December @ 21:17:21</td></tr><tr><td class="type5">Cung  cac ban dong mon :<br />       Tai sao lai khong chi mot mon tien (nao do )  de  sach cua Ong Thay minh duoc hanh the .<br />       Sach ma duoc hanh the , thi la mot niem vui cua Ong Thay .<br />       Tai sao lai khong lam cho Ong Thay minh  vui vao cai tuoi hoang hon .<br />      Do la suy nghi cua toi , mot hoc tro cua thay Nguyen Si Te vao nien khoa 1955/1956 .<br />      Xin ngo cung cac ban .<br />Tran trong .<br />Pham Hue . Ca .<br /><br /><br /><br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score: 1)<br /> by: anmota on: Wednesday 19 December @ 21:17:21</td></tr><tr><td class="type5">Cung  cac ban dong mon :
+<br />       Tai sao lai khong chi mot mon tien (nao do )  de  sach cua Ong Thay minh duoc hanh the .
+<br />       Sach ma duoc hanh the , thi la mot niem vui cua Ong Thay .
+<br />       Tai sao lai khong lam cho Ong Thay minh  vui vao cai tuoi hoang hon .
+<br />      Do la suy nghi cua toi , mot hoc tro cua thay Nguyen Si Te vao nien khoa 1955/1956 .
+<br />      Xin ngo cung cac ban .
+<br />Tran trong .
+<br />Pham Hue . Ca .
+<br />
+<br />
+<br />
+<br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

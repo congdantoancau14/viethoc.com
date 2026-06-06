@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -140,7 +143,17 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Ðọc HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Friday 21 February @ 06:11:26</td></tr><tr><td class="type5">Kinh chao bac Le van Dang,<br /><br />duoc doc bai gioi thieu rat ti mi va chan thanh cua bac ve tac pham HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH, chau ra to mo ve nguyen ban.<br />Neu duoc bac co the cho biet lam sao co duoc ban sao cua tac pham nay, duoi dang nao cung duoc ( in giay hay dien tu). <br /><br />Xin cam on truoc va chuc bac luon an manh de tiep tuc dong gop<br />nhung cong trinh nghien cuu Han van gia tri.  <br /><br />Nguyen thanh Hung <br /><br />  </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Ðọc HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Friday 21 February @ 06:11:26</td></tr><tr><td class="type5">Kinh chao bac Le van Dang,
+<br />
+<br />duoc doc bai gioi thieu rat ti mi va chan thanh cua bac ve tac pham HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH, chau ra to mo ve nguyen ban.
+<br />Neu duoc bac co the cho biet lam sao co duoc ban sao cua tac pham nay, duoi dang nao cung duoc ( in giay hay dien tu). 
+<br />
+<br />Xin cam on truoc va chuc bac luon an manh de tiep tuc dong gop
+<br />nhung cong trinh nghien cuu Han van gia tri.  
+<br />
+<br />Nguyen thanh Hung 
+<br />
+<br />  </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Ðọc HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

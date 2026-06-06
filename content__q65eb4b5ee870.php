@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -125,7 +132,7 @@ Viện Việt-Học xin trân trọng lưu trữ những tài liệu, những b�
 Vũ Tiến Dũng hiện đang định cư tại Germany. Ông theo học Tin học, Ngôn ngữ học điện toán (UniStuttgart), chuyên sâu về ứng dụng trí thông minh nhân tạo trong lĩnh vực tự động hóa. Từ năm 1988 cho đến nay, ông nghiên cứu, giảng dạy, thực hiện, cố vấn kỹ nghệ về kỹ thuật tự động hóa (Competence Center for Machine Tools and Special Machines, Siemens AG, Stuttgart, Automation Research Center of Siemens - UniErlangen, Germany). Đây là cuốn sách thứ nhất thuộc chuỗi chuyên luận Tiếng Việt  và Ngôn Ngữ Học Hiện Đại của ông. <i>"Toàn chuỗi chuyên luận này sẽ cố gắng làm sáng tỏ sự khác biệt bằng những lý thuyết ngôn ngữ học mới (Functional Grammar, Lexical Functional Grammar, GPSG, HPSG, ...), xa hơn nữa là gợi ra những tiền đề có thể sử dụng tin học, biến tiếng Việt thành những ứng dụng hữu ích và nhân bản..."</i> (trích trang bìa sau của cuốn sách).
 </li></p><tr><td class="type5" valign="top" colspan="2"><p><hr size="1">
 <p><center><img src="images/user_pages/thvanhoa.jpg" border="0"></center></p>
-<UL>
+<UL>/
 <LI> <a href="eholdings/lichphap_VChi.pdf">Xuân Từ Trong Ấy ...</a>, <i>Việt Chi Nguyễn-Hữu Quang</i> (PDF, 103KB)<br />
 Bài khảo cứu về Lịch Tây Lịch Ta / Tàu.  Trong bài này, tác giả đổi Ngày Tháng Năm từ Tây qua Ðông với đầy đủ Can Chi dùng ‘công thức Việt Chi ’
 </LI><br /><br />

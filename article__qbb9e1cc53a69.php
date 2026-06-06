@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +153,17 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center><br /><br /><i>Lê Văn Ðặng</i><br /> <br /><hr /><p>Dans son rapport de présentation concernant la traduction française de M. Huỳnh Khắc Dụng, parue dans le Bulletin de la Société des Études Indochinoises, M. Lê Ngọc Trụ a écrit en 1955:</p><br /><p><i>“La femme de lettres Ðoàn Thị Ðiểm, toute remplie d’admiration pour le chef-d’œuvre de Ðặng Trần Côn, se mit à traduire le Chinh-phụ ngâm en langue vietnamienne.  D’après M. Hoàng Xuân Hãn, il y a en tout quatre traductions différentes dont une seule, de loin supérieure aux autres, a connu un éclatant succès qui se maintient jusqu’à nos jours.  La tradition veut qu’il soit l’œuvre de Ðoàn Thị Ðiểm.  M. Hoàng Xuân Hãn en attribue la paternité à Phan Huy Ích (1749-1822).  La controverse n’est toujours pas transchée."</i></p><br /><p><i>"Ce qui est certain, c’est que cette version en langue vietnamienne, qui comprend 412 vers disposés selon une métrique essentiellement vietnamienne (alternance de vers de 7-7, 6-8 pieds), jouit auprès du public d’une plus grande faveur que le texte original en caractères chinois.</i></p><br /><p><i>“Récemment M. Maurice Durand, dans le bulletin de la société (2e trimestre 1953) a le mérite de nous faire goûter une version du Chinh-phụ ngâm, faite à partir du texte original en chinois et non à travers la version vietnamienne de Ðoàn Thị Ðiểm.  La traduction suit de près le texte en caractères.  M. Huỳnh Khắc Dụng se propose, à son tour, de présenter une œuvre littéraire, en essayant de traduire en une prose poétique, dotée de notes explicatives plus claires.  La version de M. Huỳnh Khắc Dụng complète celle de M. Maurice Durand.”</i></p><br /><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><br /><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center><br />Lê Văn Ðặng<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center>
+<br />
+<br /><i>Lê Văn Ðặng</i>
+<br /> <br /><hr /><p>Dans son rapport de présentation concernant la traduction française de M. Huỳnh Khắc Dụng, parue dans le Bulletin de la Société des Études Indochinoises, M. Lê Ngọc Trụ a écrit en 1955:</p>
+<br /><p><i>“La femme de lettres Ðoàn Thị Ðiểm, toute remplie d’admiration pour le chef-d’œuvre de Ðặng Trần Côn, se mit à traduire le Chinh-phụ ngâm en langue vietnamienne.  D’après M. Hoàng Xuân Hãn, il y a en tout quatre traductions différentes dont une seule, de loin supérieure aux autres, a connu un éclatant succès qui se maintient jusqu’à nos jours.  La tradition veut qu’il soit l’œuvre de Ðoàn Thị Ðiểm.  M. Hoàng Xuân Hãn en attribue la paternité à Phan Huy Ích (1749-1822).  La controverse n’est toujours pas transchée."</i></p>
+<br /><p><i>"Ce qui est certain, c’est que cette version en langue vietnamienne, qui comprend 412 vers disposés selon une métrique essentiellement vietnamienne (alternance de vers de 7-7, 6-8 pieds), jouit auprès du public d’une plus grande faveur que le texte original en caractères chinois.</i></p>
+<br /><p><i>“Récemment M. Maurice Durand, dans le bulletin de la société (2e trimestre 1953) a le mérite de nous faire goûter une version du Chinh-phụ ngâm, faite à partir du texte original en chinois et non à travers la version vietnamienne de Ðoàn Thị Ðiểm.  La traduction suit de près le texte en caractères.  M. Huỳnh Khắc Dụng se propose, à son tour, de présenter une œuvre littéraire, en essayant de traduire en une prose poétique, dotée de notes explicatives plus claires.  La version de M. Huỳnh Khắc Dụng complète celle de M. Maurice Durand.”</i></p>
+<br /><p>L’Institut des Études Vietnamiennes invite cordialement ses amis à visiter la Bibliothèque de Việt-Học et lire une traduction française du <a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm</a>.  Les notes explicatives de M. Huỳnh Khắc Dụng ne sont pas reproduites dans cette version electronique. </p>
+<br /><center><a href="/eholdings/ChinhPhuNgam-Fr-VVH.rtf">Chinh-phụ ngâm en français</a></center>
+<br />Lê Văn Ðặng
+<br />
 	</td>
 </tr>
 </table>

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -150,7 +152,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Chúng tôi xin giới thiệu đến quý vị tập biên khảo và chuyên luận <i>Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp </i> của ông Vũ Tiến Dũng. Chúng tôi xin chân thành cám ơn ông Dũng đã gửi tập biên khảo đến Viện Việt-học cũng như đến với quý bạn đọc của Viện. <br />Thân mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=2400&page_id=56" target="new_window">Trang Thân Hữu</a> đọc tập biên khảo và chuyên luận <a href="http://www.vnx.org/eholdings/Syntax.pdf" target="new_window">Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp</a> của ông Vũ Tiến Dũng.<br />Trân trọng,<br />Viện Việt-học
+	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Chúng tôi xin giới thiệu đến quý vị tập biên khảo và chuyên luận <i>Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp </i> của ông Vũ Tiến Dũng. Chúng tôi xin chân thành cám ơn ông Dũng đã gửi tập biên khảo đến Viện Việt-học cũng như đến với quý bạn đọc của Viện. <br />Thân mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=2400&page_id=56" target="new_window">Trang Thân Hữu</a> đọc tập biên khảo và chuyên luận <a href="http://www.vnx.org/eholdings/Syntax.pdf" target="new_window">Tiếng Việt và ngôn ngữ học hiện đại: Sơ khảo về cú pháp</a> của ông Vũ Tiến Dũng.
+<br />Trân trọng,
+<br />Viện Việt-học
 	</td>
 </tr>
 </table>

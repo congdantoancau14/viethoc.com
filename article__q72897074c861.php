@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR>///
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +154,18 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Hơn 10 năm trước đây, Seattle Public Libraries có tổ chức Một Ngày Cho Thi Ca.  Tuy ít có dịp để ý về Thi Ca nhưng chúng tôi cũng tham dự ngày đó.  Sau khi dạo gần xong các tập thơ được trình bày, tình cờ bắt gặp một tập mong mỏng, với tên tác giả là Nguyễn Ngọc Bích, tựa đề A Thousand Years of Vietnamese Poetry, New York 1975.  Thú thật chúng tôi để ý đến sách này vì tác giả trùng tên với một người anh họ.  Mượn về đọc thấy lời dịch lưu loát nhẹ nhàng, so với tập Ca Dao Vietnam: A Bilingual Anthology of Vietnamese Folk Poetry, John Balaban, Unicorn Press 1974, có phần trội hơn.  Từ đó, hỏi han các bạn bè mới biết đó là một người yêu Văn Học nước nhà và đã bỏ công ra giới thiệu với thế giới qua các bản dịch bằng tiếng Anh.<br /> <br />Sau này, nhân dịp xuống Quận Cam, dự lễ Khai mạc Viện Việt Học, cố Giáo sư Viện Trưởng Nguyễn Ðình-Hoà có đưa đến dự lễ ra mắt sách “Nguyễn Ngọc Bích hiệu-đính Hồ Xuân Hương, Tác Phẩm”.  Trên đường đi, Giáo sư Hoà có dặn: “Khi tới nơi anh nhớ mua ngay một tập, đừng để trễ, sợ e không còn.”  Lại còn dặn thêm:  “Anh Bích đã soạn Thư Tịch Hồ Xuân Hương rất phong phú.  Trong sách Tam Thiên Tự của chúng mình, anh nên thêm sách này vào phần Tài Liệu Tham Khảo.”<br /><br />Mấy dòng trên đây nhắc lại cơ duyên chúng tôi biết được Giáo sư Nguyễn Ngọc Bích.  Mới đây Giáo sư Bích có cho đăng trên tạp chí Văn Học một bài bút khảo về thơ Nôm Hồ Xuân Hương.  Tác giả có nhã ý cho phép Viện Việt Học phổ biến bài bút khảo sau khi duyệt lại và yêu cầu chúng tôi giúp bổ túc bằng cách chua một số chữ Hán-Nôm."  Với 20 trang Thư Tịch Hồ Xuân Hương, soạn cho tác phẩm Hồ Xuân Hương, Giáo sư Nguyễn Ngọc Bích tỏ ra có thẩm quyền bàn luận về các bài Thơ Nôm của Nữ sĩ họ Hồ.  <br /><br />Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/HXH-VanbanNom04-03.pdf" target="new_window">Hồ Xuân Hương: Những Văn Bản Thơ Nôm</a> được công bố từ năm 1968 của Giáo sư Nguyễn Ngọc Bích.<br /><br />Xin chân thành cảm ơn tác giả.<br /><br />Seattle, tháng 6 năm 2003<br />Lê Văn Ðặng. <br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Hơn 10 năm trước đây, Seattle Public Libraries có tổ chức Một Ngày Cho Thi Ca.  Tuy ít có dịp để ý về Thi Ca nhưng chúng tôi cũng tham dự ngày đó.  Sau khi dạo gần xong các tập thơ được trình bày, tình cờ bắt gặp một tập mong mỏng, với tên tác giả là Nguyễn Ngọc Bích, tựa đề A Thousand Years of Vietnamese Poetry, New York 1975.  Thú thật chúng tôi để ý đến sách này vì tác giả trùng tên với một người anh họ.  Mượn về đọc thấy lời dịch lưu loát nhẹ nhàng, so với tập Ca Dao Vietnam: A Bilingual Anthology of Vietnamese Folk Poetry, John Balaban, Unicorn Press 1974, có phần trội hơn.  Từ đó, hỏi han các bạn bè mới biết đó là một người yêu Văn Học nước nhà và đã bỏ công ra giới thiệu với thế giới qua các bản dịch bằng tiếng Anh.
+<br /> <br />Sau này, nhân dịp xuống Quận Cam, dự lễ Khai mạc Viện Việt Học, cố Giáo sư Viện Trưởng Nguyễn Ðình-Hoà có đưa đến dự lễ ra mắt sách “Nguyễn Ngọc Bích hiệu-đính Hồ Xuân Hương, Tác Phẩm”.  Trên đường đi, Giáo sư Hoà có dặn: “Khi tới nơi anh nhớ mua ngay một tập, đừng để trễ, sợ e không còn.”  Lại còn dặn thêm:  “Anh Bích đã soạn Thư Tịch Hồ Xuân Hương rất phong phú.  Trong sách Tam Thiên Tự của chúng mình, anh nên thêm sách này vào phần Tài Liệu Tham Khảo.”
+<br />
+<br />Mấy dòng trên đây nhắc lại cơ duyên chúng tôi biết được Giáo sư Nguyễn Ngọc Bích.  Mới đây Giáo sư Bích có cho đăng trên tạp chí Văn Học một bài bút khảo về thơ Nôm Hồ Xuân Hương.  Tác giả có nhã ý cho phép Viện Việt Học phổ biến bài bút khảo sau khi duyệt lại và yêu cầu chúng tôi giúp bổ túc bằng cách chua một số chữ Hán-Nôm."  Với 20 trang Thư Tịch Hồ Xuân Hương, soạn cho tác phẩm Hồ Xuân Hương, Giáo sư Nguyễn Ngọc Bích tỏ ra có thẩm quyền bàn luận về các bài Thơ Nôm của Nữ sĩ họ Hồ.  
+<br />
+<br />Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/HXH-VanbanNom04-03.pdf" target="new_window">Hồ Xuân Hương: Những Văn Bản Thơ Nôm</a> được công bố từ năm 1968 của Giáo sư Nguyễn Ngọc Bích.
+<br />
+<br />Xin chân thành cảm ơn tác giả.
+<br />
+<br />Seattle, tháng 6 năm 2003
+<br />Lê Văn Ðặng. 
+<br />
 	</td>
 </tr>
 </table>

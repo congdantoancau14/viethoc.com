@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -190,7 +190,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>Never before have we seen a more responsive & effective forum on such a hard topic as Nôm! We are grateful to have Prof. Lê Văn Ðặng on the forum, not only to answer questions, but also provide materials to the topic. Please join us on the <a href="http://www.viethoc.org/phorum/list.php?f=11">Nôm forum</a> and here is the <a href="http://www.viethoc.org/214_Notes.pdf">Notes on 214 Historical Radicals of Nôm.</a> <br />Each Hán/Nôm character is written with different character elements called radicals and some additional strokes. Most Chinese Dictionaries classify the radicals in the traditional radical-stroke system.<BR><br />The Kangxi dictionary uses the 214-radical system; Cihai as well as Ciyuan also classify characters in this traditional stroke count system. In Vietnam, the famous Hán Việt Tự Ðiển by Thiều Chửu classifies the radicals a bit differently from the authoritative Kangxi, using only 213 radicals (the two radicals 34 & 35 are grouped together). Most of the newly created Nôm characters are difficult to classify. Prof. Chen Ching-ho for example likely used the sound / phonetic components: the characters <b>lên</b> (to go up) and <b>trên</b> (space above) are found in the radical No. 162 <b>xước</b> (to pace) following the sound element <b>liên</b> (to unite). If classified according to the meaning components, the<br />two characters will be with the characters <b>thăng</b> (to go up) in the radical <b>thập</b> (ten) and <b?thượng</b> (above) in the radical nhứt (one) successively... (Please see the full article <a href="http://www.viethoc.org/214_Notes.pdf">here</a>)
+	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>Never before have we seen a more responsive & effective forum on such a hard topic as Nôm! We are grateful to have Prof. Lê Văn Ðặng on the forum, not only to answer questions, but also provide materials to the topic. Please join us on the <a href="http://www.viethoc.org/phorum/list.php?f=11">Nôm forum</a> and here is the <a href="http://www.viethoc.org/214_Notes.pdf">Notes on 214 Historical Radicals of Nôm.</a> <br />Each Hán/Nôm character is written with different character elements called radicals and some additional strokes. Most Chinese Dictionaries classify the radicals in the traditional radical-stroke system.<BR>
+<br />The Kangxi dictionary uses the 214-radical system; Cihai as well as Ciyuan also classify characters in this traditional stroke count system. In Vietnam, the famous Hán Việt Tự Ðiển by Thiều Chửu classifies the radicals a bit differently from the authoritative Kangxi, using only 213 radicals (the two radicals 34 & 35 are grouped together). Most of the newly created Nôm characters are difficult to classify. Prof. Chen Ching-ho for example likely used the sound / phonetic components: the characters <b>lên</b> (to go up) and <b>trên</b> (space above) are found in the radical No. 162 <b>xước</b> (to pace) following the sound element <b>liên</b> (to unite). If classified according to the meaning components, the
+<br />two characters will be with the characters <b>thăng</b> (to go up) in the radical <b>thập</b> (ten) and <b?thượng</b> (above) in the radical nhứt (one) successively... (Please see the full article <a href="http://www.viethoc.org/214_Notes.pdf">here</a>)
 	</td>
 </tr>
 </table>
@@ -239,7 +241,11 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="3"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Notes on 214 Historical Radicals</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 11 May @ 21:22:26</td></tr><tr><td class="type5">Dear Prof. LeVanDang, below are some questions for you or for the visitors of Nom Forum.<br />1.  Note 1 is about classification of Nom Characters in the 214-radical system.  To classify by the meaning element or the sound element, which one is better?  To me, the sound element makes more sens and preferable for the classification.  First of all, Nom characters used in any work, must produce sound. Once we read it correctly, the meaning comes out without much difficulty.  Do you agree?<br />2. The stroke count is very confusing, specially when reading hand writing or woodcut print.  Do you have some way to overcome these problems?<br />Thanks for the useful materials you are publishing.<br />PBL</td></tr></table><br />[ 
+<a name="3"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Notes on 214 Historical Radicals</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 11 May @ 21:22:26</td></tr><tr><td class="type5">Dear Prof. LeVanDang, below are some questions for you or for the visitors of Nom Forum.
+<br />1.  Note 1 is about classification of Nom Characters in the 214-radical system.  To classify by the meaning element or the sound element, which one is better?  To me, the sound element makes more sens and preferable for the classification.  First of all, Nom characters used in any work, must produce sound. Once we read it correctly, the meaning comes out without much difficulty.  Do you agree?
+<br />2. The stroke count is very confusing, specially when reading hand writing or woodcut print.  Do you have some way to overcome these problems?
+<br />Thanks for the useful materials you are publishing.
+<br />PBL</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=3&amp;sid=4&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

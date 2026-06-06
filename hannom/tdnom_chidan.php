@@ -69,7 +69,7 @@ window.JOT_formatRelativeToNow=function(b,a){var c=((new Date).getTime()-b)/6E4;
 <div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="height:auto;">
 <table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="height:auto;">
 <tr class="sites-header-primary-row" id="sites-chrome-userheader">
-<td id="sites-header-title" class="sites-chrome-header-valign-middle"><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.viethoc.com/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1445308033595/config/customLogo.gif?revision=2" alt="web" class="sites-logo sites-chrome-header-valign-middle " /></a></h2></div></td><td class="sites-layout-searchbox sites-chrome-header-valign-middle "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/customSearch" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-ns" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search all sites" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-select-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search all sites</div><div id="sites-searchbox-select-dropdown" class="goog-inline-block goog-flat-menu-button"><div class="goog-inline-block goog-flat-menu-button-caption"></div><div class="goog-inline-block goog-flat-menu-button-dropdown sites-jfk-menu-button-dropdown"> </div></div></div></form></div></td>
+<td id="sites-header-title" class="sites-chrome-header-valign-middle"><div class="sites-header-cell-buffer-wrapper"><h2><a href="/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1445308033595/config/customLogo.gif?revision=2" alt="web" class="sites-logo sites-chrome-header-valign-middle " /></a></h2></div></td><td class="sites-layout-searchbox sites-chrome-header-valign-middle "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/customSearch" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-ns" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search all sites" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-select-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search all sites</div><div id="sites-searchbox-select-dropdown" class="goog-inline-block goog-flat-menu-button"><div class="goog-inline-block goog-flat-menu-button-caption"></div><div class="goog-inline-block goog-flat-menu-button-dropdown sites-jfk-menu-button-dropdown"> </div></div></div></form></div></td>
 </tr>
 <tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
 <td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
@@ -82,8 +82,8 @@ window.JOT_formatRelativeToNow=function(b,a){var c=((new Date).getTime()-b)/6E4;
 <table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
 <tr>
 <td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:170px">
-<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><h4 class="sites-embed-title">Danh Mục</h4><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.com/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Website Cũ</a></div></li><li class="topLevel parent " wuid="gx:5a259464de4a8216"><div class="current-bg" jotId="wuid:gx:5a259464de4a8216" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Viện Việt-Học</div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/about" jotId="wuid:gx:59f5e2841e34cef1" class="sites-navigation-link">About</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/muc-dhich" jotId="wuid:gx:11618ced453684f6" class="sites-navigation-link">Mục Đích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/co-cau-to-chuc" jotId="wuid:gx:115e411aceaca77" class="sites-navigation-link">Cơ Cấu Tổ Chức</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/sinh-hoat" jotId="wuid:gx:2c5c009d07a368cd" class="sites-navigation-link">Sinh Hoạt</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/chuong-trinh-sinh-hoat" jotId="wuid:gx:3ff426fed0a21075" class="sites-navigation-link">Lịch Sinh Hoạt</a></div></li></ul></li><li class="topLevel parent " wuid="gx:78d55b25fde25d95"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/viet-hoc-thu-quan-1" jotId="wuid:gx:78d55b25fde25d95" class="sites-navigation-link topLevel">Thư Viện</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ho-so-van-ban-dhien-tu" jotId="wuid:gx:d53ec5b7bdd7e6b" class="sites-navigation-link">Sử</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/van-hoc" jotId="wuid:gx:6e298b9d72508331" class="sites-navigation-link">Văn Học</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ngon-ngu" jotId="wuid:gx:bf0d1ebd5314966" class="sites-navigation-link">Ngôn Ngữ</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/than-huu" jotId="wuid:gx:1d83c030e0267fb6" class="sites-navigation-link">Thân Hữu</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2165037b0a8baa3a"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/Ban-Ging-Hun" jotId="wuid:gx:2165037b0a8baa3a" class="sites-navigation-link topLevel">Ban Giảng Huấn</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-the-anh" jotId="wuid:gx:1a4f6a65381b9c49" class="sites-navigation-link">Nguyễn Thế Anh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-ngoc-bich" jotId="wuid:gx:84ca3bf88d0dccb" class="sites-navigation-link">Nguyễn Ngọc Bích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/pham-van-hai" jotId="wuid:gx:7cda5d8133fc48a8" class="sites-navigation-link">Phạm Văn Hải</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-dhinh-hoa" jotId="wuid:gx:4dfee4c5089831a5" class="sites-navigation-link">Nguyễn Đình Hoà</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-khac-hoach" jotId="wuid:gx:586d396839584a1f" class="sites-navigation-link">Nguyễn Khắc Hoạch</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dhoan-khoach" jotId="wuid:gx:703db01c7e8f0b79" class="sites-navigation-link">Đoàn Khoách</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-ngoc-ninh" jotId="wuid:gx:5bc8f14c711f5c87" class="sites-navigation-link">Trần Ngọc Ninh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dham-trung-phap" jotId="wuid:gx:6cfd5e06995a18d7" class="sites-navigation-link">Đàm Trung Pháp</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-gia-phung" jotId="wuid:gx:4aceb2a330069e8c" class="sites-navigation-link">Trần Gia Phụng</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-van-sam" jotId="wuid:gx:6b719110b81f19ef" class="sites-navigation-link">Nguyễn Văn Sâm</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Ti-Liu" jotId="wuid:gx:3c89211deb95a5dd" class="sites-navigation-link topLevel">Tài Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/van-hoc" jotId="wuid:gx:598a5317d05759bf" class="sites-navigation-link topLevel">Văn Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Home/lop-ngu-phap-viet-ngu" jotId="wuid:gx:44e28dca3ba78bb7" class="sites-navigation-link topLevel">Lớp Ngữ Pháp Việt Ngữ</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/du-an" jotId="wuid:gx:24b8dc0f09ce379f" class="sites-navigation-link topLevel">Dự Án</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/nhu-lieu" jotId="wuid:gx:36c6a84cede79896" class="sites-navigation-link topLevel">Nhu Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://store.viethoc.com" class="sites-navigation-link topLevel">Tiệm Sách</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.com/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Diễn Đàn Viện Việt-Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.clbvnvvh.org/" class="sites-navigation-link topLevel" target="_blank">Câu Lạc Bộ Văn Nghệ – Viện Việt-Học</a></div></li></ul></div></div>
-<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6989304010477204" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Vinh Danh</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><span style="color:rgb(39,78,19)">GS Nguyễn Khắc Kham</span><br /><ul><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham">Đôi nét về GS</a><br /></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/thuong-tho-100-tuoi">Thượng thọ 100 tuổi</a></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/cac-bai-viet">Các bài viết về GS</a></li><li><a href="http://www.viethoc.com/vinh-danh/gs-nguyen-khac-kham/tang-le">Tang lễ</a><br /></li></ul></div></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><h4 class="sites-embed-title">Danh Mục</h4><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first "><div dir="ltr" style="padding-left: 19px;"><a href="/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Website Cũ</a></div></li><li class="topLevel parent " wuid="gx:5a259464de4a8216"><div class="current-bg" jotId="wuid:gx:5a259464de4a8216" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Viện Việt-Học</div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/about" jotId="wuid:gx:59f5e2841e34cef1" class="sites-navigation-link">About</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/muc-dhich" jotId="wuid:gx:11618ced453684f6" class="sites-navigation-link">Mục Đích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/co-cau-to-chuc" jotId="wuid:gx:115e411aceaca77" class="sites-navigation-link">Cơ Cấu Tổ Chức</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/sinh-hoat" jotId="wuid:gx:2c5c009d07a368cd" class="sites-navigation-link">Sinh Hoạt</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/chuong-trinh-sinh-hoat" jotId="wuid:gx:3ff426fed0a21075" class="sites-navigation-link">Lịch Sinh Hoạt</a></div></li></ul></li><li class="topLevel parent " wuid="gx:78d55b25fde25d95"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/viet-hoc-thu-quan-1" jotId="wuid:gx:78d55b25fde25d95" class="sites-navigation-link topLevel">Thư Viện</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ho-so-van-ban-dhien-tu" jotId="wuid:gx:d53ec5b7bdd7e6b" class="sites-navigation-link">Sử</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/van-hoc" jotId="wuid:gx:6e298b9d72508331" class="sites-navigation-link">Văn Học</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ngon-ngu" jotId="wuid:gx:bf0d1ebd5314966" class="sites-navigation-link">Ngôn Ngữ</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/than-huu" jotId="wuid:gx:1d83c030e0267fb6" class="sites-navigation-link">Thân Hữu</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2165037b0a8baa3a"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/Ban-Ging-Hun" jotId="wuid:gx:2165037b0a8baa3a" class="sites-navigation-link topLevel">Ban Giảng Huấn</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-the-anh" jotId="wuid:gx:1a4f6a65381b9c49" class="sites-navigation-link">Nguyễn Thế Anh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-ngoc-bich" jotId="wuid:gx:84ca3bf88d0dccb" class="sites-navigation-link">Nguyễn Ngọc Bích</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/pham-van-hai" jotId="wuid:gx:7cda5d8133fc48a8" class="sites-navigation-link">Phạm Văn Hải</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-dhinh-hoa" jotId="wuid:gx:4dfee4c5089831a5" class="sites-navigation-link">Nguyễn Đình Hoà</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-khac-hoach" jotId="wuid:gx:586d396839584a1f" class="sites-navigation-link">Nguyễn Khắc Hoạch</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dhoan-khoach" jotId="wuid:gx:703db01c7e8f0b79" class="sites-navigation-link">Đoàn Khoách</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-ngoc-ninh" jotId="wuid:gx:5bc8f14c711f5c87" class="sites-navigation-link">Trần Ngọc Ninh</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/dham-trung-phap" jotId="wuid:gx:6cfd5e06995a18d7" class="sites-navigation-link">Đàm Trung Pháp</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/tran-gia-phung" jotId="wuid:gx:4aceb2a330069e8c" class="sites-navigation-link">Trần Gia Phụng</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Ban-Ging-Hun/nguyen-van-sam" jotId="wuid:gx:6b719110b81f19ef" class="sites-navigation-link">Nguyễn Văn Sâm</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Ti-Liu" jotId="wuid:gx:3c89211deb95a5dd" class="sites-navigation-link topLevel">Tài Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/van-hoc" jotId="wuid:gx:598a5317d05759bf" class="sites-navigation-link topLevel">Văn Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/Home/lop-ngu-phap-viet-ngu" jotId="wuid:gx:44e28dca3ba78bb7" class="sites-navigation-link topLevel">Lớp Ngữ Pháp Việt Ngữ</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/du-an" jotId="wuid:gx:24b8dc0f09ce379f" class="sites-navigation-link topLevel">Dự Án</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/nhu-lieu" jotId="wuid:gx:36c6a84cede79896" class="sites-navigation-link topLevel">Nhu Liệu</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://store.viethoc.com" class="sites-navigation-link topLevel">Tiệm Sách</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/www-viethoc-org-website-cu/thongbao-baotri-20150403" class="sites-navigation-link topLevel">Diễn Đàn Viện Việt-Học</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="http://www.clbvnvvh.org/" class="sites-navigation-link topLevel" target="_blank">Câu Lạc Bộ Văn Nghệ – Viện Việt-Học</a></div></li></ul></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6989304010477204" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Vinh Danh</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><span style="color:rgb(39,78,19)">GS Nguyễn Khắc Kham</span><br /><ul><li><a href="/vinh-danh/gs-nguyen-khac-kham">Đôi nét về GS</a><br /></li><li><a href="/vinh-danh/gs-nguyen-khac-kham/thuong-tho-100-tuoi">Thượng thọ 100 tuổi</a></li><li><a href="/vinh-danh/gs-nguyen-khac-kham/cac-bai-viet">Các bài viết về GS</a></li><li><a href="/vinh-danh/gs-nguyen-khac-kham/tang-le">Tang lễ</a><br /></li></ul></div></div></div>
 <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_28547384733172876" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Giờ Mở Cửa</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr"><div style="color:rgb(0,0,0)">
 <div dir="ltr"><font style="color:rgb(0,0,255)">Thứ hai, thứ tư và thứ sáu: <br /></font><div style="margin-left:40px"><span style="color:rgb(39,78,19)">4:00PM - 6:30PM </span><br /></div><font style="color:rgb(0,0,255)">
 
@@ -108,10 +108,10 @@ Westminster, CA 92685-1900</div>
 </div>
 </div></div></div></div>
 <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_41901171262919223" class="sites-embed" role="complementary"><h4 class="sites-embed-title">Thắc Mắc</h4><div class="sites-embed-content sites-embed-content-sidebar-textbox"><div dir="ltr">Những câu hỏi, thắc mắc thường xuyên<br />
-<ul><li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/phiem-luan/vanchuyeninganydai-1" style="text-decoration:none">Đề tài i-ngắn/y-dài</a></li>
-<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/khao-luan/tinhthandhaihoc" style="text-decoration:none">Tinh thần Đại Học</a></li>
-<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/bai-giang/viet-hoc" style="text-decoration:none">Việt-Học</a></li>
-<li><a href="http://www.viethoc.com/Ti-Liu/bien-khao/khao-luan/taisaoviethoc" style="text-decoration:none">Tại sao Việt-Học?</a></li></ul></div></div></div>
+<ul><li><a href="/Ti-Liu/bien-khao/phiem-luan/vanchuyeninganydai-1" style="text-decoration:none">Đề tài i-ngắn/y-dài</a></li>
+<li><a href="/Ti-Liu/bien-khao/khao-luan/tinhthandhaihoc" style="text-decoration:none">Tinh thần Đại Học</a></li>
+<li><a href="/Ti-Liu/bien-khao/bai-giang/viet-hoc" style="text-decoration:none">Việt-Học</a></li>
+<li><a href="/Ti-Liu/bien-khao/khao-luan/taisaoviethoc" style="text-decoration:none">Tại sao Việt-Học?</a></li></ul></div></div></div>
 </td>
 <td id="sites-canvas-wrapper">
 <div id="sites-canvas" role="main">
@@ -154,7 +154,7 @@ Do hoàn-cảnh lịch-sử, dân-tộc Việt-nam hiện nay không chỉ sinh 
 <ul class="sites-announcement-snippet">
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/lotus.jpg" id="recentannouncements-thumb-3229659145656354" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/lotus.jpg" id="recentannouncements-thumb-3229659145656354" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/phan-uu/phanuu-12-baquaphu-nguyenkhachoach" dir="ltr" class="sites-announcement-embed-post-title">
                     PHÂN ƯU</a>
@@ -192,7 +192,7 @@ Lan - </span></b>
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308033902/upload/119px-Blender3D_li_kerze.jpg-%28119x240px%29.jpg" id="recentannouncements-thumb-857429633014183" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308033902/upload/119px-Blender3D_li_kerze.jpg-%28119x240px%29.jpg" id="recentannouncements-thumb-857429633014183" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/phan-uu/phanuu-11" dir="ltr" class="sites-announcement-embed-post-title">
                     PHÂN ƯU</a>
@@ -217,7 +217,7 @@ tháng Mười năm 2014 </span>
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308058246/Home/phan-uu/phanuu-10/Sen2.jpg.1379682715611.jpg" id="recentannouncements-thumb-5260459564212523" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308058246/Home/phan-uu/phanuu-10/Sen2.jpg.1379682715611.jpg" id="recentannouncements-thumb-5260459564212523" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/phan-uu/phanuu-10" dir="ltr" class="sites-announcement-embed-post-title">
                     Phân Ưu</a>
@@ -263,7 +263,7 @@ tháng Mười năm 2014 </span>
 <ul class="sites-announcement-snippet">
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308060201/Ti-Liu/bien-khao/dhiem-sach/buocduongcuacailuong/BuocDuongcuaCaiLuong-frontcover.jpg" id="recentannouncements-thumb-22049065541286295" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308060201/Ti-Liu/bien-khao/dhiem-sach/buocduongcuacailuong/BuocDuongcuaCaiLuong-frontcover.jpg" id="recentannouncements-thumb-22049065541286295" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/dhiem-sach/buocduongcuacailuong" dir="ltr" class="sites-announcement-embed-post-title">
                     BƯỚC ĐƯỜNG CỦA CẢI LƯƠNG</a>
@@ -330,7 +330,7 @@ tháng Mười năm 2014 </span>
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308060210/Ti-Liu/bien-khao/dhiem-sach/phuongphapdaytiengvietnhumotngonnguthuhai/DayTiengViet.png" id="recentannouncements-thumb-19061989622985331" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308060210/Ti-Liu/bien-khao/dhiem-sach/phuongphapdaytiengvietnhumotngonnguthuhai/DayTiengViet.png" id="recentannouncements-thumb-19061989622985331" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/dhiem-sach/phuongphapdaytiengvietnhumotngonnguthuhai" dir="ltr" class="sites-announcement-embed-post-title">
                     Phương Pháp Dạy Tiếng Việt Như Một Ngôn Ngữ Thứ Hai</a>
@@ -350,7 +350,7 @@ Hai</font></span></em></strong><span><font> cuả Giáo sư </font></span><stron
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308060211/Ti-Liu/bien-khao/dhiem-sach/vietsudhaicuong6-trangiaphung/VSDC6.jpg" id="recentannouncements-thumb-2033130401404898" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308060211/Ti-Liu/bien-khao/dhiem-sach/vietsudhaicuong6-trangiaphung/VSDC6.jpg" id="recentannouncements-thumb-2033130401404898" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/dhiem-sach/vietsudhaicuong6-trangiaphung" dir="ltr" class="sites-announcement-embed-post-title">
                     Việt Sử Đại Cương 6 - Trần Gia Phụng</a>
@@ -487,7 +487,7 @@ văn hóa, kinh tế, xã hội của hai miền Nam</span></font> ... </span><B
 <ul class="sites-announcement-snippet">
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1455009514813/upload/1.TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-thumb%28180x120px%29.jpg" id="recentannouncements-thumb-46914486127579536" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1455009514813/upload/1.TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-thumb%28180x120px%29.jpg" id="recentannouncements-thumb-46914486127579536" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/chuong-trinh-sinh-hoat/lichsinhhoat2016thang02" dir="ltr" class="sites-announcement-embed-post-title">
                     Lịch Sinh Hoạt tháng Hai năm 2016</a>
@@ -548,7 +548,7 @@ văn hóa, kinh tế, xã hội của hai miền Nam</span></font> ... </span><B
 <ul class="sites-announcement-snippet">
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1454407139247/upload/TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-OUTSIDE-front%28475x738px%29.png" id="recentannouncements-thumb-2541014361810565" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1454407139247/upload/TM-Nhan%20Sinh%20Vung%20DNA%20va%20VN_In%2020_Hai%20mat_5.5%20x%208.5.pdf-OUTSIDE-front%28475x738px%29.png" id="recentannouncements-thumb-2541014361810565" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/thong-bao/thiepmoi-nhansinh-vung-dna-va-vn-gs-triethoc-tranducgiang" dir="ltr" class="sites-announcement-embed-post-title">
                     THIỆP MỜI 2016-02-03 - NHÂN-SINH VÙNG ĐÔNG-NAM-Á VÀ VIỆT-NAM - GIÁO-SƯ TRIỆT HỌC TRẦN ĐỨC GIANG</a>
@@ -581,7 +581,7 @@ văn hóa, kinh tế, xã hội của hai miền Nam</span></font> ... </span><B
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308034159/upload/DuongVaoVanChuong-%28BookCover%29-small-%28436x675px%29-46.2KB.jpg" id="recentannouncements-thumb-4417581617022509" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308034159/upload/DuongVaoVanChuong-%28BookCover%29-small-%28436x675px%29-46.2KB.jpg" id="recentannouncements-thumb-4417581617022509" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/thong-bao/thiepmoi-duongvaovanchuong-toantap-i-va-ii" dir="ltr" class="sites-announcement-embed-post-title">
                     Thiệp mời - Đường Vào Văn Chương Toàn Tập I và II</a>
@@ -598,7 +598,7 @@ văn hóa, kinh tế, xã hội của hai miền Nam</span></font> ... </span><B
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/_/rsrc/1445308034684/upload/VVH_Me%205-9-15.jpg%20-%20small-%28470x657px%29-131KB.jpg" id="recentannouncements-thumb-24101747393927653" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/_/rsrc/1445308034684/upload/VVH_Me%205-9-15.jpg%20-%20small-%28470x657px%29-131KB.jpg" id="recentannouncements-thumb-24101747393927653" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Home/thong-bao/demnhacthinhphongthangnam2015-me" dir="ltr" class="sites-announcement-embed-post-title">
                     Đêm Nhạc Thính Phòng Tháng Năm 2015 - Mẹ</a>
@@ -671,7 +671,7 @@ tờ báo đứng đắn đó là</span> ... </span><BR />
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic27.gif" id="recentannouncements-thumb-5469602855301778" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic27.gif" id="recentannouncements-thumb-5469602855301778" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/phiem-luan/thuphachoa%E2%80%9Cchandung%E2%80%9Dcuamothocvienngoainguhuuhieu" dir="ltr" class="sites-announcement-embed-post-title">
                     THỬ PHÁC HỌA “CHÂN DUNG”  CỦA MỘT HỌC VIÊN NGOẠI NGỮ HỮU HIỆU</a>
@@ -690,7 +690,7 @@ chúng tôi đã có thể phác họa ra “chân dung” của một</font> ..
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic66.gif" id="recentannouncements-thumb-28270605757939293" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic66.gif" id="recentannouncements-thumb-28270605757939293" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/phiem-luan/dhocthohaikunhatbanqualoivietromaji" dir="ltr" class="sites-announcement-embed-post-title">
                     ĐỌC THƠ HAIKU NHẬT BẢN  QUA LỐI VIẾT ROMAJI</a>
@@ -772,7 +772,7 @@ chúng tôi đã có thể phác họa ra “chân dung” của một</font> ..
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic65.gif" id="recentannouncements-thumb-5573902948080233" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic65.gif" id="recentannouncements-thumb-5573902948080233" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/bai-giang/thebottomlineinesleducation" dir="ltr" class="sites-announcement-embed-post-title">
                     The Bottom Line In ESL Education *</a>
@@ -798,7 +798,7 @@ chúng tôi đã có thể phác họa ra “chân dung” của một</font> ..
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic60.gif" id="recentannouncements-thumb-601668181247912" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic60.gif" id="recentannouncements-thumb-601668181247912" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/bai-giang/hindsightofanenglishlanguagelearner" dir="ltr" class="sites-announcement-embed-post-title">
                     Hindsight Of An English Language Learner *</a>
@@ -878,7 +878,7 @@ chúng tôi đã có thể phác họa ra “chân dung” của một</font> ..
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic30.gif" id="recentannouncements-thumb-32595861002447823" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic30.gif" id="recentannouncements-thumb-32595861002447823" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/khao-luan/vainetdhacthutrongcuphaptiengviet" dir="ltr" class="sites-announcement-embed-post-title">
                     Vài Nét Đặc Thù Trong Cú Pháp Tiếng Việt</a>
@@ -898,7 +898,7 @@ University) </font> <b><u><font>Các chủ ngữ vô hình</font></u></b><b><fon
 </li>
 <li class="line-divider sites-embed-background sites-clear" dir="ltr">
 <div class="sites-announcement-snippet-thumbnail">
-<IMG src="http://www.viethoc.com/www-viethoc-org-website-cu/px/pic64.gif" id="recentannouncements-thumb-3746490840981158" class="sites-recentannouncements-thumbnails" style="display:none" />
+<IMG src="/www-viethoc-org-website-cu/px/pic64.gif" id="recentannouncements-thumb-3746490840981158" class="sites-recentannouncements-thumbnails" style="display:none" />
 </div>
 <a href="/Ti-Liu/bien-khao/khao-luan/vanthesubieunhintuphuongtay" dir="ltr" class="sites-announcement-embed-post-title">
                     "Vạn Thế Sư Biểu" Nhìn Từ Phương Tây</a>
@@ -990,7 +990,7 @@ University) </font> <b><u><font>Các chủ ngữ vô hình</font></u></b><b><fon
 <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
   setTimeout(function() {
     var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
-    gsites.Xhr.send('http://www.viethoc.com/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+    gsites.Xhr.send('/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
   }, 500);
 </script>
 <script xmlns="http://www.w3.org/1999/xhtml">

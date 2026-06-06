@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -174,7 +177,12 @@
 </tr>
 </table>
 <br /><br />
-<a name="6"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>;(Score: 1)<br /> by: <a href="mailto:avuong@viethoc.org">Ly</a> (avuong@viethoc.org) on: Wednesday 30 May @ 13:50:13<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Cảm ơn anh Bạch Vân Phi đã góp ý.<br /><br />Xin hỏi bài Ngọc Tỉnh Liên Phú giờ có thể tìm thấy trong sách nào, xin anh cho biết, tôi muốn tìm lại để học hỏi thêm.<br /><br />Tình thân,<br />Ly</td></tr></table><br />[ 
+<a name="6"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>;(Score: 1)<br /> by: <a href="mailto:avuong@viethoc.org">Ly</a> (avuong@viethoc.org) on: Wednesday 30 May @ 13:50:13<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Cảm ơn anh Bạch Vân Phi đã góp ý.
+<br />
+<br />Xin hỏi bài Ngọc Tỉnh Liên Phú giờ có thể tìm thấy trong sách nào, xin anh cho biết, tôi muốn tìm lại để học hỏi thêm.
+<br />
+<br />Tình thân,
+<br />Ly</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=6&amp;sid=11&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=11&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><span class="onebiggerred">&gt;</span>

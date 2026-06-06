@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -174,7 +174,8 @@
 </tr>
 </table>
 <br /><br />
-<a name="41"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 14 March @ 12:14:17</td></tr><tr><td class="type5">Webmaster vừa đưa vào Thư Quán bài Tỳ Bà Hành dùng dạng PDF và MS Word document. Hai bộ chữ Arial Unicode MS và Times New Roman (hay một bộ unicode tương đương khác) cần có sẵn trong máỵ  Muốn đọc dạng PDF, phải có Acrobat Reader, có thể download miễn phí nơi Adobe.com.<br />Lê Văn Đặng</td></tr></table><br />[ 
+<a name="41"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 14 March @ 12:14:17</td></tr><tr><td class="type5">Webmaster vừa đưa vào Thư Quán bài Tỳ Bà Hành dùng dạng PDF và MS Word document. Hai bộ chữ Arial Unicode MS và Times New Roman (hay một bộ unicode tương đương khác) cần có sẵn trong máỵ  Muốn đọc dạng PDF, phải có Acrobat Reader, có thể download miễn phí nơi Adobe.com.
+<br />Lê Văn Đặng</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=41&amp;sid=32&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=32&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -115,14 +122,40 @@
 	<td class="type0">
 <table width="100%" border="0" cellspacing="1" cellpadding="3" summary="Data for Generic Block">
 <tr>
-	<td class="type4">
+	<td class="type4">/
 	<span class="type4bigger">Giới thiệu: Văn như Siêu Quát ...</span><br />
 		Posted on Tuesday 19 October @ 16:10:18
 	</td>
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Giáo sư Ðoàn Khoách bắt đầu bài viết về bài Hậu tự của Cao Bá Quát trong Hoa tiên ký diễn âm bằng hai câu không biết do ai làm :<br /><br />“Văn như Siêu Quát vô Tiền Hán,<br />Thi đáo Tùng Tuy thất Thịnh Đường”<br /><br />文如超适無前漢<br />詩到從綏失盛唐 <br /><br />lại có ghi thêm bài văn khóc vợ của họ Cao năm 24 tuổi :<br /><br />嗚呼<br />女不幸而為才子婦<br />男不幸而為紅顏夫<br />爾今二十有一一朝千古<br />我今二十有四四海九州<br />噫紅顏薄分才子無緣<br />惟我與爾有是夫<br /><br />Ô hô!<br />Nữ bất hạnh nhi vi tài tử phụ,<br />Nam bất hạnh nhi vi hồng nhan phu,<br />Nhĩ kim nhị thập hữu nhất, nhất triêu thiên cổ ; <br />Ngã kim nhị thập hữu tứ, tứ hải cửu chu.<br />Y ! Hồng nhan bạc phận, tài tử vô duyên, duy ngã dữ nhĩ hữu thị phù!<br /><br />Kính mời quý thân hữu vào <a href="http://www.viethoc.com/eholdings/VannhuSieuQuat_draft_2.pdf">Việt-Học Thư Quán</a>  đọc trọn bài viết này để biết qua một vài giai thoại về Cao Bá Quát và bài tựa son (朱評) chữ Hán với phần phiên dịch Việt ngữ .  Trong bài tựa, từ Quốc ngữ là Chữ Nôm bây giờ.<br /><br />Lê Văn Ðặng
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Giáo sư Ðoàn Khoách bắt đầu bài viết về bài Hậu tự của Cao Bá Quát trong Hoa tiên ký diễn âm bằng hai câu không biết do ai làm :
+<br />
+<br />“Văn như Siêu Quát vô Tiền Hán,
+<br />Thi đáo Tùng Tuy thất Thịnh Đường”
+<br />
+<br />文如超适無前漢
+<br />詩到從綏失盛唐 <br />
+<br />lại có ghi thêm bài văn khóc vợ của họ Cao năm 24 tuổi :
+<br />
+<br />嗚呼
+<br />女不幸而為才子婦
+<br />男不幸而為紅顏夫
+<br />爾今二十有一一朝千古
+<br />我今二十有四四海九州
+<br />噫紅顏薄分才子無緣
+<br />惟我與爾有是夫
+<br />
+<br />Ô hô!
+<br />Nữ bất hạnh nhi vi tài tử phụ,
+<br />Nam bất hạnh nhi vi hồng nhan phu,
+<br />Nhĩ kim nhị thập hữu nhất, nhất triêu thiên cổ ; 
+<br />Ngã kim nhị thập hữu tứ, tứ hải cửu chu.
+<br />Y ! Hồng nhan bạc phận, tài tử vô duyên, duy ngã dữ nhĩ hữu thị phù!
+<br />
+<br />Kính mời quý thân hữu vào <a href="http://www.viethoc.com/eholdings/VannhuSieuQuat_draft_2.pdf">Việt-Học Thư Quán</a>  đọc trọn bài viết này để biết qua một vài giai thoại về Cao Bá Quát và bài tựa son (朱評) chữ Hán với phần phiên dịch Việt ngữ .  Trong bài tựa, từ Quốc ngữ là Chữ Nôm bây giờ.
+<br />
+<br />Lê Văn Ðặng
 	</td>
 </tr>
 </table>

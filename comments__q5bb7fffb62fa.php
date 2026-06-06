@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,11 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Prof. Le, Dang published 214 radicals for Nôm</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Wednesday 09 May @ 16:09:04</td></tr><tr><td class="type5">This is great!  Thank you very much Prof. Le, Dang. This is very useful.  One question, please.  Although all of these radicals are used in chu+~ no^m, aren't they really chu+~ Nho (or Ha'n) radicals?  <br /><br />It would be great if you if you could add more lessons on chu+~ No^m here.  <br /><br />Thanks. </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Prof. Le, Dang published 214 radicals for Nôm</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Wednesday 09 May @ 16:09:04</td></tr><tr><td class="type5">This is great!  Thank you very much Prof. Le, Dang. This is very useful.  One question, please.  Although all of these radicals are used in chu+~ no^m, aren't they really chu+~ Nho (or Ha'n) radicals?  
+<br />
+<br />It would be great if you if you could add more lessons on chu+~ No^m here.  
+<br />
+<br />Thanks. </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Prof. Le, Dang published 214 radicals for Nôm" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

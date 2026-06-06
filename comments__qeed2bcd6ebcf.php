@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -140,7 +143,83 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Hát Nói: A Vietnamese musical tradition</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Friday 20 July @ 10:13:53</td></tr><tr><td class="type5">(Tri'ch Vie^.t-Nam Ca-Tru` Bie^n Kha?o cu?a <br />DDo^~ Ba(`ng DDoa`n va` DDo^~ Tro.ng Hue^`)<br /><br />Tie^'t II<br /><br />NHU+~NG   BA`I   HA'T-NO'I<br /><br />Va(n The^? Ha't-No'i<br /><br />Ha't-no'i cu`ng vo+'i lu.c ba't va` song tha^'t lu.c ba't la` nhu+~ng va(n the^? rie^ng cu?a nu+o+'c ta, ddo^'i la^.p vo+'i tho+, tu+`, phu' la` nhu+~ng the^? <br />va(n mu+o+.n cu?a Ta^`u.<br /><br />So vo+'i ca'c the^? va(n kha'c, ha't-no'i co' ti'nh ca'ch tu+. do pho'ng khoa'ng, nie^m lua^.t kho^ng ca^u ne^., so^' chu+~ trong ca^u va` so^' ca^u trong ba`i kho^ng ha.n ddi.nh cha(.t che~.  Ha't no'i co' the^? coi nhu+ mo^.t bie^'n-the^? cu?a lu.c ba't va` song tha^'t lu.c ba't (1).  Sau na`y lo^'i tho+ 8 chu+~ cu?a phong tra`o  Tho+-mo+'i thoa't thai o+? ha't-no'i ma` ra.<br /><br />Va(n the^? ha't-no'i co' ba dda(.c ddie^?m : Bo^'-cu.c, ca'ch gieo va^`n va` so^' chu+~ trong ca^u va(n.<br /><br />I.--  Bo^' cu.c<br /><br />Mo^.t ba`i ha't-no'i thu+o+`ng go^`m co' 11 ca^u, chia la`m 6 kho^?.<br /><br />1.  Kho^? nha^.p dde^` : Ca^u 1 va` 2, mo+? ba`i,<br />2.  Kho^? xuye^n-ta^m : Ca^u 3 va` 4.<br />3.  Kho^? tho+ : hay kho^? ddan ca^u 5 va` 6, la` hai ca^u tho+ chu+~ Ha'n<br />     hoa(.c quo^'c-a^m, ne^u y' chi'nh cu?a ba`i ha't.<br />4.  Kho^? xe^'p : Ca^u 7 va` 8 ha't mau.<br />5.  Kho^? ra?i : Ca^u 9 va` 10, ha't cha^.m ra?i.<br />6.  Kho^? ke^'t : Ca^u 11, to'm ta('t y' kie^'n toa`n ba`i. <br /><br />Ba`i ha't-no'i co' ddu'ng 6 kho^?, 11 ca^u nhu+ tre^n go.i la` ba`i ddu?-kho^?, va` la` hi`nh thu+'c tho^ng du.ng nha^'t.  Be^n ca.nh nhu+~ng ba`i ddu?-kho^? co`n co' nhu+~ng ba`i do^i-kho^? va` thie^'u-kho^?.<br /><br />Ba`i ha't-no'i do^i-kho^? (thu+`a kho^?) la` ba`i co' tre^n 6 kho^?, nhu+~ng kho^? do^i thu+o+`ng la` kho^? xuye^n va` kho^? tho+.  Ba`i ha't do^i-kho^? co' the^? co' 15 ca^u, 19 ca^u, 23 ca^u hoa(.c 27 ca^u.  Ba`i ha't-no'i thie^'u kho^? la` ba`i ha't co' du+o+'i 6 kho^?, nhu+~ng kho^? thie^'u thu+o+`ng la` kho^? tho+ xe^'p.<br /><br />II. -- Ca'ch gieo va^`n.<br /><br />Ha't-no'i la` mo^.t the^? va(n vu+`a co' cu+o+'c va^.n (va^`n o+? cuo^'i ca^u)vu+`a co' ye^u va^.n (va^`n o+? lu+ng chu+`ng ca^u) vu+`a du`ng va^`n ba(`ng, vu+`a du`ng va^`n tra('c.<br /><br />Ca'ch gieo va^`n cu?a ba`i ha't no'i, to'm ta('t trong 5 quy-lua^.t:<br /><br />     A.   Ba`i ha't-no'i bao gio+` cu~ng ba('t dda^`u ba(`ng mo^.t cu+o+'c va^.n tra('c.<br />     B.   Sau cu+o+'c va^.n tra('c, dda^`u tie^n la` hai cu+o+'c va^.n ba(`ng ro^`i dde^'n hai cu+o+'c va^.n tra('c, ro^`i la.i dde^'n hai cu+o+'c va^.n ba(`ng, ro^`i la.i dde^'n hai cu+o+'c va^.n tra('c.  Cu+' nhu+ va^.y tie^'p die^~n cho he^'t ba`i ha't.<br />     C.   Ba`i ha't-no'i ta^.n cu`ng ba(`ng cu+o+'c va^.n ba(`ng.<br />     D.   Khi ca^u tre^n co' cu+o+'c va^.n tra('c ma` ca^u du+o+'i chuye^?n sang  cu+o+'c va^.n ba(`ng, thi` ca^u du+o+'i pha?i co' the^m ye^u va^.n tra('c. Tra'i la.i, khi ca^u tre^n co' cu+o+'c va^.n ba(`ng ma` ca^u du+o+'i chuye^?n sang cu+o+'c va^.n tra('c, thi` ca^u du+o+'i pha?i co' the^m ye^u va^.n ba(`ng. Ye^u va^.n gieo ca'ch chu+~ cuo^'i cu`ng trong ca^u 2 hoa(.c 3 chu+~.<br />     E.   Rie^ng hai ca^u cu?a kho^? tho+, vi` la` hai ca^u tho+ lua^.t ne^n kho^ng co' ye^u va^.n.<br /><br />III.-- So^' chu+~ trong ca^u va(n.<br /><br />So^' chu+~ trong ca^u ha't, kho^ng co' ha.n ddi.nh, co' the^? tu+` 4 dde^'n 12, 13 chu+~. Cu~ng co' nhu+~ng ca^u go^'i-ha.c, lo^'i va(n la('t le'o du`ng dde^'n tre^n 20 chu+~. Nhu+ng kho^? ke^'t (ca^u cuo^'i cu`ng) bao gio+` cu~ng chi?co' 6 chu+~.  Kho^? tho+ thu+o+`ng la` hai ca^u tha^'t-ngo^n (mo^~i ca^u 7 chu+~) hoa(.c ngu~ ngo^n (mo^~i ca^u 5 chu+~).  Thi' du. mo^.t ba`i ha't no'i ddu? kho^?:<br /><br />01.  Ho^`ng Ho^`ng Tuye^'t Tuye^'t<br />----------------------------------------(c.v.t.)<br />02.  Mo+'i nga`y na`o chu+a bie^'t ca'i chi chi<br />---------------------------------------(y.v.t.)-------(c.v.b.)<br />03.  Mu+o+`i la(m na(m tha^'m thoa('t co' xa gi`<br />--------------------------------------------------------------(c.v.b.)<br />04.  Ngoa?nh ma(.t la.i dda~ to+'i ky` to+ lie^~u<br />------------------------------------------------(y.v.b.)--(c.v.t.)<br />05.  Nga~ la~ng du thi` qua^n thu+o+.ng thie^'u -- 7 chu+~<br />--------------------------------------------------------(c.v.t.)<br />06.  Qua^n kim hu+'a gia' nga~ tha`nh o^ng -- 7 chu+~<br />----------------------------------------------------(c.v.b.)<br />07.  Cu+o+`i cu+o+`i no'i no'i the.n thu`ng<br />-------------------------------------------------- (c.v.b.)<br />08.  Ma` ba.ch pha't, vo+'i ho^`ng nhan chu+`ng a'i nga.i.<br />------------------------------------------------------ (y.v.b.)-----(c.v.t.)<br />09.  Rie^ng mo^.t thu' Thanh-so+n ddi la.i<br />----------------------------------------------------(c.v.t.)<br />10.  Khe'o nga^y nga^y da.i da.i vo+'i ti`nh<br />-------------------------------------(y.v.t.)----(c.v.b.)<br />11.  DDa`n ai mo^.t tie^'ng Du+o+ng tranh.  -- 6 chu+~<br />----------------------------------------------------(c.v.t.)<br /><br /><br />                                                    *<br />			    * *<br /><br />----------------<br />(1)  Du+o+ng-qua?ng-Ha`m, Vie^.t-Nam Va(n-ho.c Su+?-ye^'u, chu+o+ng 15. </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Hát Nói: A Vietnamese musical tradition</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Friday 20 July @ 10:13:53</td></tr><tr><td class="type5">(Tri'ch Vie^.t-Nam Ca-Tru` Bie^n Kha?o cu?a 
+<br />DDo^~ Ba(`ng DDoa`n va` DDo^~ Tro.ng Hue^`)
+<br />
+<br />Tie^'t II
+<br />
+<br />NHU+~NG   BA`I   HA'T-NO'I
+<br />
+<br />Va(n The^? Ha't-No'i
+<br />
+<br />Ha't-no'i cu`ng vo+'i lu.c ba't va` song tha^'t lu.c ba't la` nhu+~ng va(n the^? rie^ng cu?a nu+o+'c ta, ddo^'i la^.p vo+'i tho+, tu+`, phu' la` nhu+~ng the^? 
+<br />va(n mu+o+.n cu?a Ta^`u.
+<br />
+<br />So vo+'i ca'c the^? va(n kha'c, ha't-no'i co' ti'nh ca'ch tu+. do pho'ng khoa'ng, nie^m lua^.t kho^ng ca^u ne^., so^' chu+~ trong ca^u va` so^' ca^u trong ba`i kho^ng ha.n ddi.nh cha(.t che~.  Ha't no'i co' the^? coi nhu+ mo^.t bie^'n-the^? cu?a lu.c ba't va` song tha^'t lu.c ba't (1).  Sau na`y lo^'i tho+ 8 chu+~ cu?a phong tra`o  Tho+-mo+'i thoa't thai o+? ha't-no'i ma` ra.
+<br />
+<br />Va(n the^? ha't-no'i co' ba dda(.c ddie^?m : Bo^'-cu.c, ca'ch gieo va^`n va` so^' chu+~ trong ca^u va(n.
+<br />
+<br />I.--  Bo^' cu.c
+<br />
+<br />Mo^.t ba`i ha't-no'i thu+o+`ng go^`m co' 11 ca^u, chia la`m 6 kho^?.
+<br />
+<br />1.  Kho^? nha^.p dde^` : Ca^u 1 va` 2, mo+? ba`i,
+<br />2.  Kho^? xuye^n-ta^m : Ca^u 3 va` 4.
+<br />3.  Kho^? tho+ : hay kho^? ddan ca^u 5 va` 6, la` hai ca^u tho+ chu+~ Ha'n
+<br />     hoa(.c quo^'c-a^m, ne^u y' chi'nh cu?a ba`i ha't.
+<br />4.  Kho^? xe^'p : Ca^u 7 va` 8 ha't mau.
+<br />5.  Kho^? ra?i : Ca^u 9 va` 10, ha't cha^.m ra?i.
+<br />6.  Kho^? ke^'t : Ca^u 11, to'm ta('t y' kie^'n toa`n ba`i. 
+<br />
+<br />Ba`i ha't-no'i co' ddu'ng 6 kho^?, 11 ca^u nhu+ tre^n go.i la` ba`i ddu?-kho^?, va` la` hi`nh thu+'c tho^ng du.ng nha^'t.  Be^n ca.nh nhu+~ng ba`i ddu?-kho^? co`n co' nhu+~ng ba`i do^i-kho^? va` thie^'u-kho^?.
+<br />
+<br />Ba`i ha't-no'i do^i-kho^? (thu+`a kho^?) la` ba`i co' tre^n 6 kho^?, nhu+~ng kho^? do^i thu+o+`ng la` kho^? xuye^n va` kho^? tho+.  Ba`i ha't do^i-kho^? co' the^? co' 15 ca^u, 19 ca^u, 23 ca^u hoa(.c 27 ca^u.  Ba`i ha't-no'i thie^'u kho^? la` ba`i ha't co' du+o+'i 6 kho^?, nhu+~ng kho^? thie^'u thu+o+`ng la` kho^? tho+ xe^'p.
+<br />
+<br />II. -- Ca'ch gieo va^`n.
+<br />
+<br />Ha't-no'i la` mo^.t the^? va(n vu+`a co' cu+o+'c va^.n (va^`n o+? cuo^'i ca^u)vu+`a co' ye^u va^.n (va^`n o+? lu+ng chu+`ng ca^u) vu+`a du`ng va^`n ba(`ng, vu+`a du`ng va^`n tra('c.
+<br />
+<br />Ca'ch gieo va^`n cu?a ba`i ha't no'i, to'm ta('t trong 5 quy-lua^.t:
+<br />
+<br />     A.   Ba`i ha't-no'i bao gio+` cu~ng ba('t dda^`u ba(`ng mo^.t cu+o+'c va^.n tra('c.
+<br />     B.   Sau cu+o+'c va^.n tra('c, dda^`u tie^n la` hai cu+o+'c va^.n ba(`ng ro^`i dde^'n hai cu+o+'c va^.n tra('c, ro^`i la.i dde^'n hai cu+o+'c va^.n ba(`ng, ro^`i la.i dde^'n hai cu+o+'c va^.n tra('c.  Cu+' nhu+ va^.y tie^'p die^~n cho he^'t ba`i ha't.
+<br />     C.   Ba`i ha't-no'i ta^.n cu`ng ba(`ng cu+o+'c va^.n ba(`ng.
+<br />     D.   Khi ca^u tre^n co' cu+o+'c va^.n tra('c ma` ca^u du+o+'i chuye^?n sang  cu+o+'c va^.n ba(`ng, thi` ca^u du+o+'i pha?i co' the^m ye^u va^.n tra('c. Tra'i la.i, khi ca^u tre^n co' cu+o+'c va^.n ba(`ng ma` ca^u du+o+'i chuye^?n sang cu+o+'c va^.n tra('c, thi` ca^u du+o+'i pha?i co' the^m ye^u va^.n ba(`ng. Ye^u va^.n gieo ca'ch chu+~ cuo^'i cu`ng trong ca^u 2 hoa(.c 3 chu+~.
+<br />     E.   Rie^ng hai ca^u cu?a kho^? tho+, vi` la` hai ca^u tho+ lua^.t ne^n kho^ng co' ye^u va^.n.
+<br />
+<br />III.-- So^' chu+~ trong ca^u va(n.
+<br />
+<br />So^' chu+~ trong ca^u ha't, kho^ng co' ha.n ddi.nh, co' the^? tu+` 4 dde^'n 12, 13 chu+~. Cu~ng co' nhu+~ng ca^u go^'i-ha.c, lo^'i va(n la('t le'o du`ng dde^'n tre^n 20 chu+~. Nhu+ng kho^? ke^'t (ca^u cuo^'i cu`ng) bao gio+` cu~ng chi?co' 6 chu+~.  Kho^? tho+ thu+o+`ng la` hai ca^u tha^'t-ngo^n (mo^~i ca^u 7 chu+~) hoa(.c ngu~ ngo^n (mo^~i ca^u 5 chu+~).  Thi' du. mo^.t ba`i ha't no'i ddu? kho^?:
+<br />
+<br />01.  Ho^`ng Ho^`ng Tuye^'t Tuye^'t
+<br />----------------------------------------(c.v.t.)
+<br />02.  Mo+'i nga`y na`o chu+a bie^'t ca'i chi chi
+<br />---------------------------------------(y.v.t.)-------(c.v.b.)
+<br />03.  Mu+o+`i la(m na(m tha^'m thoa('t co' xa gi`
+<br />--------------------------------------------------------------(c.v.b.)
+<br />04.  Ngoa?nh ma(.t la.i dda~ to+'i ky` to+ lie^~u
+<br />------------------------------------------------(y.v.b.)--(c.v.t.)
+<br />05.  Nga~ la~ng du thi` qua^n thu+o+.ng thie^'u -- 7 chu+~
+<br />--------------------------------------------------------(c.v.t.)
+<br />06.  Qua^n kim hu+'a gia' nga~ tha`nh o^ng -- 7 chu+~
+<br />----------------------------------------------------(c.v.b.)
+<br />07.  Cu+o+`i cu+o+`i no'i no'i the.n thu`ng
+<br />-------------------------------------------------- (c.v.b.)
+<br />08.  Ma` ba.ch pha't, vo+'i ho^`ng nhan chu+`ng a'i nga.i.
+<br />------------------------------------------------------ (y.v.b.)-----(c.v.t.)
+<br />09.  Rie^ng mo^.t thu' Thanh-so+n ddi la.i
+<br />----------------------------------------------------(c.v.t.)
+<br />10.  Khe'o nga^y nga^y da.i da.i vo+'i ti`nh
+<br />-------------------------------------(y.v.t.)----(c.v.b.)
+<br />11.  DDa`n ai mo^.t tie^'ng Du+o+ng tranh.  -- 6 chu+~
+<br />----------------------------------------------------(c.v.t.)
+<br />
+<br />
+<br />                                                    *
+<br />			    * *
+<br />
+<br />----------------
+<br />(1)  Du+o+ng-qua?ng-Ha`m, Vie^.t-Nam Va(n-ho.c Su+?-ye^'u, chu+o+ng 15. </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Hát Nói: A Vietnamese musical tradition" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

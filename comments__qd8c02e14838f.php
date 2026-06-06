@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,11 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score: 1)<br /> by: anmota on: Wednesday 19 December @ 20:28:42</td></tr><tr><td class="type5">Thua quy vi ,<br />Neu toi nho khong nham , thi  co mot cuon sach viet ve   PHÚ  , VAN TE  rat dang de cho chung ta xem . Do la  QUO^'C  VA(N CỤ THỂ .<br />Tac gia chinh , la Cu Pho Bang      Bu`i  Kỷ  ( va Tran trong Kim ?).<br />May ra nhà Ong Bùi Diem^~ hay co ai con giu va mang sang . Xin pho bien cho cac bac hau hoc co tai lieu . Tran trong .<br />Pham Huẻ  </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score: 1)<br /> by: anmota on: Wednesday 19 December @ 20:28:42</td></tr><tr><td class="type5">Thua quy vi ,
+<br />Neu toi nho khong nham , thi  co mot cuon sach viet ve   PHÚ  , VAN TE  rat dang de cho chung ta xem . Do la  QUO^'C  VA(N CỤ THỂ .
+<br />Tac gia chinh , la Cu Pho Bang      Bu`i  Kỷ  ( va Tran trong Kim ?).
+<br />May ra nhà Ong Bùi Diem^~ hay co ai con giu va mang sang . Xin pho bien cho cac bac hau hoc co tai lieu . Tran trong .
+<br />Pham Huẻ  </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Phú: A form of poem in Vietnam poetry" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

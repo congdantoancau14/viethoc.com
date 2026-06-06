@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -174,7 +177,8 @@
 </tr>
 </table>
 <br /><br />
-<a name="69"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Lời tựa Lam Sơn Thực Lục</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 28 May @ 13:53:32</td></tr><tr><td class="type5">Thuận Thiên hay Tắc Thiên cũng đều gần nghĩa nhau là Theo Trời, nên có thể là viết đúng ?<br />Vả lại chữ 則 tắc viết cũng gần giống chữ 順 thuận nhưng ngược lai, nên cũng có thể giả thiết là đời sau chép nhầm ?</td></tr></table><br />[ 
+<a name="69"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Lời tựa Lam Sơn Thực Lục</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 28 May @ 13:53:32</td></tr><tr><td class="type5">Thuận Thiên hay Tắc Thiên cũng đều gần nghĩa nhau là Theo Trời, nên có thể là viết đúng ?
+<br />Vả lại chữ 則 tắc viết cũng gần giống chữ 順 thuận nhưng ngược lai, nên cũng có thể giả thiết là đời sau chép nhầm ?</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=69&amp;sid=54&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=54&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><span class="onebiggerred">&gt;</span>

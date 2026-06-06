@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -190,7 +190,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>We are living in an exciting period, the period of information and internet!<br />Using the 214 Historical Radicals chart from Prof. Lê Văn Ðặng, <a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> implements a tool, an <a href="content.php?menu=1900&page_id=7">online flash cards</a>, to aid memorizing Nôm radicals a bit easier. Please give it a spin. <br /><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a><br />We are honor and welcome Mr. Nguyễn to VVH.
+	<a href="search.php?query=&amp;topic=2&amp;author="><img src="./images/topics/nom180s.gif" border="0" alt="Chữ Nôm" align="right" hspace="4" /></a>We are living in an exciting period, the period of information and internet!
+<br />Using the 214 Historical Radicals chart from Prof. Lê Văn Ðặng, <a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> implements a tool, an <a href="content.php?menu=1900&page_id=7">online flash cards</a>, to aid memorizing Nôm radicals a bit easier. Please give it a spin. <br /><a href="mailto:levan@hotmail.com">Nguyễn Doãn Vượng</a> has been a frequent contributor to Viện Việt-Học, from "grey matters" as in ideas, web programs, and electronic books; to "white matters" as in photocopy of rare Vietnamese books and manuscripts. Recently, Mr. Nguyễn implements two important projects for VVH: <a href="http://www.vnet.org/servlet/ThuMuc?vfont=unicode">Thư Mục</a> and <a href="content.php?menu=1900&page_id=7">Nôm Flash Cards.</a>
+<br />We are honor and welcome Mr. Nguyễn to VVH.
 	</td>
 </tr>
 </table>
@@ -239,7 +241,9 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="4"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Learning Nôm the new way!</span>&nbsp;(Score 1)<br /> by: LeCoq on: Saturday 12 May @ 17:17:30<br />(<a href="user.php?op=userinfo&amp;uname=LeCoq">User Info</a>) </td></tr><tr><td class="type5">Thank Mr. Nguyen Doan Vuong for the wonderful idea.<br />It's will be great, if you could create Flash Cards for the basic Nom Characters.<br />Sincerely, LeCoq.</td></tr></table><br />[ 
+<a name="4"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Learning Nôm the new way!</span>&nbsp;(Score 1)<br /> by: LeCoq on: Saturday 12 May @ 17:17:30<br />(<a href="user.php?op=userinfo&amp;uname=LeCoq">User Info</a>) </td></tr><tr><td class="type5">Thank Mr. Nguyen Doan Vuong for the wonderful idea.
+<br />It's will be great, if you could create Flash Cards for the basic Nom Characters.
+<br />Sincerely, LeCoq.</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=4&amp;sid=5&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

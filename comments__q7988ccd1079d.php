@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,8 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 04 March @ 17:58:46</td></tr><tr><td class="type5">Bản chữ Hán viết bằng chữ Khải, Acrobat đổi ra dạng PDF có vẽ nặng khó in, khó đọc.  Trong vài hôm nữa chúng tôi sẽ thay bản khác dùng chữ ArialUnicodeMS cho phần chữ Hán và TimesNewRoman cho chữ Quốc ngữ.  Ngoài ra, bạn Hữu Vinh, khi so bản chữ Hán với các bản in Tàu và ĐàiLoan, tìm thấy một chữ sai .  <br />Lê Văn Đặng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 04 March @ 17:58:46</td></tr><tr><td class="type5">Bản chữ Hán viết bằng chữ Khải, Acrobat đổi ra dạng PDF có vẽ nặng khó in, khó đọc.  Trong vài hôm nữa chúng tôi sẽ thay bản khác dùng chữ ArialUnicodeMS cho phần chữ Hán và TimesNewRoman cho chữ Quốc ngữ.  Ngoài ra, bạn Hữu Vinh, khi so bản chữ Hán với các bản in Tàu và ĐàiLoan, tìm thấy một chữ sai .  
+<br />Lê Văn Đặng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Tỳ Bà Hành" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

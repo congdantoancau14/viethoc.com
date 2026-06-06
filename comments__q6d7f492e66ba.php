@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -175,7 +175,8 @@
 </tr>
 </table>
 <br /><br />
-<a name="11"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Liệt Kê Các Chùa Chiền và Nơi Thờ Cúng tại</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 July @ 12:57:45</td></tr><tr><td class="type5">Tôi cũng nghi như bạn.  Chữ Cò không có nghĩa .  Ngoài ra bài này còn 2 phần nữa đăng tiếp trong các số 2 và 4 cùng năm, tích chung được 140 tiết mục thay vì 63.<br />LeVanDang</td></tr></table><br />[ 
+<a name="11"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Liệt Kê Các Chùa Chiền và Nơi Thờ Cúng tại</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 26 July @ 12:57:45</td></tr><tr><td class="type5">Tôi cũng nghi như bạn.  Chữ Cò không có nghĩa .  Ngoài ra bài này còn 2 phần nữa đăng tiếp trong các số 2 và 4 cùng năm, tích chung được 140 tiết mục thay vì 63.
+<br />LeVanDang</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=11&amp;sid=18&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		| <a href="comments.php?sid=18&amp;pid=0&amp;mode=threaded&amp;order=0&amp;thold=0">Parent</a> ]<br /><br />

@@ -37,27 +37,27 @@
 <li class="topLevel nav-first"><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.org/index.php" class="topLevel">Website Cũ</a></div></li>
 <li class="topLevel parent" wuid="gx:5a259464de4a8216"><div class="current-bg" jotId="wuid:gx:5a259464de4a8216" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Viện Việt-Học</div>
 	<ul>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/Home/about" jotId="wuid:gx:59f5e2841e34cef1">About</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/Home/muc-dhich" jotId="wuid:gx:11618ced453684f6">Mục Đích</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/Home/co-cau-to-chuc" jotId="wuid:gx:115e411aceaca77">Cơ Cấu Tổ Chức</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/Home/sinh-hoat" jotId="wuid:gx:2c5c009d07a368cd">Sinh Hoạt</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/Home/lich-sinh-hoat" jotId="wuid:gx:2f60aa7695dc4745">Lịch Sinh Hoạt</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/about" jotId="wuid:gx:59f5e2841e34cef1">About</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/muc-dhich" jotId="wuid:gx:11618ced453684f6">Mục Đích</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/co-cau-to-chuc" jotId="wuid:gx:115e411aceaca77">Cơ Cấu Tổ Chức</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/sinh-hoat" jotId="wuid:gx:2c5c009d07a368cd">Sinh Hoạt</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/Home/lich-sinh-hoat" jotId="wuid:gx:2f60aa7695dc4745">Lịch Sinh Hoạt</a></div></li>
 	</ul>
 </li>
-<li class="topLevel parent" wuid="gx:78d55b25fde25d95"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="http://www.viethoc.com/viet-hoc-thu-quan-1" jotId="wuid:gx:78d55b25fde25d95" class="topLevel">Thư Viện</a></div>
+<li class="topLevel parent" wuid="gx:78d55b25fde25d95"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/viet-hoc-thu-quan-1" jotId="wuid:gx:78d55b25fde25d95" class="topLevel">Thư Viện</a></div>
 	<ul>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/viet-hoc-thu-quan-1/ho-so-van-ban-dhien-tu" jotId="wuid:gx:d53ec5b7bdd7e6b">Sử</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/viet-hoc-thu-quan-1/van-hoc" jotId="wuid:gx:6e298b9d72508331">Văn Học</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/viet-hoc-thu-quan-1/ngon-ngu" jotId="wuid:gx:bf0d1ebd5314966">Ngôn Ngữ</a></div></li>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/viet-hoc-thu-quan-1/than-huu" jotId="wuid:gx:1d83c030e0267fb6">Thân Hữu</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ho-so-van-ban-dhien-tu" jotId="wuid:gx:d53ec5b7bdd7e6b">Sử</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/van-hoc" jotId="wuid:gx:6e298b9d72508331">Văn Học</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/ngon-ngu" jotId="wuid:gx:bf0d1ebd5314966">Ngôn Ngữ</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/viet-hoc-thu-quan-1/than-huu" jotId="wuid:gx:1d83c030e0267fb6">Thân Hữu</a></div></li>
 	</ul>
 </li>
-<li class="topLevel parent" wuid="gx:24b8dc0f09ce379f"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="http://www.viethoc.com/du-an" jotId="wuid:gx:24b8dc0f09ce379f" class="topLevel">Dự Án</a></div>
+<li class="topLevel parent" wuid="gx:24b8dc0f09ce379f"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/du-an" jotId="wuid:gx:24b8dc0f09ce379f" class="topLevel">Dự Án</a></div>
 	<ul>
-		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="http://www.viethoc.com/du-an/nam-phong-tap-chi" jotId="gx:2a1c956fd1ce4c18">Nam Phong Tạp Chí</a></div></li>
+		<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/du-an/nam-phong-tap-chi" jotId="gx:2a1c956fd1ce4c18">Nam Phong Tạp Chí</a></div></li>
 	</ul>
 </li>
-<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="http://www.viethoc.com/nhu-lieu" class="topLevel">Nhu Liệu</a></div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="/nhu-lieu" class="topLevel">Nhu Liệu</a></div></li>
 <li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="http://store.viethoc.com" class="topLevel">Tiệm Sách</a></div></li>
 
 <li class="topLevel parent" wuid="wuid:gx:36c6a84cede79896"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="http://www.viethoc.org/phorum/index.php" class="topLevel">Diễn Đàn Viện Việt-Học</a></div>

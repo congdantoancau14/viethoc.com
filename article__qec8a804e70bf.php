@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR>///
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +154,18 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=17&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Deleted" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài:<br /><br /><center>TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</center><br />do Diễn giả Đỗ Thông Minh, đến từ Nhật Bản, trình bày.<br /> <br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ chiều đến 4 giờ chiều Chủ Nhật, 3 tháng 8 năm 2003 tại phòng hội của Viện. <br /><br />15355 Brookhurst St., Suite 222, Westminster, CA 92683<br /><br />Xin quý vị xem <a href="http://www.viethoc.org/images/user_pages/VHTmDTM_080303.pdf">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả.<br /><br />Trân trọng,<br /><i>Viện Việt-Học</i>
+	<a href="search.php?query=&amp;topic=17&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Deleted" align="right" hspace="4" /></a>Viện Việt-Học trân trọng kính mời quý vị đến tham dự buổi thuyết trình về đề tài:
+<br />
+<br /><center>TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</center>
+<br />do Diễn giả Đỗ Thông Minh, đến từ Nhật Bản, trình bày.
+<br /> <br />Buổi thuyết trình sẽ được tổ chức vào lúc 2 giờ chiều đến 4 giờ chiều Chủ Nhật, 3 tháng 8 năm 2003 tại phòng hội của Viện. 
+<br />
+<br />15355 Brookhurst St., Suite 222, Westminster, CA 92683
+<br />
+<br />Xin quý vị xem <a href="http://www.viethoc.org/images/user_pages/VHTmDTM_080303.pdf">Thiệp mời</a> để biết thêm chi tiết về chương trình, đề tài và diễn giả.
+<br />
+<br />Trân trọng,
+<br /><i>Viện Việt-Học</i>
 	</td>
 </tr>
 </table>
@@ -199,37 +214,38 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="80"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 01 September @ 16:17:49</td></tr><tr><td class="type5">Xin được hỏi, bài thuyết-trình này của diễn-giả Đỗ-Thông-Minh có được ghi-chép, cất vào nơi nào trong website này, cho khách đến viếng, tìm đọc, không ?<br />Trò Tê</td></tr></table><br />[ 
+<a name="80"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 01 September @ 16:17:49</td></tr><tr><td class="type5">Xin được hỏi, bài thuyết-trình này của diễn-giả Đỗ-Thông-Minh có được ghi-chép, cất vào nơi nào trong website này, cho khách đến viếng, tìm đọc, không ?
+<br />Trò Tê</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=80&amp;sid=76&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=81&amp;sid=76&amp;pid=80&amp;mode=&amp;order=&amp;thold=#81">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 04 September @ 06:59:11<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 04 September @ 06:59:11<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=83&amp;sid=76&amp;pid=80&amp;mode=&amp;order=&amp;thold=#83">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 18 September @ 03:55:10<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 18 September @ 03:55:10<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=84&amp;sid=76&amp;pid=83&amp;mode=&amp;order=&amp;thold=#84">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 18 September @ 03:56:06<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Thursday 18 September @ 03:56:06<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=88&amp;sid=76&amp;pid=84&amp;mode=&amp;order=&amp;thold=#88">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 04:03:04<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 04:03:04<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=89&amp;sid=76&amp;pid=88&amp;mode=&amp;order=&amp;thold=#89">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 08:17:06<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 08:17:06<br />
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=85&amp;sid=76&amp;pid=80&amp;mode=&amp;order=&amp;thold=#85">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 24 September @ 19:46:32<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 24 September @ 19:46:32<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=90&amp;sid=76&amp;pid=80&amp;mode=&amp;order=&amp;thold=#90">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Sunday 07 December @ 13:07:15<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Sunday 07 December @ 13:07:15<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=91&amp;sid=76&amp;pid=90&amp;mode=&amp;order=&amp;thold=#91">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Sunday 07 December @ 13:08:32<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Sunday 07 December @ 13:08:32<br />
 				&nbsp;&nbsp;<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=92&amp;sid=76&amp;pid=80&amp;mode=&amp;order=&amp;thold=#92">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Tuesday 09 December @ 21:04:08<br />
-				<br /><a name="86"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Sunday 19 October @ 23:46:52</td></tr><tr><td class="type5"></td></tr></table><br />[ 
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Tuesday 09 December @ 21:04:08<br />
+				<br /><a name="86"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Sunday 19 October @ 23:46:52</td></tr><tr><td class="type5"></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=86&amp;sid=76&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

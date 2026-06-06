@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -150,7 +151,16 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=8&amp;author="><img src="./images/topics/qt80.gif" border="0" alt="Văn-Hoá Việt-Nam" align="right" hspace="4" /></a>Viện Việt-Học Kính Chúc Quý Thân Hữu<br />qua một Năm Quý Mùi 2003 đầy Thắng Lợi và An Lành.<br /><br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc bài thơ <a href="./eholdings/NguyenDan.pdf">Nguyên Nhựt 元日của Vương An Thạch 王安石 </a>đời Tống và bản dịch của cố Giáo sư Trần Trọng San陳仲珊.<br /><br /> <br />Nếu có nhã hứng, xin mời quý vị đưa vào Diễn Ðàn Văn Hoá bản dịch ưng ý của quý vị hoặc bản dịch hay mà quý chọn cho mọi người cùng thưởng thức trong mấy ngày Tết.<br /><br />Xin đa tạ. <br />Viện Việt-Học kính cáo.<br />
+	<a href="search.php?query=&amp;topic=8&amp;author="><img src="./images/topics/qt80.gif" border="0" alt="Văn-Hoá Việt-Nam" align="right" hspace="4" /></a>Viện Việt-Học Kính Chúc Quý Thân Hữu
+<br />qua một Năm Quý Mùi 2003 đầy Thắng Lợi và An Lành.
+<br />
+<br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc bài thơ <a href="./eholdings/NguyenDan.pdf">Nguyên Nhựt 元日của Vương An Thạch 王安石 </a>đời Tống và bản dịch của cố Giáo sư Trần Trọng San陳仲珊.
+<br />
+<br /> <br />Nếu có nhã hứng, xin mời quý vị đưa vào Diễn Ðàn Văn Hoá bản dịch ưng ý của quý vị hoặc bản dịch hay mà quý chọn cho mọi người cùng thưởng thức trong mấy ngày Tết.
+<br />
+<br />Xin đa tạ. 
+<br />Viện Việt-Học kính cáo.
+<br />
 	</td>
 </tr>
 </table>

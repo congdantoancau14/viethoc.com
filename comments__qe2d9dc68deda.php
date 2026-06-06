@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR><br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR><br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh<BR><BR>
+<br /><font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -174,7 +181,15 @@
 </tr>
 </table>
 <br /><br />
-<a name="59"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thán Ðại Tuyết 嘆 大 雪</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 12 March @ 08:25:24</td></tr><tr><td class="type5">Thì chỉ học Bạch Thoại, quan thoại bên Tàu làm sao mà thưởng được loại này nên mới thấy từ và nghĩa không hợp. Chắc có người không phục chúng về lật tự điển mà cũng còn so đọ .<br /><br />Ngưừi Việt mà còn làm được loại theo vận thể như vậy là hiếm hoi . Dù không phải là đồ cổ như Lưu hương Ký, nhưng cũng hết sức điêu luyện và tinh xảo . Cô đọng là ở hai câu cuối . <br /><br />Có người quọt quẹt được vài ba bạch thoại mà tưởng là thiên ngôi vạn ngữ . Chảng qua là hách dịch quen rồi .<br /><br />Mong Hạt Cát nữ sĩ tiếp tục làm thơ như vậy, mới là hay! <br /><br />Đại trượng phu mà không có độ lượng như anh Mỹ này chắc chỉ đáng đi xúc tuyết rồi chưởi chứ không có rung cảm được mới ghen lên mà ai cũng thấy rõ là ghen tài . </td></tr></table><br />[ 
+<a name="59"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thán Ðại Tuyết 嘆 大 雪</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 12 March @ 08:25:24</td></tr><tr><td class="type5">Thì chỉ học Bạch Thoại, quan thoại bên Tàu làm sao mà thưởng được loại này nên mới thấy từ và nghĩa không hợp. Chắc có người không phục chúng về lật tự điển mà cũng còn so đọ .
+<br />
+<br />Ngưừi Việt mà còn làm được loại theo vận thể như vậy là hiếm hoi . Dù không phải là đồ cổ như Lưu hương Ký, nhưng cũng hết sức điêu luyện và tinh xảo . Cô đọng là ở hai câu cuối . 
+<br />
+<br />Có người quọt quẹt được vài ba bạch thoại mà tưởng là thiên ngôi vạn ngữ . Chảng qua là hách dịch quen rồi .
+<br />
+<br />Mong Hạt Cát nữ sĩ tiếp tục làm thơ như vậy, mới là hay! 
+<br />
+<br />Đại trượng phu mà không có độ lượng như anh Mỹ này chắc chỉ đáng đi xúc tuyết rồi chưởi chứ không có rung cảm được mới ghen lên mà ai cũng thấy rõ là ghen tài . </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=59&amp;sid=61&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=61&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

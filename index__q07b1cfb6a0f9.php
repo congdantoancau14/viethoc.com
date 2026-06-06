@@ -602,7 +602,7 @@ Posted by: avuong on 10/28/2009 06:23 AM
 <br />
 <b>Tất cả các thông cáo mới của Viện sẽ đăng trên website mới.</b><br />
 <br />
-Quý vị có thể ghé thăm <a href="http://www.viethoc.com/">website mới tại đây <b>(<a href="http://www.viethoc.com">http://www.viethoc.com</a> )</b></a><br />
+Quý vị có thể ghé thăm <a href="/">website mới tại đây <b>(<a href="http://www.viethoc.com">http://www.viethoc.com</a> )</b></a><br />
 <br />
 </td></tr>
 

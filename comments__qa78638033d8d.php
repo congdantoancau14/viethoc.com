@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -175,7 +175,11 @@
 </tr>
 </table>
 <br /><br />
-<a name="13"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Đào Hoa Thi</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 24 September @ 20:10:16</td></tr><tr><td class="type5">Dear Anonymous,<br />The English text is included in the new revision which will be posted within days.<br />Thanks for your comment.<br />:-)<br />LeVanDang</td></tr></table><br />[ 
+<a name="13"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Đào Hoa Thi</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 24 September @ 20:10:16</td></tr><tr><td class="type5">Dear Anonymous,
+<br />The English text is included in the new revision which will be posted within days.
+<br />Thanks for your comment.
+<br />:-)
+<br />LeVanDang</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=13&amp;sid=19&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		| <a href="comments.php?sid=19&amp;pid=0&amp;mode=threaded&amp;order=0&amp;thold=0">Parent</a> ]<br /><br />

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -150,7 +150,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=12&amp;author="><img src="./images/topics/Hue_small.jpg" border="0" alt="Di Tích Lịch Sử" align="right" hspace="4" /></a>Bảng liệt kê do TS. A. Sallet và Nguyễn Ðình Hoè thiết lập, đăng trong Bulletin des Amis du Vieux Huế, các số 1, 3 & 4 năm 1914, viết bằng Pháp ngữ có chua thêm chữ Hán Nôm.  Trước đây Viện Việt Học có đưa lên trang nhà của viện phần đầu gồm 63 nơi thờ cúng đăng trong số 1 của tạp chí.  <a href="/eholdings/ChuaHue3.pdf">Phần này</a> ghi trọn bảng liệt kê với 140 nơi thờ cúng, bản Quốc Ngữ của g.s. Lê Văn Ðặng.  Ngoài ra vài phụ chú cũng được điều chỉnh lại cho rõ hơn.<br /><a href="/eholdings/ChuaHue3.pdf">Liệt kê các Chùa Chiền và Nơi Thờ Cúng tại Huế</a> 
+	<a href="search.php?query=&amp;topic=12&amp;author="><img src="./images/topics/Hue_small.jpg" border="0" alt="Di Tích Lịch Sử" align="right" hspace="4" /></a>Bảng liệt kê do TS. A. Sallet và Nguyễn Ðình Hoè thiết lập, đăng trong Bulletin des Amis du Vieux Huế, các số 1, 3 & 4 năm 1914, viết bằng Pháp ngữ có chua thêm chữ Hán Nôm.  Trước đây Viện Việt Học có đưa lên trang nhà của viện phần đầu gồm 63 nơi thờ cúng đăng trong số 1 của tạp chí.  <a href="/eholdings/ChuaHue3.pdf">Phần này</a> ghi trọn bảng liệt kê với 140 nơi thờ cúng, bản Quốc Ngữ của g.s. Lê Văn Ðặng.  Ngoài ra vài phụ chú cũng được điều chỉnh lại cho rõ hơn.
+<br /><a href="/eholdings/ChuaHue3.pdf">Liệt kê các Chùa Chiền và Nơi Thờ Cúng tại Huế</a> 
 	</td>
 </tr>
 </table>

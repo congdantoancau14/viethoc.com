@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
+	<font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a>
 	</td>
 </tr>
 </table>
@@ -150,7 +151,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a><p>In our recently published Monograph on Nom Characters we included a summary in Japanese of a 1974  research article by Professor Nguyen Khac Kham of the Tokyo University of Foreign Studies. At the request of a number of readers, we have now posted in <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target=new_window">Việt-Học Thư Quán</a> a <a href="http://www.viethoc.org/eholdings/NKK-Jap.pdf" target=new_window">Vietnamese version by Mr. Nguyen Duc Kinh</a> of the above-mentioned summary. This summary in Vietnamese is also included with the article by Professor Nguyen Khac Kham, which is made available individually from the Monograph on Nom Characters.</p><br />The Institute of Vietnamese Studies 
+	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a><p>In our recently published Monograph on Nom Characters we included a summary in Japanese of a 1974  research article by Professor Nguyen Khac Kham of the Tokyo University of Foreign Studies. At the request of a number of readers, we have now posted in <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target=new_window">Việt-Học Thư Quán</a> a <a href="http://www.viethoc.org/eholdings/NKK-Jap.pdf" target=new_window">Vietnamese version by Mr. Nguyen Duc Kinh</a> of the above-mentioned summary. This summary in Vietnamese is also included with the article by Professor Nguyen Khac Kham, which is made available individually from the Monograph on Nom Characters.</p>
+<br />The Institute of Vietnamese Studies 
 	</td>
 </tr>
 </table>

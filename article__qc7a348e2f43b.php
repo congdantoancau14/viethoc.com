@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -239,7 +239,8 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="50"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: CHỮ NÔM và CÔNG VIỆC KHẢO CỨU CỔ VĂN VIỆ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 October @ 08:47:44</td></tr><tr><td class="type5">Bài này trích trong phần Thảo Án về CHỮ NÔM do Viện Việt-Học bảo trợ.<br />LVĐ</td></tr></table><br />[ 
+<a name="50"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: CHỮ NÔM và CÔNG VIỆC KHẢO CỨU CỔ VĂN VIỆ</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 October @ 08:47:44</td></tr><tr><td class="type5">Bài này trích trong phần Thảo Án về CHỮ NÔM do Viện Việt-Học bảo trợ.
+<br />LVĐ</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=50&amp;sid=37&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		 ]<br /><br />

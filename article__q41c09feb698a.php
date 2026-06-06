@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -150,7 +150,35 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Tập đầu tiên của loạt chuyên khảo Tài Liệu về Văn Hoá Việt Nam (Vietnam Culture Series) đã được xuất bản. Quý vị độc giả muốn đặt mua tập Tài Liệu về Văn Hoá Việt Nam số 1 - Chuyên Khảo về Chữ Nôm (Vietnam Culture Series No. 1 - Monograph On Nôm Characters) xin liên lạc với chúng tôi qua email <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> hoặc gửi thư về địa chỉ của Viện Việt-học.<br>Chân thành cảm tạ,<br><i>Ban Tu Thư Việt-học</i></p><br /> <br /></td></tr><br /><tr><br /><td class="type4"><br /><span class="type4bigger">Tài Liệu về Văn Hoá Việt Nam</span></td><br /></tr><br /><tr><br /><td class="type5"><br /><p><img src="./images/main_page/chuyenkhaosm.jpg" border="0" alt="The Institute of Vietnamese Studies" align="left" hspace="5" vspace="5" />Tập Tài Liệu về Văn Hoá Việt Nam (Vietnam Culture Series) là một cố gắng nhằm phổ biến tới học giới những kiến thức về văn hóa Việt Nam dưới nhiều khía cạnh khác nhau. Qua loạt ấn phẩm này, Viện Việt-học sẽ xuất bản những tập chuyên khảo bất định kỳ, tập trung vào những lãnh vực như chữ Nôm, cổ và kim văn, sử địa và dân tộc học...</p><br /><p>Trong tập đầu tiên của loạt chuyên khảo này, chúng tôi sưu tập để giới thiệu bốn bài biên khảo về văn học chữ Nôm, trong đó một nhà ngữ học và biên soạn tự điển, một nhà ngôn ngữ học và một khoa học gia chia sẻ quan điểm của các vị về chữ Nôm.</p><br /><p>Trong các tập kế tiếp, một số bài biên khảo khó kiếm hay đã tuyệt bản của các học giả có uy tín về Việt-học cùng các bài nghiên cứu, nhận định mới nếu có thể cũng sẽ được phổ biến. </p><br /><p>Chúng tôi hy vọng quý vị độc giả sẽ thấy loạt ấn phẩm này có điểm hữu ích.</p><br /><p>Quý vị độc giả muốn đặt mua tập Tài Liệu về Văn Hoá Việt Nam số 1 - Chuyên Khảo về Chữ Nôm (Vietnam Culture Series No. 1 - Monograph On Nôm Characters) xin liên lạc với chúng tôi qua email <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> hoặc gửi bưu phiếu về địa chỉ : 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA</p><p>Giá bán: 20.00 Mỹ Kim</p><br /><p>Chân thành cảm tạ,<br><i>Ban Tu Thư Việt-học</i></p><br /><hr size="1"><br /></td></tr><br /><tr><br /><td class="type4"><br /><span class="type4bigger">Vietnam Culture Series</span></td><br /></tr><br /><tr><br /><td class="type5"><br /><img src="./images/main_page/chuyenkhaosm.jpg" border="0" alt="The Institute of Vietnamese Studies" align="left" hspace="5" vspace="5" /><br /><p>The Vietnam Culture Series is an endeavor to disseminate scholarly information on the various aspects of Vietnamese culture to the reading public. Through this series, the Institute of Vietnamese Studies will publish periodic monographs focusing on such major areas as Nom literature and philosophy, Vietnamese classical and modern literatures, history, geography, and cultural anthropology.</p><br /><p>For this first monograph of the Vietnam Culture Series, we have collected four papers on Nom literature, in which a linguist and lexicographer, a philologist, and a scientist share their views on the Nom characters.</p><br /><p>On subsequent monographs will disseminate a number of out-of-print and hard-to-find articles by notable scholars of Vietnamese studies and, hopefully, articles by contemporary researchers.</p><br /><p>We hope that our readers will find this series useful and enlightening.</P><br /><p>The Vietnam Culture Series No. 1 - Monograph on Nôm Characters is published. To purchase, please contact us by email: <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> or mail to us at the following address: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA</p><br /><p>Published price: $20.00</p><p><i>Viet-Hoc Publishing Department</i></p>    
+	<a href="search.php?query=&amp;topic=13&amp;author="><img src="./images/topics/announces.gif" border="0" alt="Announcement" align="right" hspace="4" /></a>Tập đầu tiên của loạt chuyên khảo Tài Liệu về Văn Hoá Việt Nam (Vietnam Culture Series) đã được xuất bản. Quý vị độc giả muốn đặt mua tập Tài Liệu về Văn Hoá Việt Nam số 1 - Chuyên Khảo về Chữ Nôm (Vietnam Culture Series No. 1 - Monograph On Nôm Characters) xin liên lạc với chúng tôi qua email <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> hoặc gửi thư về địa chỉ của Viện Việt-học.<br>Chân thành cảm tạ,<br><i>Ban Tu Thư Việt-học</i></p>
+<br /> <br /></td></tr>
+<br /><tr>
+<br /><td class="type4">
+<br /><span class="type4bigger">Tài Liệu về Văn Hoá Việt Nam</span></td>
+<br /></tr>
+<br /><tr>
+<br /><td class="type5">
+<br /><p><img src="./images/main_page/chuyenkhaosm.jpg" border="0" alt="The Institute of Vietnamese Studies" align="left" hspace="5" vspace="5" />Tập Tài Liệu về Văn Hoá Việt Nam (Vietnam Culture Series) là một cố gắng nhằm phổ biến tới học giới những kiến thức về văn hóa Việt Nam dưới nhiều khía cạnh khác nhau. Qua loạt ấn phẩm này, Viện Việt-học sẽ xuất bản những tập chuyên khảo bất định kỳ, tập trung vào những lãnh vực như chữ Nôm, cổ và kim văn, sử địa và dân tộc học...</p>
+<br /><p>Trong tập đầu tiên của loạt chuyên khảo này, chúng tôi sưu tập để giới thiệu bốn bài biên khảo về văn học chữ Nôm, trong đó một nhà ngữ học và biên soạn tự điển, một nhà ngôn ngữ học và một khoa học gia chia sẻ quan điểm của các vị về chữ Nôm.</p>
+<br /><p>Trong các tập kế tiếp, một số bài biên khảo khó kiếm hay đã tuyệt bản của các học giả có uy tín về Việt-học cùng các bài nghiên cứu, nhận định mới nếu có thể cũng sẽ được phổ biến. </p>
+<br /><p>Chúng tôi hy vọng quý vị độc giả sẽ thấy loạt ấn phẩm này có điểm hữu ích.</p>
+<br /><p>Quý vị độc giả muốn đặt mua tập Tài Liệu về Văn Hoá Việt Nam số 1 - Chuyên Khảo về Chữ Nôm (Vietnam Culture Series No. 1 - Monograph On Nôm Characters) xin liên lạc với chúng tôi qua email <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> hoặc gửi bưu phiếu về địa chỉ : 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA</p><p>Giá bán: 20.00 Mỹ Kim</p>
+<br /><p>Chân thành cảm tạ,<br><i>Ban Tu Thư Việt-học</i></p>
+<br /><hr size="1">
+<br /></td></tr>
+<br /><tr>
+<br /><td class="type4">
+<br /><span class="type4bigger">Vietnam Culture Series</span></td>
+<br /></tr>
+<br /><tr>
+<br /><td class="type5">
+<br /><img src="./images/main_page/chuyenkhaosm.jpg" border="0" alt="The Institute of Vietnamese Studies" align="left" hspace="5" vspace="5" />
+<br /><p>The Vietnam Culture Series is an endeavor to disseminate scholarly information on the various aspects of Vietnamese culture to the reading public. Through this series, the Institute of Vietnamese Studies will publish periodic monographs focusing on such major areas as Nom literature and philosophy, Vietnamese classical and modern literatures, history, geography, and cultural anthropology.</p>
+<br /><p>For this first monograph of the Vietnam Culture Series, we have collected four papers on Nom literature, in which a linguist and lexicographer, a philologist, and a scientist share their views on the Nom characters.</p>
+<br /><p>On subsequent monographs will disseminate a number of out-of-print and hard-to-find articles by notable scholars of Vietnamese studies and, hopefully, articles by contemporary researchers.</p>
+<br /><p>We hope that our readers will find this series useful and enlightening.</P>
+<br /><p>The Vietnam Culture Series No. 1 - Monograph on Nôm Characters is published. To purchase, please contact us by email: <a href="mailto:admin@viethoc.org">admin@viethoc.org</a> or mail to us at the following address: 15355 Brookhurst St., Suite 222, Westminster, CA 92683, USA</p>
+<br /><p>Published price: $20.00</p><p><i>Viet-Hoc Publishing Department</i></p>    
 	</td>
 </tr>
 </table>

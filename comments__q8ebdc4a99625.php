@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -174,15 +177,15 @@
 </tr>
 </table>
 <br /><br />
-<a name="84"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 18 September @ 03:56:06</td></tr><tr><td class="type5"></td></tr></table><br />[ 
+<a name="84"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</span>&nbsp;(Score 0)<br /> by: Anonymous on: Thursday 18 September @ 03:56:06</td></tr><tr><td class="type5"></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=84&amp;sid=76&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=76&amp;pid=80&amp;mode=threaded&amp;order=0&amp;thold=">Parent</a> ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=88&amp;sid=76&amp;pid=84&amp;mode=threaded&amp;order=0&amp;thold=#88">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 04:03:04<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 04:03:04<br />
 				<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=89&amp;sid=76&amp;pid=88&amp;mode=threaded&amp;order=0&amp;thold=#89">
-	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 08:17:06<br />
+	Re: Thuyết trình: TỰ VẤN: ĐIỂM MẠNH VÀ YẾU C�</a>by: Anonymous on: Wednesday 29 October @ 08:17:06<br />
 				&nbsp;&nbsp;<br />
 <!-- BEGIN: File: themes/foo/footer.php -->
 </td>

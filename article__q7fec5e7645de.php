@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +152,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>When the name Nguyễn Trãi is mentioned, my first thought related to this 14th-century scholar is his well-known masterpiece, Bình Ngô Đại Cáo. It is an undisputable classic, powerful, well-written state address in 15th century, Vietnam. For other writings of this well rounded scholar, not too many are studied or interepreted. My naive explanation for this fact is that perhaps they are not as polished and insightful as the above mentioned writing. Prof. Lê Văn Đặng had proved me wrong in his paper introducing <a href="/eholdings/DaoHoaThi.pdf">Nguyễn Trãi's Đào Hoa Thi</a>. The original verse was written in Nôm script, and Prof. Lê had carefully transcribed into Quốc Ngữ, along with his explanations and interpretations.<br /><br />As we come to know Prof. Lê in his transcribing works, he always includes the original verse -- a gentle reminder for us to learn the Nôm as well -- an age old Vietnamese script but not forgotten in his heart. I hope you will enjoy Prof. Lê's recent paper as much as I do. 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>When the name Nguyễn Trãi is mentioned, my first thought related to this 14th-century scholar is his well-known masterpiece, Bình Ngô Đại Cáo. It is an undisputable classic, powerful, well-written state address in 15th century, Vietnam. For other writings of this well rounded scholar, not too many are studied or interepreted. My naive explanation for this fact is that perhaps they are not as polished and insightful as the above mentioned writing. Prof. Lê Văn Đặng had proved me wrong in his paper introducing <a href="/eholdings/DaoHoaThi.pdf">Nguyễn Trãi's Đào Hoa Thi</a>. The original verse was written in Nôm script, and Prof. Lê had carefully transcribed into Quốc Ngữ, along with his explanations and interpretations.
+<br />
+<br />As we come to know Prof. Lê in his transcribing works, he always includes the original verse -- a gentle reminder for us to learn the Nôm as well -- an age old Vietnamese script but not forgotten in his heart. I hope you will enjoy Prof. Lê's recent paper as much as I do. 
 	</td>
 </tr>
 </table>

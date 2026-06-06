@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -151,7 +151,44 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=0&amp;author="><img src="./images/topics/alltopics.gif" border="0" alt="" align="right" hspace="4" /></a>Một nhà văn và cũng là một nhà giáo đã có nhiều đóng góp cho sinh hoạt văn học và giáo dục của chúng ta, cụ Nguyễn Sỹ Tế, nay đã 78 tuổi, đang định cư ở nam California sau nhiều năm ở tù cộng sản, mới hoàn thành cuốn 1 trong 3 cuốn của bộ trường thiên tiểu thuyết nhan đề BỐN PHƯƠNG MÂY TRẮNG. <br />California ngày 1 tháng 3 năm 2001<br><br />Kính thưa các bậc trưởng thượng,<br><br />Thưa quý thân hữu,<br><br /><p>Một nhà văn và cũng là một nhà giáo đã có nhiều đóng góp cho sinh hoạt văn học và giáo dục của chúng ta, cụ Nguyễn Sỹ Tế, nay đã 78 tuổi, đang định cư ở nam California sau nhiều năm ở tù cộng sản, mới hoàn thành cuốn 1 trong 3 cuốn của bộ trường thiên tiểu thuyết nhan đề BỐN PHƯƠNG MÂY TRẮNG.</p> <br /><p>Nhân danh một cựu môn sinh của cụ tại Ðại học Sư phạm Sài gòn, tôi đã tình nguyện giúp cụ trong việc kêu gọi các thân hữu, những người quen hoặc không quen nhưng quý mến cụ, các môn sinh cũ của cụ cùng tiếp tay để tác phẩm đó có thể ra mắt độc giả.</p><br /><p>Hy vọng quý vị sẽ hoan hỷ đặt mua trước 1 hay nhiều cuốn để tiếp tay với cụ trong công tác văn học này.</p><br /><p>Xin quý vị coi thêm thông báo đính kèm.</p><br /><p>Thân chúc quý vị và quý quyến an khang, vạn hạnh.</p><br /><p>Trân trọng,</p><br /><p>Nguyễn Ðình Cường<br><br />E-mail: cuonguyendalat@yahoo.com</p><br /><hr size="1"><br /><p>Tác phẩm của Giáo sư Nguyễn Sỹ Tế</p><br /><p>BỐN PHƯƠNG MÂY TRẮNG</p><br /><p>Trường thiên Tiểu thuyết trong bối cảnh lịch sử Việt Nam (1945-1975), gồm 3 quyển:</p><br /><p>Quyển 1: Mưa Bình Minh (1944-46)      khoảng 500 trang.</p><br /><p>Quyển 2: Hợp tan (1946-54)               khoảng 500 trang.</p><br /><p>Quyển 3: Mây trắng  (1954-1975)       khoảng 500 trang.</p><br /><p>Ðại cương về Nội dung:</p><br /><ul><br /><li>Cuộc cách mạng vô sản của đệ tam quốc tế là không cần thiết mà còn là một đại họa của dân tộc.</li><br /><li>Sự tan rã của giai tầng trí thức tiểu tư sản.</li><br /><li>Cuộc gặp gỡ hồn nhiên giữa người dân thành thị với thôn quê trong tình tự muôn đời của dân tộc.</li><br /><li>Sự phiêu bạt của một thành phần trí thức.</li><br /><li>Sự tập hợp nhân sự để xây dựng miền Nam sau hiệp định Genève 1954.</li><br /><li>Thân phận vô cùng đau thương của một người con gái lưu lạc trong xã hội cộng sản.</li></ul><br /><p>Tác phẩm xây dựng trên một mối tình đau thương bất diệt của một người con trai tên Bạch và một người con gái tên Vân, kẻ theo Tự do, người theo bố (cộng sản) vì hy sinh cho mẹ.</p><br /><p>Quyển 1 đã in xong trên nguyệt san PHỤ Nữ VIỆT, nay sẽ in thành sách. Dự kiến hoàn thành khoảng tháng 12 năm 2001.</p><br /><p>Quyển 2 và 3 dự kiến hoàn thành trong năm 2002 và 2004.</li><br /><hr size="1"><br /><p>Quý thân hữu và môn sinh cũ có thể đặt mua cuốn 1 trước. <br />Giá 25 mỹ kim/cuốn (cả cước phí bưu điện). <br />Chi phiếu xin đề: Nguyễn Ðình Cường<br />Ðịa chỉ :   11245 Jerry Place<br />Cerritos, CA 90703- USA.				     <br />Email:cuonguyendalat@yahoo.com</p><br /><br />
+	<a href="search.php?query=&amp;topic=0&amp;author="><img src="./images/topics/alltopics.gif" border="0" alt="" align="right" hspace="4" /></a>Một nhà văn và cũng là một nhà giáo đã có nhiều đóng góp cho sinh hoạt văn học và giáo dục của chúng ta, cụ Nguyễn Sỹ Tế, nay đã 78 tuổi, đang định cư ở nam California sau nhiều năm ở tù cộng sản, mới hoàn thành cuốn 1 trong 3 cuốn của bộ trường thiên tiểu thuyết nhan đề BỐN PHƯƠNG MÂY TRẮNG. <br />California ngày 1 tháng 3 năm 2001<br>
+<br />Kính thưa các bậc trưởng thượng,<br>
+<br />Thưa quý thân hữu,<br>
+<br /><p>Một nhà văn và cũng là một nhà giáo đã có nhiều đóng góp cho sinh hoạt văn học và giáo dục của chúng ta, cụ Nguyễn Sỹ Tế, nay đã 78 tuổi, đang định cư ở nam California sau nhiều năm ở tù cộng sản, mới hoàn thành cuốn 1 trong 3 cuốn của bộ trường thiên tiểu thuyết nhan đề BỐN PHƯƠNG MÂY TRẮNG.</p> 
+<br /><p>Nhân danh một cựu môn sinh của cụ tại Ðại học Sư phạm Sài gòn, tôi đã tình nguyện giúp cụ trong việc kêu gọi các thân hữu, những người quen hoặc không quen nhưng quý mến cụ, các môn sinh cũ của cụ cùng tiếp tay để tác phẩm đó có thể ra mắt độc giả.</p>
+<br /><p>Hy vọng quý vị sẽ hoan hỷ đặt mua trước 1 hay nhiều cuốn để tiếp tay với cụ trong công tác văn học này.</p>
+<br /><p>Xin quý vị coi thêm thông báo đính kèm.</p>
+<br /><p>Thân chúc quý vị và quý quyến an khang, vạn hạnh.</p>
+<br /><p>Trân trọng,</p>
+<br /><p>Nguyễn Ðình Cường<br>
+<br />E-mail: cuonguyendalat@yahoo.com</p>
+<br /><hr size="1">
+<br /><p>Tác phẩm của Giáo sư Nguyễn Sỹ Tế</p>
+<br /><p>BỐN PHƯƠNG MÂY TRẮNG</p>
+<br /><p>Trường thiên Tiểu thuyết trong bối cảnh lịch sử Việt Nam (1945-1975), gồm 3 quyển:</p>
+<br /><p>Quyển 1: Mưa Bình Minh (1944-46)      khoảng 500 trang.</p>
+<br /><p>Quyển 2: Hợp tan (1946-54)               khoảng 500 trang.</p>
+<br /><p>Quyển 3: Mây trắng  (1954-1975)       khoảng 500 trang.</p>
+<br /><p>Ðại cương về Nội dung:</p>
+<br /><ul>
+<br /><li>Cuộc cách mạng vô sản của đệ tam quốc tế là không cần thiết mà còn là một đại họa của dân tộc.</li>
+<br /><li>Sự tan rã của giai tầng trí thức tiểu tư sản.</li>
+<br /><li>Cuộc gặp gỡ hồn nhiên giữa người dân thành thị với thôn quê trong tình tự muôn đời của dân tộc.</li>
+<br /><li>Sự phiêu bạt của một thành phần trí thức.</li>
+<br /><li>Sự tập hợp nhân sự để xây dựng miền Nam sau hiệp định Genève 1954.</li>
+<br /><li>Thân phận vô cùng đau thương của một người con gái lưu lạc trong xã hội cộng sản.</li></ul>
+<br /><p>Tác phẩm xây dựng trên một mối tình đau thương bất diệt của một người con trai tên Bạch và một người con gái tên Vân, kẻ theo Tự do, người theo bố (cộng sản) vì hy sinh cho mẹ.</p>
+<br /><p>Quyển 1 đã in xong trên nguyệt san PHỤ Nữ VIỆT, nay sẽ in thành sách. Dự kiến hoàn thành khoảng tháng 12 năm 2001.</p>
+<br /><p>Quyển 2 và 3 dự kiến hoàn thành trong năm 2002 và 2004.</li>
+<br /><hr size="1">
+<br /><p>Quý thân hữu và môn sinh cũ có thể đặt mua cuốn 1 trước. 
+<br />Giá 25 mỹ kim/cuốn (cả cước phí bưu điện). 
+<br />Chi phiếu xin đề: Nguyễn Ðình Cường
+<br />Ðịa chỉ :   11245 Jerry Place
+<br />Cerritos, CA 90703- USA.				     
+<br />Email:cuonguyendalat@yahoo.com</p>
+<br />
+<br />
 	</td>
 </tr>
 </table>
@@ -200,7 +237,18 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="23"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score 1)<br /> by: anmota on: Wednesday 19 December @ 21:17:21<br />(<a href="user.php?op=userinfo&amp;uname=anmota">User Info</a>) </td></tr><tr><td class="type5">Cung  cac ban dong mon :<br />       Tai sao lai khong chi mot mon tien (nao do )  de  sach cua Ong Thay minh duoc hanh the .<br />       Sach ma duoc hanh the , thi la mot niem vui cua Ong Thay .<br />       Tai sao lai khong lam cho Ong Thay minh  vui vao cai tuoi hoang hon .<br />      Do la suy nghi cua toi , mot hoc tro cua thay Nguyen Si Te vao nien khoa 1955/1956 .<br />      Xin ngo cung cac ban .<br />Tran trong .<br />Pham Hue . Ca .<br /><br /><br /><br /></td></tr></table><br />[ 
+<a name="23"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Giới thiệu sách mới của Giáo sư Nguyễn Sỹ</span>&nbsp;(Score 1)<br /> by: anmota on: Wednesday 19 December @ 21:17:21<br />(<a href="user.php?op=userinfo&amp;uname=anmota">User Info</a>) </td></tr><tr><td class="type5">Cung  cac ban dong mon :
+<br />       Tai sao lai khong chi mot mon tien (nao do )  de  sach cua Ong Thay minh duoc hanh the .
+<br />       Sach ma duoc hanh the , thi la mot niem vui cua Ong Thay .
+<br />       Tai sao lai khong lam cho Ong Thay minh  vui vao cai tuoi hoang hon .
+<br />      Do la suy nghi cua toi , mot hoc tro cua thay Nguyen Si Te vao nien khoa 1955/1956 .
+<br />      Xin ngo cung cac ban .
+<br />Tran trong .
+<br />Pham Hue . Ca .
+<br />
+<br />
+<br />
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=23&amp;sid=25&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		 ]<br /><br />

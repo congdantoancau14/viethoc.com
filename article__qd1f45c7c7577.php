@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -190,7 +190,16 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Tào Tháo vừa chết, Tào Phi 曹丕 bức em là Tào Thực 曹植 trong bảy bước, phải làm một bài thơ mới tha không giết.  Lấy “huynh đệ 兄弟 ” làm đề, nhưng cấm dùng hai chữ huynh đệ.  Thực bước bảy bước, đọc bài thơ bất hủ sau đây, chép từ Tam quốc Chí Diễn Nghĩa của La Quán Trung, hồi 79:<br />煮豆燃豆萁  	Nấu đậu bằng dây đậu<br />豆在釜中泣	Ðậu trong chảo khóc<br />本是同根生	Vốn thiệt một gốc sanh<br />相煎何太急	Ðốt nhau sao quá gấp... <br />Ngoài giai thoại trên đây, Tào Phi 曹丕 có một nhận xét khá độc đáo:  “文 人 相 輕 ， 自 古 而 然” (Văn nhơn tương khinh, tự cổ nhi nhiên).  Phát biểu một cách bạo dạn ý tương đối “văn nhơn tương khinh” cho thấy nét hung bạo của Phi.  Thảo nào, khi đệ nhứt gian hùng Tào Tháo vừa khuất, Phi bức bách các em (Tào Chương 曹彰 kéo quân về thần phục, Tào Hùng 曹熊 sợ mà tự tử, Tào Thực chuộc mạng bằng một bài thơ) phế và an trí Hiến Ðế cùng em gái là Tào Hoàng Hậu. <br /><br />Ðể chứng minh nhận xét về văn nhơn của Phi là sai, xin mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán </a>đọc bài Tiến sĩ Ðàm Trung Pháp <a href="http://www.viethoc.org/eholdings/Vietnamese_NDH.pdf" target="_parent">điểm sách</a> của cố Tiến sĩ Nguyễn Ðình Hoà, nguyên Viện-trưởng Viện Việt-học.<br /><br />Lê Văn Ðặng<br />
+	<a href="search.php?query=&amp;topic=7&amp;author="><img src="./images/topics/reviews.gif" border="0" alt="Điểm Sách" align="right" hspace="4" /></a>Tào Tháo vừa chết, Tào Phi 曹丕 bức em là Tào Thực 曹植 trong bảy bước, phải làm một bài thơ mới tha không giết.  Lấy “huynh đệ 兄弟 ” làm đề, nhưng cấm dùng hai chữ huynh đệ.  Thực bước bảy bước, đọc bài thơ bất hủ sau đây, chép từ Tam quốc Chí Diễn Nghĩa của La Quán Trung, hồi 79:
+<br />煮豆燃豆萁  	Nấu đậu bằng dây đậu
+<br />豆在釜中泣	Ðậu trong chảo khóc
+<br />本是同根生	Vốn thiệt một gốc sanh
+<br />相煎何太急	Ðốt nhau sao quá gấp... <br />Ngoài giai thoại trên đây, Tào Phi 曹丕 có một nhận xét khá độc đáo:  “文 人 相 輕 ， 自 古 而 然” (Văn nhơn tương khinh, tự cổ nhi nhiên).  Phát biểu một cách bạo dạn ý tương đối “văn nhơn tương khinh” cho thấy nét hung bạo của Phi.  Thảo nào, khi đệ nhứt gian hùng Tào Tháo vừa khuất, Phi bức bách các em (Tào Chương 曹彰 kéo quân về thần phục, Tào Hùng 曹熊 sợ mà tự tử, Tào Thực chuộc mạng bằng một bài thơ) phế và an trí Hiến Ðế cùng em gái là Tào Hoàng Hậu. 
+<br />
+<br />Ðể chứng minh nhận xét về văn nhơn của Phi là sai, xin mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán </a>đọc bài Tiến sĩ Ðàm Trung Pháp <a href="http://www.viethoc.org/eholdings/Vietnamese_NDH.pdf" target="_parent">điểm sách</a> của cố Tiến sĩ Nguyễn Ðình Hoà, nguyên Viện-trưởng Viện Việt-học.
+<br />
+<br />Lê Văn Ðặng
+<br />
 	</td>
 </tr>
 </table>

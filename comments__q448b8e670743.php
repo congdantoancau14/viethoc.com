@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -140,7 +143,18 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Saturday 26 January @ 09:34:03</td></tr><tr><td class="type5">“Rút bỏ bài cuả tôi để thế bằng một bài khác hẳn là tước bỏ quyền đối-thoại giữa tôi và các độc-giả về đề-tài tôi nêu lên trong bài.”<br />Cần nói rõ là bài KGCD không phải thay thế LSKDTVN của Việt Chi.<br />Nếu VC có hứng thú, xin “tu chính” hai bài LSKDTVN và XTTA..., gởi qua Seattle. Nhà Hải Biên sẽ tùy nghi in như đã hứa trong lời nhắn LVD trong Comments bài XTTA...<br />Lê Văn Ðặng<br />levdang@viethoc.org<br /><br /><br /><br /><br /><br /><br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Saturday 26 January @ 09:34:03</td></tr><tr><td class="type5">“Rút bỏ bài cuả tôi để thế bằng một bài khác hẳn là tước bỏ quyền đối-thoại giữa tôi và các độc-giả về đề-tài tôi nêu lên trong bài.”
+<br />Cần nói rõ là bài KGCD không phải thay thế LSKDTVN của Việt Chi.
+<br />Nếu VC có hứng thú, xin “tu chính” hai bài LSKDTVN và XTTA..., gởi qua Seattle. Nhà Hải Biên sẽ tùy nghi in như đã hứa trong lời nhắn LVD trong Comments bài XTTA...
+<br />Lê Văn Ðặng
+<br />levdang@viethoc.org
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Không Gian Chu Dịch" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

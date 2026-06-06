@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR><br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -150,7 +154,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>"Đến những năm cuối thế kỷ XIX, Gia Huấn Ca 家訓歌 đã gắn liền với tên Nguyễn Trãi 阮廌 trong một số thư tịch. Nhưng đến những năm ba mươi của thế kỷ XX lại có dư luận cho Gia Huấn Ca chưa chắc là của Nguyễn Trãi. Từ đó học giới phân vân. Cho đến năm 1956 khi Quốc Âm Thi Tập   國音詩集 được chính thức phát hiện, mới có người tìm cách khẳng định Gia Huấn Ca không phải là của Nguyễn Trãi. Tuy nhiên vấn đề chưa phải đã giải quyết. Hai mươi năm sau đó, khi nói về tác phẩm của Nguyễn Trãi, nhiều người vẫn không quên nhắc đến Gia Huấn Ca và có sách còn ghi Gia Huấn Ca là tác phẩm chính của Nguyễn Trãi nữa." <br />Nhận thấy vấn đề chưa được khảo chứng thật rõ ràng và đầy đủ, nên giáo sư Đoàn Khoách đã vận dụng một số nội chứng và bàng chứng để góp phần khẳng định <i>tác phẩm Gia Huấn Ca không phải là của Nguyễn Trãi.</i><br><br> Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Giahuanca_Rev-1A.pdf" target="new_window">Nguyễn Trãi  và Gia Huấn Ca</a> của giáo sư <b>Đoàn Khoách</b>, khởi thảo từ năm 1980 và được bổ chính mới đây. <br><br><b><br />Lê Văn Ðặng</b><br>Seattle, III-2003<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>"Đến những năm cuối thế kỷ XIX, Gia Huấn Ca 家訓歌 đã gắn liền với tên Nguyễn Trãi 阮廌 trong một số thư tịch. Nhưng đến những năm ba mươi của thế kỷ XX lại có dư luận cho Gia Huấn Ca chưa chắc là của Nguyễn Trãi. Từ đó học giới phân vân. Cho đến năm 1956 khi Quốc Âm Thi Tập   國音詩集 được chính thức phát hiện, mới có người tìm cách khẳng định Gia Huấn Ca không phải là của Nguyễn Trãi. Tuy nhiên vấn đề chưa phải đã giải quyết. Hai mươi năm sau đó, khi nói về tác phẩm của Nguyễn Trãi, nhiều người vẫn không quên nhắc đến Gia Huấn Ca và có sách còn ghi Gia Huấn Ca là tác phẩm chính của Nguyễn Trãi nữa." <br />Nhận thấy vấn đề chưa được khảo chứng thật rõ ràng và đầy đủ, nên giáo sư Đoàn Khoách đã vận dụng một số nội chứng và bàng chứng để góp phần khẳng định <i>tác phẩm Gia Huấn Ca không phải là của Nguyễn Trãi.</i><br><br> Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt-Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Giahuanca_Rev-1A.pdf" target="new_window">Nguyễn Trãi  và Gia Huấn Ca</a> của giáo sư <b>Đoàn Khoách</b>, khởi thảo từ năm 1980 và được bổ chính mới đây. <br><br><b>
+<br />Lê Văn Ðặng</b><br>Seattle, III-2003
+<br />
 	</td>
 </tr>
 </table>
@@ -199,7 +205,9 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="64"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 April @ 08:37:50</td></tr><tr><td class="type5">Chữ “thi” trong QATT in sai, xin sửa lại: 國音詩集<br />LVÐ<br /></td></tr></table><br />[ 
+<a name="64"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Nguyễn Trãi  阮廌và Gia Huấn Ca 家訓歌</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 April @ 08:37:50</td></tr><tr><td class="type5">Chữ “thi” trong QATT in sai, xin sửa lại: 國音詩集
+<br />LVÐ
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=64&amp;sid=65&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		 ]<br /><br />

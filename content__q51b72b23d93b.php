@@ -96,7 +96,14 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR><br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">April 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=90&mode=threaded&order=0">Vài Ý Nghĩ Vụn về nhạc Tây, nhạc Ta</a> của Nhạc-sĩ Lê Văn Khoa.<BR>
+<br /><font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -112,14 +119,27 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="type0">
        <table width="100%" border="0" cellspacing="1" cellpadding="8">
        <tr>
-          <td class="type4bigger">
+          <td class="type4bigger">/
           Âm dương lịch Việt Nam
           </td>
        </tr>
        <tr>
 	  <td class="type5">
           <table width="100%"><tr>  
-               <td class="type5" width="90%" valign="top"><span class="boldtext">Tra ngày âm lịch</span><br />Đọc cách sách cổ sử của Việt Nam, ngày tháng trong đó ghi theo âm lịch, đôi khi người đọc có nhu cầu cần tra cứu, kiểm chứng các hiện tượng như nhật thực, nguyệt thực, tiết khí, v.v... Các hiện tượng trong quá khứ này đều đã được ghi chú và tính toán theo dương lịch và có thể tìm thấy nhiều nơi trên Internet như tại <a href="http://aa.usno.navy.mil/">US Naval Observatory</a>.<br /><br />Khi biết rõ ngày âm lịch và ngày dương lịch tương ứng, ta có thể truy tìm được nhiều bí ẩn trong lịch sử, v.v... Như thắc mắc về <a href="http://www.viethoc.com/phorum/read.php?f=10&i=322&t=322">Đồ cổ Hội An</a> là một thí dụ điển hình trong việc dùng biến cố nhật thực để xác định niên đại của đồ cổ.<br /><br />Nhận thức được sự chuyển đổi dương lịch sang âm lịch là một điều cần thiết, chúng tôi xin giới thiệu với quý bạn, nhu liệu "<b>Âm Lịch Việt Nam</b>", được anh Hồ Ngọc Đức thực hiện:<br /><br /><table border=2 bgcolor="lightgrey"><tr><br /><td><APPLET CODE="duc.calendar.LunarCalendar.class" ARCHIVE="lunar30.jar" WIDTH=600 HEIGHT=450><br />Your browser does not support Java applets.<br /></APPLET></td></tr></table><br /><br /><b>Ghi chú:</b><br />- Xem <a href="http://www.informatik.uni-leipzig.de/~duc/amlich/">Ho Ngoc Duc's Vietnamese lunar calendar</a> để biết rõ thêm chi tiết.<br />- Nếu muốn chạy nhu liệu này offline, xin lấy <a href="lunar30.jar">lunar30.jar</a> về, và double-click trên đó mỗi khi muốn chạy.</td></tr></td></tr></td></tr></td></tr></td></tr>   </table>
+               <td class="type5" width="90%" valign="top"><span class="boldtext">Tra ngày âm lịch</span><br />Đọc cách sách cổ sử của Việt Nam, ngày tháng trong đó ghi theo âm lịch, đôi khi người đọc có nhu cầu cần tra cứu, kiểm chứng các hiện tượng như nhật thực, nguyệt thực, tiết khí, v.v... Các hiện tượng trong quá khứ này đều đã được ghi chú và tính toán theo dương lịch và có thể tìm thấy nhiều nơi trên Internet như tại <a href="http://aa.usno.navy.mil/">US Naval Observatory</a>.
+<br />
+<br />Khi biết rõ ngày âm lịch và ngày dương lịch tương ứng, ta có thể truy tìm được nhiều bí ẩn trong lịch sử, v.v... Như thắc mắc về <a href="http://www.viethoc.com/phorum/read.php?f=10&i=322&t=322">Đồ cổ Hội An</a> là một thí dụ điển hình trong việc dùng biến cố nhật thực để xác định niên đại của đồ cổ.
+<br />
+<br />Nhận thức được sự chuyển đổi dương lịch sang âm lịch là một điều cần thiết, chúng tôi xin giới thiệu với quý bạn, nhu liệu "<b>Âm Lịch Việt Nam</b>", được anh Hồ Ngọc Đức thực hiện:
+<br />
+<br /><table border=2 bgcolor="lightgrey"><tr>
+<br /><td><APPLET CODE="duc.calendar.LunarCalendar.class" ARCHIVE="lunar30.jar" WIDTH=600 HEIGHT=450>
+<br />Your browser does not support Java applets.
+<br /></APPLET></td></tr></table>
+<br />
+<br /><b>Ghi chú:</b>
+<br />- Xem <a href="http://www.informatik.uni-leipzig.de/~duc/amlich/">Ho Ngoc Duc's Vietnamese lunar calendar</a> để biết rõ thêm chi tiết.
+<br />- Nếu muốn chạy nhu liệu này offline, xin lấy <a href="lunar30.jar">lunar30.jar</a> về, và double-click trên đó mỗi khi muốn chạy.</td></tr></td></tr></td></tr></td></tr></td></tr>   </table>
             </td>
           </tr>
           </table>

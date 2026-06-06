@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -174,13 +174,44 @@
 </tr>
 </table>
 <br /><br />
-<a name="35"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>;(Score: 1)<br /> by: <a href="mailto:Ly@VietHoc.Org">Ly</a> (Ly@VietHoc.Org) on: Monday 28 January @ 21:47:11<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Dạ thưa ông Việt Chi,<br /><br />Mãi đến hôm nay đọc lời comments mới rõ sự tình! Xin thành thực xin lồi cùng ông Việt Chi và quý độc giả VVH. Việc chuyển bài của ông Việt Chi qua một trang riêng là để chuẩn bị cho một trang mới, sắp sửa trình làng (Trang Thân Hữu), vô tình không thông báo cho tường tận, để gây sự hiểu lầm.<br /><br />Lần nữa, thành thật xin lỗi ông Việt Chi.<br /><br />Thân kính,<br />Ly Vuong</td></tr></table><br />[ 
+<a name="35"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>;(Score: 1)<br /> by: <a href="mailto:Ly@VietHoc.Org">Ly</a> (Ly@VietHoc.Org) on: Monday 28 January @ 21:47:11<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Dạ thưa ông Việt Chi,
+<br />
+<br />Mãi đến hôm nay đọc lời comments mới rõ sự tình! Xin thành thực xin lồi cùng ông Việt Chi và quý độc giả VVH. Việc chuyển bài của ông Việt Chi qua một trang riêng là để chuẩn bị cho một trang mới, sắp sửa trình làng (Trang Thân Hữu), vô tình không thông báo cho tường tận, để gây sự hiểu lầm.
+<br />
+<br />Lần nữa, thành thật xin lỗi ông Việt Chi.
+<br />
+<br />Thân kính,
+<br />Ly Vuong</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=35&amp;sid=30&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
-		| <a href="comments.php?sid=30&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br /><a name="32"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 26 January @ 09:34:03</td></tr><tr><td class="type5">“Rút bỏ bài cuả tôi để thế bằng một bài khác hẳn là tước bỏ quyền đối-thoại giữa tôi và các độc-giả về đề-tài tôi nêu lên trong bài.”<br />Cần nói rõ là bài KGCD không phải thay thế LSKDTVN của Việt Chi.<br />Nếu VC có hứng thú, xin “tu chính” hai bài LSKDTVN và XTTA..., gởi qua Seattle. Nhà Hải Biên sẽ tùy nghi in như đã hứa trong lời nhắn LVD trong Comments bài XTTA...<br />Lê Văn Ðặng<br />levdang@viethoc.org<br /><br /><br /><br /><br /><br /><br /></td></tr></table><br />[ 
+		| <a href="comments.php?sid=30&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br /><a name="32"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 26 January @ 09:34:03</td></tr><tr><td class="type5">“Rút bỏ bài cuả tôi để thế bằng một bài khác hẳn là tước bỏ quyền đối-thoại giữa tôi và các độc-giả về đề-tài tôi nêu lên trong bài.”
+<br />Cần nói rõ là bài KGCD không phải thay thế LSKDTVN của Việt Chi.
+<br />Nếu VC có hứng thú, xin “tu chính” hai bài LSKDTVN và XTTA..., gởi qua Seattle. Nhà Hải Biên sẽ tùy nghi in như đã hứa trong lời nhắn LVD trong Comments bài XTTA...
+<br />Lê Văn Ðặng
+<br />levdang@viethoc.org
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=32&amp;sid=30&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
-		| <a href="comments.php?sid=30&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br /><a name="34"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 January @ 14:38:48</td></tr><tr><td class="type5">Kinh gu+?i ban DDieu ha`nh va` O^ng Viet Chi,<br /><br /><br />DDoc qua nhu+~ng lo`i than phie^`n cua ong Viet Chi to^i co' ca?m gia'c ra`ng o^ng VC ddang tra'ch mo'c va` phie^`n ha` ban ddieu ha`nh VVH. Co' the^? ddo' cu~ng la` mot va`i y' kien kha'c cua nhu+~ng vi kha'c ma` ho. chu+a no'i ra cha(ng?   To^i la` mot ke? ha^.u sinh do^'t dda.t ca'n cuo^'c cho ne^n khg co' ba`i vo+? gi` dde^? ddang va`o da^y ca? Tu` ddo' to^i nghi~ to^i se~ cong bi`nh trong y' kien do'ng go'p [Ho^ng biet co' ddu'ng nhu+ vay hong :-) ] Toi xin de` nghi., neu VVH co' du? cho^~ thi` ddu`ng ne^n lay ba`i na`y roi dang ba`i kha'c le^n la`m cho tac gia buo`n lo`ng. Co`n neu nhu+ khg co' cho^~ dde^? cu`ng ddang nhieu ba`i thi` viec lay ba`i cua Ong Viet Chi va` thay vo ba`i cua Ong Le Van DDang la` dieu hop ly'.<br /><br />Ngoa`i ra, toi xin co' i' kien voi ong Viet Chi,<br /><br />Khong biet ong Viet Chi trong khi viet y' kien co' no^?i gia^.n hay kho^ng, nhu+ng trong lo+`i va(n cua o^ng co' lu+?a sa^n ha^.n o+? be^n trong. To^i tro^.m nghi~ nhu+~ng ba^.c tuoi cao, co' ddoc va` ho.c chu+~No^m, chu+~ Ha'n  co' nghi~a ca` ca'c vi cao tuo^?i la` nhu+~ng ba^.c qua kho?i ca'i tuo^?i Tri Thie^n Ma.ng, biet the^' na`o la` DI.CH LY'  thi` du`ng ne^n gia^.n ho+`n nhu+ tuoi tre? chu'ng to^i.  <br /><br />Tren dday chi la` nhu+~ng y' kien   tho^ thie^?n mong ra(`ng no' kho^ng ga^y ra tranh ca?i. Neu co' la`m qui' vi. kho^ng ba(`ng lo`ng xin dduoc ru't la.i lo+`i no'i va` xin dduoc ban ky? thuat la^'y ra giu`m.<br /><br />Xin ca?m on.<br /><br />Le Viet Dieu</td></tr></table><br />[ 
+		| <a href="comments.php?sid=30&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br /><a name="34"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Không Gian Chu Dịch</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 January @ 14:38:48</td></tr><tr><td class="type5">Kinh gu+?i ban DDieu ha`nh va` O^ng Viet Chi,
+<br />
+<br />
+<br />DDoc qua nhu+~ng lo`i than phie^`n cua ong Viet Chi to^i co' ca?m gia'c ra`ng o^ng VC ddang tra'ch mo'c va` phie^`n ha` ban ddieu ha`nh VVH. Co' the^? ddo' cu~ng la` mot va`i y' kien kha'c cua nhu+~ng vi kha'c ma` ho. chu+a no'i ra cha(ng?   To^i la` mot ke? ha^.u sinh do^'t dda.t ca'n cuo^'c cho ne^n khg co' ba`i vo+? gi` dde^? ddang va`o da^y ca? Tu` ddo' to^i nghi~ to^i se~ cong bi`nh trong y' kien do'ng go'p [Ho^ng biet co' ddu'ng nhu+ vay hong :-) ] Toi xin de` nghi., neu VVH co' du? cho^~ thi` ddu`ng ne^n lay ba`i na`y roi dang ba`i kha'c le^n la`m cho tac gia buo`n lo`ng. Co`n neu nhu+ khg co' cho^~ dde^? cu`ng ddang nhieu ba`i thi` viec lay ba`i cua Ong Viet Chi va` thay vo ba`i cua Ong Le Van DDang la` dieu hop ly'.
+<br />
+<br />Ngoa`i ra, toi xin co' i' kien voi ong Viet Chi,
+<br />
+<br />Khong biet ong Viet Chi trong khi viet y' kien co' no^?i gia^.n hay kho^ng, nhu+ng trong lo+`i va(n cua o^ng co' lu+?a sa^n ha^.n o+? be^n trong. To^i tro^.m nghi~ nhu+~ng ba^.c tuoi cao, co' ddoc va` ho.c chu+~No^m, chu+~ Ha'n  co' nghi~a ca` ca'c vi cao tuo^?i la` nhu+~ng ba^.c qua kho?i ca'i tuo^?i Tri Thie^n Ma.ng, biet the^' na`o la` DI.CH LY'  thi` du`ng ne^n gia^.n ho+`n nhu+ tuoi tre? chu'ng to^i.  
+<br />
+<br />Tren dday chi la` nhu+~ng y' kien   tho^ thie^?n mong ra(`ng no' kho^ng ga^y ra tranh ca?i. Neu co' la`m qui' vi. kho^ng ba(`ng lo`ng xin dduoc ru't la.i lo+`i no'i va` xin dduoc ban ky? thuat la^'y ra giu`m.
+<br />
+<br />Xin ca?m on.
+<br />
+<br />Le Viet Dieu</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=34&amp;sid=30&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=30&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

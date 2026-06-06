@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +153,16 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=8&amp;author="><img src="./images/topics/qt80.gif" border="0" alt="Văn-Hoá Việt-Nam" align="right" hspace="4" /></a>Viện Việt-Học Kính Chúc Quý Thân Hữu<br />qua một Năm Quý Mùi 2003 đầy Thắng Lợi và An Lành.<br /><br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc bài thơ <a href="./eholdings/NguyenDan.pdf">Nguyên Nhựt 元日của Vương An Thạch 王安石 </a>đời Tống và bản dịch của cố Giáo sư Trần Trọng San陳仲珊.<br /><br /> <br />Nếu có nhã hứng, xin mời quý vị đưa vào Diễn Ðàn Văn Hoá bản dịch ưng ý của quý vị hoặc bản dịch hay mà quý chọn cho mọi người cùng thưởng thức trong mấy ngày Tết.<br /><br />Xin đa tạ. <br />Viện Việt-Học kính cáo.<br />
+	<a href="search.php?query=&amp;topic=8&amp;author="><img src="./images/topics/qt80.gif" border="0" alt="Văn-Hoá Việt-Nam" align="right" hspace="4" /></a>Viện Việt-Học Kính Chúc Quý Thân Hữu
+<br />qua một Năm Quý Mùi 2003 đầy Thắng Lợi và An Lành.
+<br />
+<br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc bài thơ <a href="./eholdings/NguyenDan.pdf">Nguyên Nhựt 元日của Vương An Thạch 王安石 </a>đời Tống và bản dịch của cố Giáo sư Trần Trọng San陳仲珊.
+<br />
+<br /> <br />Nếu có nhã hứng, xin mời quý vị đưa vào Diễn Ðàn Văn Hoá bản dịch ưng ý của quý vị hoặc bản dịch hay mà quý chọn cho mọi người cùng thưởng thức trong mấy ngày Tết.
+<br />
+<br />Xin đa tạ. 
+<br />Viện Việt-Học kính cáo.
+<br />
 	</td>
 </tr>
 </table>

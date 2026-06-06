@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -190,7 +190,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>Nhơn chi sơ 人之初 Tánh bổn thiện 性本善</p><br /><p>Thể theo lời yêu cầu từ Diễn Ðàn Việt Học, chúng tôi thân mời các bạn vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài <a href="/eholdings/tamtukinh_rev-1.pdf">Tam Tự Kinh 三字經</a>, sách dạy chữ Hán có phiên âm Hán Việt.  Bản gốc soạn trước đây dùng "đại tự", nặng nề, gặp trở ngại kỷ thuật khi chuyển ra bản điện tử.  Bản "tiểu tự" này được gói trọn trong bốn trang, khi in hai mặt chỉ dùng hai tờ tiện lợi cho việc ôn tập.  Vì chữ nhỏ nên có điều bất tiện cho người mắt yếu, xin chư vị cảm phiền.  Ngoài ra bản này không có phần Phụ Lục.</p><br /><br /><b><i>Lê Văn Ðặng</i></b><br /> 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>Nhơn chi sơ 人之初 Tánh bổn thiện 性本善</p>
+<br /><p>Thể theo lời yêu cầu từ Diễn Ðàn Việt Học, chúng tôi thân mời các bạn vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài <a href="/eholdings/tamtukinh_rev-1.pdf">Tam Tự Kinh 三字經</a>, sách dạy chữ Hán có phiên âm Hán Việt.  Bản gốc soạn trước đây dùng "đại tự", nặng nề, gặp trở ngại kỷ thuật khi chuyển ra bản điện tử.  Bản "tiểu tự" này được gói trọn trong bốn trang, khi in hai mặt chỉ dùng hai tờ tiện lợi cho việc ôn tập.  Vì chữ nhỏ nên có điều bất tiện cho người mắt yếu, xin chư vị cảm phiền.  Ngoài ra bản này không có phần Phụ Lục.</p>
+<br />
+<br /><b><i>Lê Văn Ðặng</i></b>
+<br /> 
 	</td>
 </tr>
 </table>

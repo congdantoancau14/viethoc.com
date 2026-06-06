@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -150,7 +150,20 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=4&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Tin-Tức" align="right" hspace="4" /></a>Tờ báo Người Việt  ngày 10 tháng 6, 2001 đã tường trình buổi Lễ Cầu-siêu cho cố giáo sư Viện-trưởng Nguyễn Ðình-Hoà và Tập Ðặc-san Tưởng-Niệm như sau ... <br /><br /><B>Viện Việt Học tổ chức tưởng niệm Giáo Sư Viện Trưởng Nguyễn Đình Hòa</B> <br /><br />GARDEN GROVE (AT). Viện Việt Học tại Hoa Kỳ đã tổ chức một buỗi lễ cầu siêu và tưởng niệm trang trọng và cảm động cố giáo sư Viện Trưởng Nguyễn Đình Hòa với sự tham dự của khá đông học giả, giáo sư, môn đệ và gia đình tại chùa Liên Hoa vào chiều ngày Chủ Nhật Mồng 3 tháng Sáu 2001.<br /><br />Giáo sư Nguyễn Khắc Hoạch đã nhắc đến những công trình văn học giá trị, những khám phá về ngôn ngữ độc đáo mà giáo sư Nguyễn Đình Hòa đã đóng góp cho kho tàng văn hóa Việt Nam. Giáo sư Nguyện Đình Hòa đã tốt nghiệp luật khoa tại Hà Nội năm 1945, du học tại Hoa kỳ với học vị Tiến Sĩ Giáo Dục vào năm 1956 tại New York University và về Ngôn Ngữ Học tại Georgetown University, Linguistic Institute, Washington DC: Summer'54.<br /><br />Giáo Sư đã từng làm Khoa trưởng Đại Học văn Khoa ở Việt Nam, dạy học tại nhiều Đại Học Hoa Kỳ. Trong suốt cuộc đời giảng dậy và nghiên cứu, giáo sư Nguyễn Đình Hòa đã để lại một số lượng tác phẩm vô cùng phong phú về các công trình nghiên cứu ngôn ngữ, văn hóa Việt Nam và phát triễn Việt Học.<br /><br />Sau khi nghỉ hưu được ít lâu, giáo sư Nguyễn Đình Hòa đã cùng với một số giáo sư Đại Học và các bạn trẻ thành lập Viện Việt-Học vào năm 1999 với mục đích phát huy nền văn hóa Việt Nam đến với giới trẻ trí thức hải ngoại. Giáo sư Nguyễn Đình Hòa đã mất tại miền Bắc California vào ngày 10 tháng 12 năm 2000 sau một cuộc giải phẫu tim và bị hôn mê suốt hơn 2 tháng trời trước khi trút hơi thở cuối cùng. Sự ra đi của giáo sư là cái tang to lớn trong nền văn hóa và giáo dục và cũng là sự thiệt thòi cho giới trẻ Việt nam tại hải ngoại.<br /><br />Sau lễ tưởng niệm và cầu siêu do Họa Thượng Chơn Thành Viện chủ chùa Liên Hoa chủ trì, giáo sư Nguyễn Đình Cường, đại diện gia đình đã cảm tạ sự hiện diện đông đảo của quan khách và thân hữu cũng như môn đệ của cố giáo sư Nguyễn Đình Hòa. Trong dịp này, Viện Việt-Học đã ấn hành một đặc san Tưởng Niệm Cố Giáo Sư Viện Trưởng Nguyễn Đình Hòa với đầy đủ tiểu sử, sự nghiệp và những ngày cuối cùng của cố Giáo Sư Nguyễn Đình Hòa.<br /><br />Viện Việt Học vẫn tiếp nối các công trình của cố giáo sư Nguyễn Đình Hòa để lại và vẫn tổ chức những buổi thuyết trình về các đề tài liên quan đến văn hóa và lịch sử Việt Nam. Lần thuyết trình sắp tới đây về đề tài Huyền Thoại Hùng Vương với diễn giả Bác sĩ Trần Ngọc Ninh tổ chức tại Viện Việt-Học vào lúc 2 giờ chiều ngày Chủ Nhật 17 tháng Sáu năm 2001. Điện thoại liên lạc: 714-636-1617.
+	<a href="search.php?query=&amp;topic=4&amp;author="><img src="./images/topics/news2.gif" border="0" alt="Tin-Tức" align="right" hspace="4" /></a>Tờ báo Người Việt  ngày 10 tháng 6, 2001 đã tường trình buổi Lễ Cầu-siêu cho cố giáo sư Viện-trưởng Nguyễn Ðình-Hoà và Tập Ðặc-san Tưởng-Niệm như sau ... <br />
+<br /><B>Viện Việt Học tổ chức tưởng niệm Giáo Sư Viện Trưởng Nguyễn Đình Hòa</B> 
+<br />
+<br />GARDEN GROVE (AT). Viện Việt Học tại Hoa Kỳ đã tổ chức một buỗi lễ cầu siêu và tưởng niệm trang trọng và cảm động cố giáo sư Viện Trưởng Nguyễn Đình Hòa với sự tham dự của khá đông học giả, giáo sư, môn đệ và gia đình tại chùa Liên Hoa vào chiều ngày Chủ Nhật Mồng 3 tháng Sáu 2001.
+<br />
+<br />Giáo sư Nguyễn Khắc Hoạch đã nhắc đến những công trình văn học giá trị, những khám phá về ngôn ngữ độc đáo mà giáo sư Nguyễn Đình Hòa đã đóng góp cho kho tàng văn hóa Việt Nam. Giáo sư Nguyện Đình Hòa đã tốt nghiệp luật khoa tại Hà Nội năm 1945, du học tại Hoa kỳ với học vị Tiến Sĩ Giáo Dục vào năm 1956 tại New York University và về Ngôn Ngữ Học tại Georgetown University, Linguistic Institute, Washington DC: Summer'54.
+<br />
+<br />Giáo Sư đã từng làm Khoa trưởng Đại Học văn Khoa ở Việt Nam, dạy học tại nhiều Đại Học Hoa Kỳ. Trong suốt cuộc đời giảng dậy và nghiên cứu, giáo sư Nguyễn Đình Hòa đã để lại một số lượng tác phẩm vô cùng phong phú về các công trình nghiên cứu ngôn ngữ, văn hóa Việt Nam và phát triễn Việt Học.
+<br />
+<br />Sau khi nghỉ hưu được ít lâu, giáo sư Nguyễn Đình Hòa đã cùng với một số giáo sư Đại Học và các bạn trẻ thành lập Viện Việt-Học vào năm 1999 với mục đích phát huy nền văn hóa Việt Nam đến với giới trẻ trí thức hải ngoại. Giáo sư Nguyễn Đình Hòa đã mất tại miền Bắc California vào ngày 10 tháng 12 năm 2000 sau một cuộc giải phẫu tim và bị hôn mê suốt hơn 2 tháng trời trước khi trút hơi thở cuối cùng. Sự ra đi của giáo sư là cái tang to lớn trong nền văn hóa và giáo dục và cũng là sự thiệt thòi cho giới trẻ Việt nam tại hải ngoại.
+<br />
+<br />Sau lễ tưởng niệm và cầu siêu do Họa Thượng Chơn Thành Viện chủ chùa Liên Hoa chủ trì, giáo sư Nguyễn Đình Cường, đại diện gia đình đã cảm tạ sự hiện diện đông đảo của quan khách và thân hữu cũng như môn đệ của cố giáo sư Nguyễn Đình Hòa. Trong dịp này, Viện Việt-Học đã ấn hành một đặc san Tưởng Niệm Cố Giáo Sư Viện Trưởng Nguyễn Đình Hòa với đầy đủ tiểu sử, sự nghiệp và những ngày cuối cùng của cố Giáo Sư Nguyễn Đình Hòa.
+<br />
+<br />Viện Việt Học vẫn tiếp nối các công trình của cố giáo sư Nguyễn Đình Hòa để lại và vẫn tổ chức những buổi thuyết trình về các đề tài liên quan đến văn hóa và lịch sử Việt Nam. Lần thuyết trình sắp tới đây về đề tài Huyền Thoại Hùng Vương với diễn giả Bác sĩ Trần Ngọc Ninh tổ chức tại Viện Việt-Học vào lúc 2 giờ chiều ngày Chủ Nhật 17 tháng Sáu năm 2001. Điện thoại liên lạc: 714-636-1617.
 	</td>
 </tr>
 </table>

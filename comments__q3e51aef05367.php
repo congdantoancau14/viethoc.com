@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -141,7 +141,16 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 28 May @ 23:01:48</td></tr><tr><td class="type5">     Xin co' va`i go'p y' nho? :<br /><br />     Ngu+o+`i ta chia phu' ra la`m hai loa.i : co^? the^? va` ca^.n the^?.  Phu' co^? the^? xua^'t xu+' tu+` co^? phong, chi? ca^`n gieo va^`n chu+' kho^ng ca^`n ddo^'i va` kho^ng ha.n so^' va^`n.  Mo^~i ca^u co' the^? la` tu+' tu+., tu+' lu.c, tha^'t tu+., tru+o+`ng ddoa?n cu' va` lu+u thu?y.  Lua^.t le^. cu?a phu' co^? the^? vi` va^.y de^~ da`ng ho+n ca^.n the^? ra^'t nhie^`u.<br /><br />     Vi` va^.y Vietnam ta va^~n co`n mo^.t ba`i phu' lu+u truye^`n tu` ddo+`i Tra^`n, ba`i Ngo.c Ti?nh Lie^n Phu' no^?i tie^'ng cu?a Ma.c Ddi~nh Chi.  Dda^y la` mo^.t ba`i phu' vie^'t theo the^? lu+u thu?y.  Ba`i Ba.ch Dda(`ng Giang Phu' cu?a Tru+o+ng Ha'n Sie^u ma` ta'c gia? du`ng la`m vi' du. ve^` phu' lie^n va^.n cu~ng la` mo^.t ba`i co^? the^? vie^'t theo the^? lu+u thu?y.<br /><br />     Ve^` kie^'n tru'c cu?a mo^.t ba`i phu' ca^.n the^?  [Ddu+o+`ng phu',]  xin ddu+o+.c the^m mo^.t chi tie^'t nho? la` ne^'u ca^u co' ba ve^' thi` go.i la` ha.c ta^'t, tu+` bo^'n ve^' tro+? le^n thi` go.i la` phu+'c ho+.p.<br /><br />Ba.ch Va^n Phi<br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Monday 28 May @ 23:01:48</td></tr><tr><td class="type5">     Xin co' va`i go'p y' nho? :
+<br />
+<br />     Ngu+o+`i ta chia phu' ra la`m hai loa.i : co^? the^? va` ca^.n the^?.  Phu' co^? the^? xua^'t xu+' tu+` co^? phong, chi? ca^`n gieo va^`n chu+' kho^ng ca^`n ddo^'i va` kho^ng ha.n so^' va^`n.  Mo^~i ca^u co' the^? la` tu+' tu+., tu+' lu.c, tha^'t tu+., tru+o+`ng ddoa?n cu' va` lu+u thu?y.  Lua^.t le^. cu?a phu' co^? the^? vi` va^.y de^~ da`ng ho+n ca^.n the^? ra^'t nhie^`u.
+<br />
+<br />     Vi` va^.y Vietnam ta va^~n co`n mo^.t ba`i phu' lu+u truye^`n tu` ddo+`i Tra^`n, ba`i Ngo.c Ti?nh Lie^n Phu' no^?i tie^'ng cu?a Ma.c Ddi~nh Chi.  Dda^y la` mo^.t ba`i phu' vie^'t theo the^? lu+u thu?y.  Ba`i Ba.ch Dda(`ng Giang Phu' cu?a Tru+o+ng Ha'n Sie^u ma` ta'c gia? du`ng la`m vi' du. ve^` phu' lie^n va^.n cu~ng la` mo^.t ba`i co^? the^? vie^'t theo the^? lu+u thu?y.
+<br />
+<br />     Ve^` kie^'n tru'c cu?a mo^.t ba`i phu' ca^.n the^?  [Ddu+o+`ng phu',]  xin ddu+o+.c the^m mo^.t chi tie^'t nho? la` ne^'u ca^u co' ba ve^' thi` go.i la` ha.c ta^'t, tu+` bo^'n ve^' tro+? le^n thi` go.i la` phu+'c ho+.p.
+<br />
+<br />Ba.ch Va^n Phi
+<br /> </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Phú: A form of poem in Vietnam poetry" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -201,7 +201,8 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="24"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Chữ Nôm and its past Contributions to Vietnamese lite</span>&nbsp;(Score 1)<br /> by: HuuVinh on: Tuesday 25 December @ 23:12:31<br />(<a href="user.php?op=userinfo&amp;uname=HuuVinh">User Info</a>) </td></tr><tr><td class="type5">This is a useful document on Nôm stdudies. I usually refer to it when learning Nom myself, especially when I try to read a Nom character which is new to me.<br /></td></tr></table><br />[ 
+<a name="24"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Chữ Nôm and its past Contributions to Vietnamese lite</span>&nbsp;(Score 1)<br /> by: HuuVinh on: Tuesday 25 December @ 23:12:31<br />(<a href="user.php?op=userinfo&amp;uname=HuuVinh">User Info</a>) </td></tr><tr><td class="type5">This is a useful document on Nôm stdudies. I usually refer to it when learning Nom myself, especially when I try to read a Nom character which is new to me.
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=24&amp;sid=21&amp;mode=threaded&amp;order=0&amp;thold=0">
 	Reply</a>
 		 ]<br /><br />

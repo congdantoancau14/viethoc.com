@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh <BR>///
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +154,8 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>Giáo sư Phan Thê Roanh soạn quyển Hán Văn Lược Khảo 漢文略考  trong thời gian phục vụ tại Ðại Học Văn Khoa và Ðại Học Sư Phạm Saigon.  Giáo sư Phan Thê Roanh, tuy giảng dạy Khoa học, nhưng được thừa hưởng một kho tàng Hán học vô giá của thân phụ là Cụ Phan Mạnh Danh... <br /><br /><br />Chúng tôi chân thành cảm tạ Lão sư Nguyễn Khắc Kham (1908- ), bạn cố giao của tác giả, đã đọc bản thảo bài viết này, sửa lỗi và thêm nhiều chỉ dẫn trân quý.  Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc <a href="http://www.viethoc.org/eholdings/_PhanTheRoanh_Rev-2.pdf" target="_newwindow">bài giới thiệu</a> quyển sách hiếm quý này.</p>Lê Văn Ðặng<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><p>Giáo sư Phan Thê Roanh soạn quyển Hán Văn Lược Khảo 漢文略考  trong thời gian phục vụ tại Ðại Học Văn Khoa và Ðại Học Sư Phạm Saigon.  Giáo sư Phan Thê Roanh, tuy giảng dạy Khoa học, nhưng được thừa hưởng một kho tàng Hán học vô giá của thân phụ là Cụ Phan Mạnh Danh... <br /><br /><br />Chúng tôi chân thành cảm tạ Lão sư Nguyễn Khắc Kham (1908- ), bạn cố giao của tác giả, đã đọc bản thảo bài viết này, sửa lỗi và thêm nhiều chỉ dẫn trân quý.  Kính mời quý vị vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc <a href="http://www.viethoc.org/eholdings/_PhanTheRoanh_Rev-2.pdf" target="_newwindow">bài giới thiệu</a> quyển sách hiếm quý này.</p>Lê Văn Ðặng
+<br />
 	</td>
 </tr>
 </table>
@@ -199,7 +204,17 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="55"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Ðọc HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 21 February @ 06:11:26</td></tr><tr><td class="type5">Kinh chao bac Le van Dang,<br /><br />duoc doc bai gioi thieu rat ti mi va chan thanh cua bac ve tac pham HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH, chau ra to mo ve nguyen ban.<br />Neu duoc bac co the cho biet lam sao co duoc ban sao cua tac pham nay, duoi dang nao cung duoc ( in giay hay dien tu). <br /><br />Xin cam on truoc va chuc bac luon an manh de tiep tuc dong gop<br />nhung cong trinh nghien cuu Han van gia tri.  <br /><br />Nguyen thanh Hung <br /><br /> </td></tr></table><br />[ 
+<a name="55"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Ðọc HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH</span>&nbsp;(Score 0)<br /> by: Anonymous on: Friday 21 February @ 06:11:26</td></tr><tr><td class="type5">Kinh chao bac Le van Dang,
+<br />
+<br />duoc doc bai gioi thieu rat ti mi va chan thanh cua bac ve tac pham HÁN VĂN LƯỢC KHẢO của PHAN THÊ ROANH, chau ra to mo ve nguyen ban.
+<br />Neu duoc bac co the cho biet lam sao co duoc ban sao cua tac pham nay, duoi dang nao cung duoc ( in giay hay dien tu). 
+<br />
+<br />Xin cam on truoc va chuc bac luon an manh de tiep tuc dong gop
+<br />nhung cong trinh nghien cuu Han van gia tri.  
+<br />
+<br />Nguyen thanh Hung 
+<br />
+<br /> </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=55&amp;sid=48&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br />

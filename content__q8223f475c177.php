@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -218,7 +220,19 @@
 </center>
 <hr/>
 </p><tr><td class="type5" colspan="2" valign="top"><span class="boldtext">Khoá Hải Chinh Đông (Invading the East by Sea)</span>
-              <p><span class="type5">Rules: Red to go first and draws.</span><br /><div class="type3">Can't solve it? press the Answer button for solutions.</div><br /><center><br /><APPLET code=coffeecc.class width=430 height=370 archive="coffeecc.jar"><br /><PARAM NAME="controlpanel" VALUE="1"><br /><PARAM NAME="copyright" VALUE="0"><br /><PARAM NAME="startbutton" VALUE="0"><br /><PARAM NAME="answerbutton" VALUE="1"><br /><PARAM NAME="piece" VALUE="Kd0Rh4Ri3Ci5Ci6Pg3Pd8Pe8kf9rf7ce9ea7pe1pd2"><br /><PARAM NAME="movelist" VALUE="P5+1,K6.5,R2.5,K5.6,C+.4,R6+1,C1.4,R6.5,R1+6,K6+1,P6.5,R5-2,R5-3,R5+7,R1.6,P4.3,R6-8,R5-1,C4-4,P3.4,R6.8,R5-5,C4.5,R5.4,C5.6,R4.3,K6.5,E1-3,R8+7,K6+1,R8-6,R3.5,C6.5,R5+5,P3+1,E3+5,R8.9,R5.7,C5.3,P4.5,K5.6,P5.4,K6.5,P4.3,R9+5,R7+1,R9.5,K6-1,R5-2,R7.6,P3+1,P3.4,R5.4, DRAWS"><br /><PARAM NAME="movelist1" VALUE="P5+1,K6.5,R2.5,K5.6,C+.4,R6+1,C1.4,R6.5,R1+6,K6+1,P6.5,R5-2,R5-3,R5+7,R1.6,P4.3,R6-8,R5-1,C4-4,P3.4,R6.8,R5-5,C4.5,R5.4,C5.6,R4.3,K6.5,E1-3,R8+7,K6+1,R8-6,R3.5,C6.5,R5+5,P3+1,E3+5,R8.9,R5.7,C5.3,P4.5,K5.6,P5.4,K6.5,P4.3,R9+5,R7-2,R9.5,K6-1,R5-1,R7.6,R5+2,K6-1,R5+1,K6+1,C3+8,P3+1,C3.4,R6.8,R5-3,R8+4,K5+1,P3.4,K5.6,K6-1,K6.5,R8.6 DRAWS"><br /></APPLET> <br /></center></p>     </table>
+              <p><span class="type5">Rules: Red to go first and draws.</span>
+<br /><div class="type3">Can't solve it? press the Answer button for solutions.</div>
+<br /><center>
+<br /><APPLET code=coffeecc.class width=430 height=370 archive="coffeecc.jar">
+<br /><PARAM NAME="controlpanel" VALUE="1">
+<br /><PARAM NAME="copyright" VALUE="0">
+<br /><PARAM NAME="startbutton" VALUE="0">
+<br /><PARAM NAME="answerbutton" VALUE="1">
+<br /><PARAM NAME="piece" VALUE="Kd0Rh4Ri3Ci5Ci6Pg3Pd8Pe8kf9rf7ce9ea7pe1pd2">
+<br /><PARAM NAME="movelist" VALUE="P5+1,K6.5,R2.5,K5.6,C+.4,R6+1,C1.4,R6.5,R1+6,K6+1,P6.5,R5-2,R5-3,R5+7,R1.6,P4.3,R6-8,R5-1,C4-4,P3.4,R6.8,R5-5,C4.5,R5.4,C5.6,R4.3,K6.5,E1-3,R8+7,K6+1,R8-6,R3.5,C6.5,R5+5,P3+1,E3+5,R8.9,R5.7,C5.3,P4.5,K5.6,P5.4,K6.5,P4.3,R9+5,R7+1,R9.5,K6-1,R5-2,R7.6,P3+1,P3.4,R5.4, DRAWS">
+<br /><PARAM NAME="movelist1" VALUE="P5+1,K6.5,R2.5,K5.6,C+.4,R6+1,C1.4,R6.5,R1+6,K6+1,P6.5,R5-2,R5-3,R5+7,R1.6,P4.3,R6-8,R5-1,C4-4,P3.4,R6.8,R5-5,C4.5,R5.4,C5.6,R4.3,K6.5,E1-3,R8+7,K6+1,R8-6,R3.5,C6.5,R5+5,P3+1,E3+5,R8.9,R5.7,C5.3,P4.5,K5.6,P5.4,K6.5,P4.3,R9+5,R7-2,R9.5,K6-1,R5-1,R7.6,R5+2,K6-1,R5+1,K6+1,C3+8,P3+1,C3.4,R6.8,R5-3,R8+4,K5+1,P3.4,K5.6,K6-1,K6.5,R8.6 DRAWS">
+<br /></APPLET> 
+<br /></center></p>     </table>
             </td>
           </tr>
           </table>

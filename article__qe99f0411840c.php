@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -151,7 +151,24 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a> 古來聖賢皆寂寞    Cổ lai thánh hiền giai tịch mịch<br /> 惟有飲者留其名    Duy hữu ẩm giả lưu kỳ danh<br /><br />Nói về thơ Ðường, không thể thiếu nhà thơ Lý Bạch 李白.  Nhắc đến Lý Bạch không thể quên bài Tương Tiến Tửu 將進酒.  <br /><br />Giáo sư Ðàm Trung Pháp dẫn bài thơ rượu trên đây và một số thơ khác của họ Lý qua trung gian của các học giả Tây Phương.  Thử đọc mấy câu dí dỏm sau đây: <br /><br />     Eheu ! How dangerous, how high !<br />     It would be easier to climb to Heaven<br />     Than walk the Sichuan Road !<br /><br />噫吁戲危乎高哉         - Y hu hy, nguy hồ, cao tai,<br />蜀道之難難於上青天   - Thục đạo chi nan, nan ư thướng thanh thiên !<br /><br />Xin mời quý bạn vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài "<a href="/eholdings/LyBach-DTP_Rev-1.pdf">Khi Phương Tây Ái Mộ Phương Đông</a>" của giáo sư <b>Ðàm Trung Pháp</b>.<br /><br /><b><i>Lê Văn Ðặng</i></b><br /> 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a> 古來聖賢皆寂寞    Cổ lai thánh hiền giai tịch mịch
+<br /> 惟有飲者留其名    Duy hữu ẩm giả lưu kỳ danh
+<br />
+<br />Nói về thơ Ðường, không thể thiếu nhà thơ Lý Bạch 李白.  Nhắc đến Lý Bạch không thể quên bài Tương Tiến Tửu 將進酒.  
+<br />
+<br />Giáo sư Ðàm Trung Pháp dẫn bài thơ rượu trên đây và một số thơ khác của họ Lý qua trung gian của các học giả Tây Phương.  Thử đọc mấy câu dí dỏm sau đây: 
+<br />
+<br />     Eheu ! How dangerous, how high !
+<br />     It would be easier to climb to Heaven
+<br />     Than walk the Sichuan Road !
+<br />
+<br />噫吁戲危乎高哉         - Y hu hy, nguy hồ, cao tai,
+<br />蜀道之難難於上青天   - Thục đạo chi nan, nan ư thướng thanh thiên !
+<br />
+<br />Xin mời quý bạn vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> đọc bài "<a href="/eholdings/LyBach-DTP_Rev-1.pdf">Khi Phương Tây Ái Mộ Phương Đông</a>" của giáo sư <b>Ðàm Trung Pháp</b>.
+<br />
+<br /><b><i>Lê Văn Ðặng</i></b>
+<br /> 
 	</td>
 </tr>
 </table>

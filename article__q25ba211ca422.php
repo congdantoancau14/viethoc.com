@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -199,7 +201,16 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="5"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 May @ 23:01:48</td></tr><tr><td class="type5">     Xin co' va`i go'p y' nho? :<br /><br />     Ngu+o+`i ta chia phu' ra la`m hai loa.i : co^? the^? va` ca^.n the^?.  Phu' co^? the^? xua^'t xu+' tu+` co^? phong, chi? ca^`n gieo va^`n chu+' kho^ng ca^`n ddo^'i va` kho^ng ha.n so^' va^`n.  Mo^~i ca^u co' the^? la` tu+' tu+., tu+' lu.c, tha^'t tu+., tru+o+`ng ddoa?n cu' va` lu+u thu?y.  Lua^.t le^. cu?a phu' co^? the^? vi` va^.y de^~ da`ng ho+n ca^.n the^? ra^'t nhie^`u.<br /><br />     Vi` va^.y Vietnam ta va^~n co`n mo^.t ba`i phu' lu+u truye^`n tu` ddo+`i Tra^`n, ba`i Ngo.c Ti?nh Lie^n Phu' no^?i tie^'ng cu?a Ma.c Ddi~nh Chi.  Dda^y la` mo^.t ba`i phu' vie^'t theo the^? lu+u thu?y.  Ba`i Ba.ch Dda(`ng Giang Phu' cu?a Tru+o+ng Ha'n Sie^u ma` ta'c gia? du`ng la`m vi' du. ve^` phu' lie^n va^.n cu~ng la` mo^.t ba`i co^? the^? vie^'t theo the^? lu+u thu?y.<br /><br />     Ve^` kie^'n tru'c cu?a mo^.t ba`i phu' ca^.n the^?  [Ddu+o+`ng phu',]  xin ddu+o+.c the^m mo^.t chi tie^'t nho? la` ne^'u ca^u co' ba ve^' thi` go.i la` ha.c ta^'t, tu+` bo^'n ve^' tro+? le^n thi` go.i la` phu+'c ho+.p.<br /><br />Ba.ch Va^n Phi<br /></td></tr></table><br />[ 
+<a name="5"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 28 May @ 23:01:48</td></tr><tr><td class="type5">     Xin co' va`i go'p y' nho? :
+<br />
+<br />     Ngu+o+`i ta chia phu' ra la`m hai loa.i : co^? the^? va` ca^.n the^?.  Phu' co^? the^? xua^'t xu+' tu+` co^? phong, chi? ca^`n gieo va^`n chu+' kho^ng ca^`n ddo^'i va` kho^ng ha.n so^' va^`n.  Mo^~i ca^u co' the^? la` tu+' tu+., tu+' lu.c, tha^'t tu+., tru+o+`ng ddoa?n cu' va` lu+u thu?y.  Lua^.t le^. cu?a phu' co^? the^? vi` va^.y de^~ da`ng ho+n ca^.n the^? ra^'t nhie^`u.
+<br />
+<br />     Vi` va^.y Vietnam ta va^~n co`n mo^.t ba`i phu' lu+u truye^`n tu` ddo+`i Tra^`n, ba`i Ngo.c Ti?nh Lie^n Phu' no^?i tie^'ng cu?a Ma.c Ddi~nh Chi.  Dda^y la` mo^.t ba`i phu' vie^'t theo the^? lu+u thu?y.  Ba`i Ba.ch Dda(`ng Giang Phu' cu?a Tru+o+ng Ha'n Sie^u ma` ta'c gia? du`ng la`m vi' du. ve^` phu' lie^n va^.n cu~ng la` mo^.t ba`i co^? the^? vie^'t theo the^? lu+u thu?y.
+<br />
+<br />     Ve^` kie^'n tru'c cu?a mo^.t ba`i phu' ca^.n the^?  [Ddu+o+`ng phu',]  xin ddu+o+.c the^m mo^.t chi tie^'t nho? la` ne^'u ca^u co' ba ve^' thi` go.i la` ha.c ta^'t, tu+` bo^'n ve^' tro+? le^n thi` go.i la` phu+'c ho+.p.
+<br />
+<br />Ba.ch Va^n Phi
+<br /></td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=5&amp;sid=11&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
@@ -211,7 +222,11 @@ Send Your Comment</a>
 				&nbsp;&nbsp;<span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=39&amp;sid=11&amp;pid=5&amp;mode=&amp;order=&amp;thold=#39">
 	Re: Phú: A form of poem in Vietnam poetry</a>by: Anonymous on: Wednesday 13 March @ 14:04:44<br />
-				<br /><a name="22"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score 1)<br /> by: anmota on: Wednesday 19 December @ 20:28:42<br />(<a href="user.php?op=userinfo&amp;uname=anmota">User Info</a>) </td></tr><tr><td class="type5">Thua quy vi ,<br />Neu toi nho khong nham , thi  co mot cuon sach viet ve   PHÚ  , VAN TE  rat dang de cho chung ta xem . Do la  QUO^'C  VA(N CỤ THỂ .<br />Tac gia chinh , la Cu Pho Bang      Bu`i  Kỷ  ( va Tran trong Kim ?).<br />May ra nhà Ong Bùi Diem^~ hay co ai con giu va mang sang . Xin pho bien cho cac bac hau hoc co tai lieu . Tran trong .<br />Pham Huẻ </td></tr></table><br />[ 
+				<br /><a name="22"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score 1)<br /> by: anmota on: Wednesday 19 December @ 20:28:42<br />(<a href="user.php?op=userinfo&amp;uname=anmota">User Info</a>) </td></tr><tr><td class="type5">Thua quy vi ,
+<br />Neu toi nho khong nham , thi  co mot cuon sach viet ve   PHÚ  , VAN TE  rat dang de cho chung ta xem . Do la  QUO^'C  VA(N CỤ THỂ .
+<br />Tac gia chinh , la Cu Pho Bang      Bu`i  Kỷ  ( va Tran trong Kim ?).
+<br />May ra nhà Ong Bùi Diem^~ hay co ai con giu va mang sang . Xin pho bien cho cac bac hau hoc co tai lieu . Tran trong .
+<br />Pham Huẻ </td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=22&amp;sid=11&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><br /><a name="40"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>&nbsp;(Score 0)<br /> by: Anonymous on: Wednesday 13 March @ 19:19:38</td></tr><tr><td class="type5"></td></tr></table><br />[ 

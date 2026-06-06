@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,12 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>///
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +155,12 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Tuồng Tam Quốc hay Tam Quốc Diễn Truyện, dịch từ truyện Tam Quốc Chí Diễn Nghĩa của La Quán Trung. Tuồng viết bằng chữ Nôm, gồm 120 hồi và xuất hiện vào nửa cuối của thế kỷ 19. Giáo sư Nguyễn Văn Sâm phiên âm ra chữ Quốc Ngữ... <br /><p>Trong Lời Giới Thiệu, giáo sư Nguyễn Văn Sâm viết về Tuồng Tam Quốc như sau <br><br /><blockquote><i>"Tương truyền đây là Tuồng diễn ra trong Nội, cho vua quan và các cung phi xem mà thôi. Bản Nôm mà chúng tôi sưu tầm được là một bản chép tay, chữ chân phương đẹp, có gốc tích từ Huế. Tiếc là binh lửa triền miên, sách vở cũng chịu chung số phận con người nên nguyên tuồng 120 hồi đến tay chúng tôi chỉ còn lõm bõm không quá phân nửa. <br><br><br />Tiếc một công trình văn hóa của tiền nhân, tôi phiên âm trọn những hồi mà mình có được, cống hiến bạn đọc. Trong giai đoạn đầu tiên, xin chỉ cung cấp bản quốc ngữ, không có, hay rất ít chú thích. Khi in thành sách, sẽ có đủ bản nôm kèm theo và những chú thích cần thiết sẽ được bổ khuyết..."</i><br><br></blockquote><br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc <a href="http://www.viethoc.org/eholdings/TQC/TQC18.pdf" target="new_window">Tuồng Tam Quốc, hồi 18</a> và <a href="http://www.viethoc.org/eholdings/TQC/gioithieuTQC.pdf" target="new_window">Lời Giới Thiệu</a> về tác phẩm của giáo sư Nguyễn Văn Sâm.<br><br><br />Trân trọng,<br><br />Viện Việt-học 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Tuồng Tam Quốc hay Tam Quốc Diễn Truyện, dịch từ truyện Tam Quốc Chí Diễn Nghĩa của La Quán Trung. Tuồng viết bằng chữ Nôm, gồm 120 hồi và xuất hiện vào nửa cuối của thế kỷ 19. Giáo sư Nguyễn Văn Sâm phiên âm ra chữ Quốc Ngữ... <br /><p>Trong Lời Giới Thiệu, giáo sư Nguyễn Văn Sâm viết về Tuồng Tam Quốc như sau <br>
+<br /><blockquote><i>"Tương truyền đây là Tuồng diễn ra trong Nội, cho vua quan và các cung phi xem mà thôi. Bản Nôm mà chúng tôi sưu tầm được là một bản chép tay, chữ chân phương đẹp, có gốc tích từ Huế. Tiếc là binh lửa triền miên, sách vở cũng chịu chung số phận con người nên nguyên tuồng 120 hồi đến tay chúng tôi chỉ còn lõm bõm không quá phân nửa. <br><br>
+<br />Tiếc một công trình văn hóa của tiền nhân, tôi phiên âm trọn những hồi mà mình có được, cống hiến bạn đọc. Trong giai đoạn đầu tiên, xin chỉ cung cấp bản quốc ngữ, không có, hay rất ít chú thích. Khi in thành sách, sẽ có đủ bản nôm kèm theo và những chú thích cần thiết sẽ được bổ khuyết..."</i><br><br></blockquote>
+<br />Chúng tôi kính mời quý vị vào <a href="./content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc <a href="http://www.viethoc.org/eholdings/TQC/TQC18.pdf" target="new_window">Tuồng Tam Quốc, hồi 18</a> và <a href="http://www.viethoc.org/eholdings/TQC/gioithieuTQC.pdf" target="new_window">Lời Giới Thiệu</a> về tác phẩm của giáo sư Nguyễn Văn Sâm.<br><br>
+<br />Trân trọng,<br>
+<br />Viện Việt-học 
 	</td>
 </tr>
 </table>

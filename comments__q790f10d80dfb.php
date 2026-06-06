@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -175,7 +175,12 @@
 </tr>
 </table>
 <br /><br />
-<a name="6"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>;(Score: 1)<br /> by: <a href="mailto:avuong@viethoc.org">Ly</a> (avuong@viethoc.org) on: Wednesday 30 May @ 13:50:13<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Cảm ơn anh Bạch Vân Phi đã góp ý.<br /><br />Xin hỏi bài Ngọc Tỉnh Liên Phú giờ có thể tìm thấy trong sách nào, xin anh cho biết, tôi muốn tìm lại để học hỏi thêm.<br /><br />Tình thân,<br />Ly</td></tr></table><br />[ 
+<a name="6"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Phú: A form of poem in Vietnam poetry</span>;(Score: 1)<br /> by: <a href="mailto:avuong@viethoc.org">Ly</a> (avuong@viethoc.org) on: Wednesday 30 May @ 13:50:13<br />(<a href="user.php?op=userinfo&amp;uname=Ly">User Info</a>) <a href="http://www.viethoc.org" target="window">http://www.viethoc.org</a> </td></tr><tr><td class="type5">Cảm ơn anh Bạch Vân Phi đã góp ý.
+<br />
+<br />Xin hỏi bài Ngọc Tỉnh Liên Phú giờ có thể tìm thấy trong sách nào, xin anh cho biết, tôi muốn tìm lại để học hỏi thêm.
+<br />
+<br />Tình thân,
+<br />Ly</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=6&amp;sid=11&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=11&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><span class="onebiggerred">&gt;</span>

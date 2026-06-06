@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>//
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +152,22 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><center><br /><i>Cùng một lứa bên trời lận đận,<br />Gặp gỡ nhau lọ sẵn quen nhau.</i></center><br /><br />Bài <a href="/eholdings/TyBaHanh.pdf">Tỳ Bà Hành (PDF)</a> dùng font Unicode (386KB) đã được thay thế trong <a href="/content.php?menu=24&page_id=47">VHTQ</a>, kính mời quý vị cập nhật bản cũ nếu thấy cần. <br /><br />Thể theo lời yêu cầu từ Diễn Ðàn Việt Học, chúng tôi đã đem vào <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> bài <a href="/eholdings/TyBaHanh.pdf"><b>Tỳ Bà Hành</b></a> của Bạch Cư Dị.  Nguyên tác gồm 88 câu 7 chữ hay 616 chữ.  Phan Huy Vịnh dịch Nôm theo thể song thất lục bát (7-7-6-8), giữ nguyên số lượng chữ, thành 22 đoạn (7-7-6-8). Âm điệu Việt Nam phong phú hơn Tàu nên bản Nôm của Phan Huy Vịnh có phần trội hơn nguyên bản chữ Hán của Bạch Cư Dị. Thất sủng trong quan trường, bị đổi về quận Cửu giang với chức Tư Mã, Bạch tiên sinh được nghe tiếng đàn của một kỹ nữ về già, trông người rồi ngẫm đến ta:<br /><center><i><br />Ðồng thị thiên nhai luân lạc nhơn, (同是天涯淪落人)<br />Tương phùng hà tất tằng tương thức. (相逢何必曾相識)</i><br /></center><br /><br />Bởi không tìm ra bản Nôm của  Phan Huy Vịnh, chúng tôi bỏ ngỏ mấy chỗ sai biệt trong bản phiên Quốc ngữ trong khi so sánh với các bản của Dương Quảng Hàm (Việt Nam Thi Văn Hợp Tuyển, tr. 255-257) và Trần Trọng San (Ðường Thi, q. 2) mong có dịp bổ chính.  Sau cùng, xin cám ơn giáo sư Trần Huy Bích đã đọc bản thảo và gởi cho nhiều đề nghị đáng trân trọng.<br /><br /><i>Lê Văn Ðặng</i><br /> 
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><center>
+<br /><i>Cùng một lứa bên trời lận đận,
+<br />Gặp gỡ nhau lọ sẵn quen nhau.</i></center>
+<br />
+<br />Bài <a href="/eholdings/TyBaHanh.pdf">Tỳ Bà Hành (PDF)</a> dùng font Unicode (386KB) đã được thay thế trong <a href="/content.php?menu=24&page_id=47">VHTQ</a>, kính mời quý vị cập nhật bản cũ nếu thấy cần. 
+<br />
+<br />Thể theo lời yêu cầu từ Diễn Ðàn Việt Học, chúng tôi đã đem vào <a href="/content.php?menu=24&page_id=47">Việt Học Thư Quán</a> bài <a href="/eholdings/TyBaHanh.pdf"><b>Tỳ Bà Hành</b></a> của Bạch Cư Dị.  Nguyên tác gồm 88 câu 7 chữ hay 616 chữ.  Phan Huy Vịnh dịch Nôm theo thể song thất lục bát (7-7-6-8), giữ nguyên số lượng chữ, thành 22 đoạn (7-7-6-8). Âm điệu Việt Nam phong phú hơn Tàu nên bản Nôm của Phan Huy Vịnh có phần trội hơn nguyên bản chữ Hán của Bạch Cư Dị. Thất sủng trong quan trường, bị đổi về quận Cửu giang với chức Tư Mã, Bạch tiên sinh được nghe tiếng đàn của một kỹ nữ về già, trông người rồi ngẫm đến ta:
+<br /><center><i>
+<br />Ðồng thị thiên nhai luân lạc nhơn, (同是天涯淪落人)
+<br />Tương phùng hà tất tằng tương thức. (相逢何必曾相識)</i>
+<br /></center>
+<br />
+<br />Bởi không tìm ra bản Nôm của  Phan Huy Vịnh, chúng tôi bỏ ngỏ mấy chỗ sai biệt trong bản phiên Quốc ngữ trong khi so sánh với các bản của Dương Quảng Hàm (Việt Nam Thi Văn Hợp Tuyển, tr. 255-257) và Trần Trọng San (Ðường Thi, q. 2) mong có dịp bổ chính.  Sau cùng, xin cám ơn giáo sư Trần Huy Bích đã đọc bản thảo và gởi cho nhiều đề nghị đáng trân trọng.
+<br />
+<br /><i>Lê Văn Ðặng</i>
+<br /> 
 	</td>
 </tr>
 </table>
@@ -199,7 +216,8 @@ Send Your Comment</a>
 </tr>
 </table>
 <br /><br />
-<a name="36"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 04 March @ 17:58:46</td></tr><tr><td class="type5">Bản chữ Hán viết bằng chữ Khải, Acrobat đổi ra dạng PDF có vẽ nặng khó in, khó đọc.  Trong vài hôm nữa chúng tôi sẽ thay bản khác dùng chữ ArialUnicodeMS cho phần chữ Hán và TimesNewRoman cho chữ Quốc ngữ.  Ngoài ra, bạn Hữu Vinh, khi so bản chữ Hán với các bản in Tàu và ĐàiLoan, tìm thấy một chữ sai .  <br />Lê Văn Đặng</td></tr></table><br />[ 
+<a name="36"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 04 March @ 17:58:46</td></tr><tr><td class="type5">Bản chữ Hán viết bằng chữ Khải, Acrobat đổi ra dạng PDF có vẽ nặng khó in, khó đọc.  Trong vài hôm nữa chúng tôi sẽ thay bản khác dùng chữ ArialUnicodeMS cho phần chữ Hán và TimesNewRoman cho chữ Quốc ngữ.  Ngoài ra, bạn Hữu Vinh, khi so bản chữ Hán với các bản in Tàu và ĐàiLoan, tìm thấy một chữ sai .  
+<br />Lê Văn Đặng</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=36&amp;sid=32&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
@@ -213,13 +231,21 @@ Va^.y tho+ na`y thuo^.c the^? gi` va^.y?</td></tr></table><br />[
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=38&amp;sid=32&amp;pid=37&amp;mode=&amp;order=&amp;thold=#38">
 	Re: Tỳ Bà Hành</a>by: Anonymous on: Monday 11 March @ 19:09:59<br />
-				<br /><a name="42"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Nha^n hay Nho+n [was:  Re: Tỳ Bà Hành]</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 16 March @ 03:44:02</td></tr><tr><td class="type5">Hi all,<br /><br />Về chữ nhân trong Đồng thị thiên nhai luân lạc nhơn tôi có chút ý kiến vặt ...<br /><br />Các đọc chữ 人 là nhân hay nhơn ? Đây có lẽ là thói quen hay cách phát âm khác nhau giữa Nam Bắc nhưng theo tôi nên đọc theo chuẩn 人 -> nhân, chứ không phải là nhơn.<br /><br />Vh16</td></tr></table><br />[ 
+				<br /><a name="42"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Nha^n hay Nho+n [was:  Re: Tỳ Bà Hành]</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 16 March @ 03:44:02</td></tr><tr><td class="type5">Hi all,
+<br />
+<br />Về chữ nhân trong Đồng thị thiên nhai luân lạc nhơn tôi có chút ý kiến vặt ...
+<br />
+<br />Các đọc chữ 人 là nhân hay nhơn ? Đây có lẽ là thói quen hay cách phát âm khác nhau giữa Nam Bắc nhưng theo tôi nên đọc theo chuẩn 人 -> nhân, chứ không phải là nhơn.
+<br />
+<br />Vh16</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=42&amp;sid=32&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>
 	<a href="comments.php?op=showreply&amp;tid=44&amp;sid=32&amp;pid=42&amp;mode=&amp;order=&amp;thold=#44">
 	Nha^n hay Nho+n [was:  Re: Tỳ Bà Hành]</a>by: Anonymous on: Saturday 16 March @ 11:56:21<br />
-				<br /><a name="43"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 16 March @ 10:56:39</td></tr><tr><td class="type5">Kính Chào ! Và cảm ơn Giáo-sư Lê-Văn- Đặng, Giáo-sư Trần-Huy-Bích, Ông Nguyễn-Hữu-Vinh và các vị khác đã bỏ công vào việc đăng  bài   Gảy đàn Tỳ  của Cụ Phan-Huy-Vịnh lên Việt-Học thư-quán. Nhờ công lao của quí-vị mà lớp em cháu được biết đến,học hỏi và thưởng-thức thêm một áng văn-chương của tiền-nhân nước nhà .<br />Một lần nữa, xin đa-tạ và kính-chào .<br />Trò Tê</td></tr></table><br />[ 
+				<br /><a name="43"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Tỳ Bà Hành</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 16 March @ 10:56:39</td></tr><tr><td class="type5">Kính Chào ! Và cảm ơn Giáo-sư Lê-Văn- Đặng, Giáo-sư Trần-Huy-Bích, Ông Nguyễn-Hữu-Vinh và các vị khác đã bỏ công vào việc đăng  bài   Gảy đàn Tỳ  của Cụ Phan-Huy-Vịnh lên Việt-Học thư-quán. Nhờ công lao của quí-vị mà lớp em cháu được biết đến,học hỏi và thưởng-thức thêm một áng văn-chương của tiền-nhân nước nhà .
+<br />Một lần nữa, xin đa-tạ và kính-chào .
+<br />Trò Tê</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=43&amp;sid=32&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		 ]<br /><span class="onebiggerred">&gt;</span>

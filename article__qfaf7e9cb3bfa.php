@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +153,9 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><b>Trao đổi với Lê Hữu Mục về một số nhận định của ông qua Tiếng nói Đoàn thị Điểm trong Chinh-phụ ngâm khúc</b><br><br>Giáo sư Hoàng Xuân Hãn không đọc được quyển “Tiếng nói ÐOÀN THỊ ÐIỂM trong CHINH PHỤ NGÂM KHÚC’, của giáo sư Lê Hữu Mục hợp soạn với giáo sư Phạm Thị Nhung, Montréal 2001.  Hôm nay Viện Việt-Học hân hạnh giới thiệu bạn Lê Sơn Thanh, một môn đệ của thầy Hoàng Xuân Hãn, trả lời một vài điểm nêu ra trong sách nói trên.  Sau đây là một đoạn trích trong bài viết của LST:<br>"Sau khi đọc các chương của Lê Hữu Mục, tôi có cảm giác như bị choáng ngợp và sau đó là một cảm giác là lạ vì âm hưởng của nó vừa quen thuộc mà lại vừa xa lạ. Quen thuộc vì tôi đã từng thấy cách hành văn và lập luận ấy ở vài công trình trước đây của ông, và xa lạ bởi tính triệt để trong việc huy động hai lĩnh vực bình dân và bác học mà động cơ duy nhất là để tố cáo một sự bất công:  Hoàng Xuân Hãn cách đây 50 năm đã tước phụ quyền bản dịch lưu truyền từ tay Đoàn Thị Điểm 段 氏 點 (1705-1748) để trao về cho Phan Huy Ích 潘 輝 益 (1750-1822) trong khi không có chứng cứ vững chắc. Việc tố cáo ấy đồng thời cũng là một nghĩa cử: tiếp tục khẳng định Đoàn Thị Điểm là tác giả của bản dịch <i>Chinh phụ ngâm</i> hiện hành, tức làm sống dậy một truyền thống dân gian tốt đẹp đã bị vùi dập."<br /> <br />Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Chinhphunga-2003.pdf" target="new_window">Trao đổi với Lê Hữu Mục về một số nhận định của ông qua Tiếng nói Đoàn thị Điểm trong Chinh-phụ ngâm khúc.</a> Bài Nguyên Tựa trình bày trước đây, trích trong bài này, sẽ được lấy ra khỏi trang nhà Việt-Học.<br><br>Seattle, 03-VII-2003<br>Lê Văn Ðặng<br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a><b>Trao đổi với Lê Hữu Mục về một số nhận định của ông qua Tiếng nói Đoàn thị Điểm trong Chinh-phụ ngâm khúc</b><br><br>Giáo sư Hoàng Xuân Hãn không đọc được quyển “Tiếng nói ÐOÀN THỊ ÐIỂM trong CHINH PHỤ NGÂM KHÚC’, của giáo sư Lê Hữu Mục hợp soạn với giáo sư Phạm Thị Nhung, Montréal 2001.  Hôm nay Viện Việt-Học hân hạnh giới thiệu bạn Lê Sơn Thanh, một môn đệ của thầy Hoàng Xuân Hãn, trả lời một vài điểm nêu ra trong sách nói trên.  Sau đây là một đoạn trích trong bài viết của LST:<br>"Sau khi đọc các chương của Lê Hữu Mục, tôi có cảm giác như bị choáng ngợp và sau đó là một cảm giác là lạ vì âm hưởng của nó vừa quen thuộc mà lại vừa xa lạ. Quen thuộc vì tôi đã từng thấy cách hành văn và lập luận ấy ở vài công trình trước đây của ông, và xa lạ bởi tính triệt để trong việc huy động hai lĩnh vực bình dân và bác học mà động cơ duy nhất là để tố cáo một sự bất công:  Hoàng Xuân Hãn cách đây 50 năm đã tước phụ quyền bản dịch lưu truyền từ tay Đoàn Thị Điểm 段 氏 點 (1705-1748) để trao về cho Phan Huy Ích 潘 輝 益 (1750-1822) trong khi không có chứng cứ vững chắc. Việc tố cáo ấy đồng thời cũng là một nghĩa cử: tiếp tục khẳng định Đoàn Thị Điểm là tác giả của bản dịch <i>Chinh phụ ngâm</i> hiện hành, tức làm sống dậy một truyền thống dân gian tốt đẹp đã bị vùi dập."
+<br /> <br />Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47" target="new_window">Việt Học Thư Quán</a> đọc bài <a href="http://www.viethoc.org/eholdings/Chinhphunga-2003.pdf" target="new_window">Trao đổi với Lê Hữu Mục về một số nhận định của ông qua Tiếng nói Đoàn thị Điểm trong Chinh-phụ ngâm khúc.</a> Bài Nguyên Tựa trình bày trước đây, trích trong bài này, sẽ được lấy ra khỏi trang nhà Việt-Học.<br><br>Seattle, 03-VII-2003<br>Lê Văn Ðặng
+<br />
 	</td>
 </tr>
 </table>

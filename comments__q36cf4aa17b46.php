@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -140,7 +140,9 @@
 <table width="100%" border="0" cellspacing="0">
 <tr>
 	<td class="type4" width="100%">
-	<span class="italic">Re: Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Tuesday 17 July @ 17:56:38</td></tr><tr><td class="type5">Kính gởi giáo sư Viện Trưởng,<br /><br />    BS Nguyễn Khắc Minh giảng dạy gây tê mê và hồi sức bằng phương pháp y khoa cổ truyền hay bằng phương pháp y học tây phương ?  Kính . Xuân Hồng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
+	<span class="italic">Re: Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết</span>&nbsp;(Score: 0)<br /> by: Anonymous on: Tuesday 17 July @ 17:56:38</td></tr><tr><td class="type5">Kính gởi giáo sư Viện Trưởng,
+<br />
+<br />    BS Nguyễn Khắc Minh giảng dạy gây tê mê và hồi sức bằng phương pháp y khoa cổ truyền hay bằng phương pháp y học tây phương ?  Kính . Xuân Hồng </td></tr></table>&nbsp;<form action="comments.php" method="post">Your Name: Anonymous<br /><br />Subject:<br />
 	<input type="text" name="subject" size="55" maxlength="60" value="Re: Hải Thượng Lãn Ông và Vệ Sinh Yếu Quyết" onkeypress="return (vietKey(this))" /><br /><br />
 	Comment:<br />
 	<textarea cols="50" rows="10" name="comment" onkeypress="return (vietKey(this))"></textarea><br />

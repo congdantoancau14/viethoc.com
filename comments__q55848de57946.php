@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,11 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR><br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR><br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br><br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br><br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
+	<font color="FF0000">June 15, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=71&mode=threaded&order=0" target="new_window">NHỮNG PHÁT HIỆN MỚI về CHỮ NÔM, VIỆT NGỮ CỔ, và VĂN NÔM</a> của giáo sư Lê Hữu Mục<BR><BR>
+<br /><font color="FF0000">May 4, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">VẤN ÐỀ DẦU HỎA TRONG TÌNH THẾ HIỆN NAY</a> của giáo sư Nguyễn Cao Hách<BR><BR>
+<br /><font color="FF0000">Mar. 30, 2003</font><br><a href="http://www.viethoc.org/article.php?sid=66&mode=threaded&order=0" target="new_window">Lễ Bàn Giao chức vụ Viện Trưởng Viện Việt-Học</a> <br><br>
+<br /><font color="FF0000">Mar. 15, 2003</font><br>Buổi thuyết trình về đề tài <a href="http://www.viethoc.org/content.php?menu=2400&page_id=67" target="new_window"> TRUYỀN THỐNG PHÁP TRỊ TRONG LỊCH SỬ VIỆT NAM</a> của giáo sư Tạ Văn Tài<br><br>
+<br /><font color="FF0000">Nov. 30, 2002</font><br>Buổi trình diễn <a href="http://www.viethoc.org/content.php?menu=17&page_id=66" target="new_window">Truyện Kiều Qua Các Khúc Ngâm Trung Nam Bắc</a> 
 	</td>
 </tr>
 </table>
@@ -174,7 +178,20 @@
 </tr>
 </table>
 <br /><br />
-<a name="63"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Vietnamese/Tiếng Việt Không Son Phấn</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 31 March @ 08:17:36</td></tr><tr><td class="type5">[漢藏語族]下分四大語群──[漢語群]、[藏緬語群]、[苗瑤語群]和[台語群](或[壯侗語群]),而越南話是屬於漢藏語族台語群之[越芒語支](或[越語支])的。如果越南話是屬於[南亞語族]之[孟高棉語群]下的語支,那麼柬埔寨(高棉)人跟越南人可是同文同種的同胞了,而此兩國之間就沒有什麼血海深仇了! <br /><br />越南話的原始基語真的是漢藏語族的台語群,跟泰語、寮語算是近親,最先混合了原始的孟高棉語的成份,最後才混合了漢語,所以為何長期語言學家,會錯誤的將越南話給列入南亞語族孟高棉語群。其實越南話算是屬於漢藏語族的,因為它的聲調和音節跟台語群幾乎完全相同! <br /><br />我看至少可以將越南話([京語])跟其姊妹語言[芒語]自[台語群]分離,自成一個[越語群](或[越芒語群]),那麼越南話的系屬問題就不會有什麼爭議了,[漢藏語族]下就有五種語群啦! <br /><br /><br />丁桓蘊<br /><br />Viết như Đinh đại ca vậy mới đúng dù Đinh đại ca ở bên Đài Loan chỉ mới tốt nghiệp cao trung. Còn như bên Việt ta, học nhiều trường nhiều sách hơn mà đoán ngữ hệ của tiếng mẹ đẻ mà không trúng.<br /><br />Sau khi dần dò các tiếng thổ ngữ của Nam Trung Quốc (Bách Việt bị đồng hóa thành Hán) hoặc các ngôn ngữ Miêu Dao Nùng Thái. Nếu các tộc ngữ này mà Hán Tạng thì Việt ngữ phải là Hán Tạng, còn như có tên khác mà đặt cho các ngữ này thì tôi không tranh biện. Nhưng cứ căn cứ vào hệ Nam Á Mon-Khmer để bảo tiếng Việt và các ngôn ngữ trên không có liên hệ thời cổ là không chính xác. Vì điểm này mà cuốn sách bớt phần giá trị. <br /><br />Hởi Đàm Trung Pháp tiên sinh có hay chăng!</td></tr></table><br />[ 
+<a name="63"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Vietnamese/Tiếng Việt Không Son Phấn</span>&nbsp;(Score 0)<br /> by: Anonymous on: Monday 31 March @ 08:17:36</td></tr><tr><td class="type5">[漢藏語族]下分四大語群──[漢語群]、[藏緬語群]、[苗瑤語群]和[台語群](或[壯侗語群]),而越南話是屬於漢藏語族台語群之[越芒語支](或[越語支])的。如果越南話是屬於[南亞語族]之[孟高棉語群]下的語支,那麼柬埔寨(高棉)人跟越南人可是同文同種的同胞了,而此兩國之間就沒有什麼血海深仇了! 
+<br />
+<br />越南話的原始基語真的是漢藏語族的台語群,跟泰語、寮語算是近親,最先混合了原始的孟高棉語的成份,最後才混合了漢語,所以為何長期語言學家,會錯誤的將越南話給列入南亞語族孟高棉語群。其實越南話算是屬於漢藏語族的,因為它的聲調和音節跟台語群幾乎完全相同! 
+<br />
+<br />我看至少可以將越南話([京語])跟其姊妹語言[芒語]自[台語群]分離,自成一個[越語群](或[越芒語群]),那麼越南話的系屬問題就不會有什麼爭議了,[漢藏語族]下就有五種語群啦! 
+<br />
+<br />
+<br />丁桓蘊
+<br />
+<br />Viết như Đinh đại ca vậy mới đúng dù Đinh đại ca ở bên Đài Loan chỉ mới tốt nghiệp cao trung. Còn như bên Việt ta, học nhiều trường nhiều sách hơn mà đoán ngữ hệ của tiếng mẹ đẻ mà không trúng.
+<br />
+<br />Sau khi dần dò các tiếng thổ ngữ của Nam Trung Quốc (Bách Việt bị đồng hóa thành Hán) hoặc các ngôn ngữ Miêu Dao Nùng Thái. Nếu các tộc ngữ này mà Hán Tạng thì Việt ngữ phải là Hán Tạng, còn như có tên khác mà đặt cho các ngữ này thì tôi không tranh biện. Nhưng cứ căn cứ vào hệ Nam Á Mon-Khmer để bảo tiếng Việt và các ngôn ngữ trên không có liên hệ thời cổ là không chính xác. Vì điểm này mà cuốn sách bớt phần giá trị. 
+<br />
+<br />Hởi Đàm Trung Pháp tiên sinh có hay chăng!</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=63&amp;sid=41&amp;mode=&amp;order=&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=41&amp;pid=0&amp;mode=&amp;order=&amp;thold=">Parent</a> ]<br /><br />

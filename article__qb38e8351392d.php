@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 <link rel="stylesheet" href="themes/ASU/phorum.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,13 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR><br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR><br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR><br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">February 15, 2004</font><br>Thuyết trình: <a href="/article.php?sid=88&mode=threaded&order=0">André Malraux và Việt-Nam</a> của Giáo-sư Vĩnh Đào.<BR>///
+<br /><font color="FF0000">February 8, 2004</font><br>Thuyết trình: <a href="/article.php?sid=87&mode=threaded&order=0">Thơ và Tuổi Trẻ Việt-nam</a> của nhà thơ Ngô Minh Hằng.<BR>
+<br /><font color="FF0000">January 4, 2004</font><br>Thuyết trình: <a href="/article.php?sid=85&mode=threaded&order=0">Những ưu và khuyết điểm của nền giáo-dục Quốc-gia Việt-nam trước năm 1975</a> của  Gs. Trần Ngọc Ninh.<BR>
+<br /><font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR>
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -122,7 +128,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=15&amp;author="><img src="./images/topics/p0032_small.jpg" border="0" alt="Bồ Tát" align="right" hspace="4" /></a>Viện Việt-Học trân trọng mời quý thân hữu vào Việt-Học Thư Quán đọc <a href="/eholdings/BoTatQuangDuc.pdf">lời nguyện cuối cùng của Bồ Tát Thích Quảng Ðức</a>, vị Pháp thiêu thân trong Pháp nạn năm 1963...<br /><br /><i>Lê Văn Ðặng</i><br /> <br />Bản Nôm, thủ bút của Ngài Quảng Ðức, do bạn Nguyễn Hữu Vinh cung cấp, phần phiên âm phối hợp hai bản của Ba Huyền và Hải Biên.  Ðọc bản Nôm theo cột từ bên phải qua và từ trên xuống.<center><a href="/eholdings/BoTatQuangDuc.pdf">lời nguyện cuối cùng của Bồ Tát Thích Quảng Ðức</a></center>
+	<a href="search.php?query=&amp;topic=15&amp;author="><img src="./images/topics/p0032_small.jpg" border="0" alt="Bồ Tát" align="right" hspace="4" /></a>Viện Việt-Học trân trọng mời quý thân hữu vào Việt-Học Thư Quán đọc <a href="/eholdings/BoTatQuangDuc.pdf">lời nguyện cuối cùng của Bồ Tát Thích Quảng Ðức</a>, vị Pháp thiêu thân trong Pháp nạn năm 1963...
+<br />
+<br /><i>Lê Văn Ðặng</i>
+<br /> <br />Bản Nôm, thủ bút của Ngài Quảng Ðức, do bạn Nguyễn Hữu Vinh cung cấp, phần phiên âm phối hợp hai bản của Ba Huyền và Hải Biên.  Ðọc bản Nôm theo cột từ bên phải qua và từ trên xuống.<center><a href="/eholdings/BoTatQuangDuc.pdf">lời nguyện cuối cùng của Bồ Tát Thích Quảng Ðức</a></center>
 	</td>
 </tr>
 </table>

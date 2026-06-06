@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -174,7 +177,17 @@
 </tr>
 </table>
 <br /><br />
-<a name="82"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Trao đổi với Lê Hữu Mục về một số nhận</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 13 September @ 00:44:56</td></tr><tr><td class="type5">Mặc dù bài viết chưa đăng trọn vẹn, nhưng phần đầu bài đã cho thấy rõ một điều là bài điểm sách này có giá trị như một thiên nghiên cứu văn học nghiêm chỉnh cao độ. Tôi theo dõi một cách hứng thú bài viết của Alexandre Lê, vì cách lập luận của ông rất chặt chẽ. Đây là một điều còn khá hiếm hoi trong giới nghiên cứu văn học Việt Nam. <br /><br />Tôi theo dõi vấn đề diễn giả Chinh Phụ Ngâm từ gần 40 năm nay, kể từ khi đọc quyển Chinh Phụ Ngâm Bị Khảo của Hoàng Xuân Hãn (nxb. Minh Tân, Paris, 1953), đến khi xem quyển Thử tìm hiểu vấn đề diễn giả Chinh Phụ Ngâm của Nguyễn Văn Dương (nxb. Đại Học, Huế,1964) thì đã đinh ninh là vấn đề được giải quyết khá ổn thoả, là phải trả lại Phan Huy Ích tác quyền của bản dịch CPN hiện được truyền tụng. <br /><br />Sự việc càng được củng cố vững chắc thêm nữa khi xuất hiện tập văn sao do Nguyễn Văn Xuân phát hiện (xem Nguyễn Văn Xuân, Chinh Phụ Ngâm Diễn Âm Tân Khúc, nxb. Lá Bối, Sài Gòn, 1972).  <br /><br />Vấn đề đặt ra cho giới nghiên cứu và công chúng văn học VN hiện nay là: chúng ta nên và cần đến với tài liệu văn học cổ VN với tinh thần khoa học, tỉnh táo, và không nên trông cậy quá vào tục truyền. Căn bệnh tục truyền đã khiến mình lẫn lộn bài Gia huấn ca của một ông quan triều Nguyễn với Nguyễn Trãi (đời Lê), chúng ta lẫn thơ nôm của mấy ông đồ nho hay đùa nhả với thơ của Hồ xuân Hương... <br /><br />Mà nào phải chỉ có chuyện văn học xưa! Ngay một tác giả hiện còn sống mà đã gặp chuyện râu ông nọ cắm cằm bà kia: Bài thơ Mai chị về của nguyễn Đình Tiên bị gán lầm cho Quang Dũng, hoặc là một vài bài hát của Phạm Duy trong thời kháng chiến bị ghép lầm vào kho dân ca hay tác giả khuyết danh!<br /><br />Đoàn Xuân Kiên</td></tr></table><br />[ 
+<a name="82"></a><table width="100%" border="0" cellspacing="0"><tr><td class="type4"><span class="italic">Re: Trao đổi với Lê Hữu Mục về một số nhận</span>&nbsp;(Score 0)<br /> by: Anonymous on: Saturday 13 September @ 00:44:56</td></tr><tr><td class="type5">Mặc dù bài viết chưa đăng trọn vẹn, nhưng phần đầu bài đã cho thấy rõ một điều là bài điểm sách này có giá trị như một thiên nghiên cứu văn học nghiêm chỉnh cao độ. Tôi theo dõi một cách hứng thú bài viết của Alexandre Lê, vì cách lập luận của ông rất chặt chẽ. Đây là một điều còn khá hiếm hoi trong giới nghiên cứu văn học Việt Nam. 
+<br />
+<br />Tôi theo dõi vấn đề diễn giả Chinh Phụ Ngâm từ gần 40 năm nay, kể từ khi đọc quyển Chinh Phụ Ngâm Bị Khảo của Hoàng Xuân Hãn (nxb. Minh Tân, Paris, 1953), đến khi xem quyển Thử tìm hiểu vấn đề diễn giả Chinh Phụ Ngâm của Nguyễn Văn Dương (nxb. Đại Học, Huế,1964) thì đã đinh ninh là vấn đề được giải quyết khá ổn thoả, là phải trả lại Phan Huy Ích tác quyền của bản dịch CPN hiện được truyền tụng. 
+<br />
+<br />Sự việc càng được củng cố vững chắc thêm nữa khi xuất hiện tập văn sao do Nguyễn Văn Xuân phát hiện (xem Nguyễn Văn Xuân, Chinh Phụ Ngâm Diễn Âm Tân Khúc, nxb. Lá Bối, Sài Gòn, 1972).  
+<br />
+<br />Vấn đề đặt ra cho giới nghiên cứu và công chúng văn học VN hiện nay là: chúng ta nên và cần đến với tài liệu văn học cổ VN với tinh thần khoa học, tỉnh táo, và không nên trông cậy quá vào tục truyền. Căn bệnh tục truyền đã khiến mình lẫn lộn bài Gia huấn ca của một ông quan triều Nguyễn với Nguyễn Trãi (đời Lê), chúng ta lẫn thơ nôm của mấy ông đồ nho hay đùa nhả với thơ của Hồ xuân Hương... 
+<br />
+<br />Mà nào phải chỉ có chuyện văn học xưa! Ngay một tác giả hiện còn sống mà đã gặp chuyện râu ông nọ cắm cằm bà kia: Bài thơ Mai chị về của nguyễn Đình Tiên bị gán lầm cho Quang Dũng, hoặc là một vài bài hát của Phạm Duy trong thời kháng chiến bị ghép lầm vào kho dân ca hay tác giả khuyết danh!
+<br />
+<br />Đoàn Xuân Kiên</td></tr></table><br />[ 
 	<a href="comments.php?op=Reply&amp;pid=82&amp;sid=75&amp;mode=threaded&amp;order=0&amp;thold=">
 	Reply</a>
 		| <a href="comments.php?sid=75&amp;pid=0&amp;mode=threaded&amp;order=0&amp;thold=">Parent</a> ]<br /><span class="onebiggerred">&gt;</span>

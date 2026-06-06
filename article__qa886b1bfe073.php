@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="themes/ASU/style.css" type="text/css" />
 
-<script language="JavaScript" src="http://www.viethoc.com/nomtool/convert/convert.js">
+<script language="JavaScript" src="/nomtool/convert/convert.js">
 </script>
 </head>
 <BODY onload="setInputMode('unicode')">
@@ -96,7 +96,10 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR><br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR><br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR><br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
+	<font color="FF0000">November 2, 2003</font><br>Thuyết trình: <a href="/article.php?sid=82&mode=threaded&order=0">Hát Bội: Một Nghệ Thuật Cao Quí và Thống Nhất</a> Với Gs. Nguyễn Thuyết Phong và Nghệ sĩ  Ngọc Bầy<BR><BR>///
+<br /><font color="FF0000">September 6, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=79&mode=threaded&order=0" target="new_window">VÀI CẢM NGHĨ VỀ THIỀN</a> của giáo sư Nguyễn Văn Trường<BR><BR>
+<br /><font color="FF0000">August 16, 2003</font><br><a href="http://www.viethoc.com/article.php?sid=78&mode=threaded&order=0" target="new_window">Ngày Đại Học - College Day</a><BR><BR>
+<br /><font color="FF0000">August 3, 2003</font><br>Thuyết trình: <a href="http://www.viethoc.com/article.php?sid=76&mode=threaded&order=0" target="new_window">TỰ VẤN: ĐIỂM MẠNH VÀ YẾU CỦA NGƯỜI VIỆT</a> của diễn giả Đỗ Thông Minh
 	</td>
 </tr>
 </table>
@@ -150,7 +153,47 @@
 </tr>
 <tr>
 		<td class="type5" background="" valign="top">
-	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Nữ sĩ Hạt Cát, ở tận miền Ðông, vừa gởi qua Viện Việt-Học <i>mấy tiếng chuông chùa trầm bổng</i>.<br /><br />Sau đây là tiếng <i>Chuông ngân mộng mị bồi hồi</i> qua lời thơ Nguyễn Trãi:<br /><table cellspacing=8><tr><td nowrap><br />聽 雨 ( 阮廌 )<br />寂 寞 幽 齋 裡<br />終 宵 聽 雨 聲<br />蕭 騷 驚 客 枕<br />點 滴 數 殘 更<br />隔 竹 敲 窗 密<br />和 鐘 入 夢 清<br />吟 餘 渾 不 寐<br />斷 續 到 天 明<br /></td><td valign=top nowrap><br /><b>Thính Vũ</b> (Nguyễn Trãi)<br /><br />Tịch mịch u trai lý,<br />Chung tiêu thính vũ thanh.<br />Tiêu tao kinh khách chẩm!<br />Điểm trích sổ tàn canh.<br />Cách trúc xao song mật,	<br />Hoà chung nhập mộng thanh.<br />Ngâm dư hồn bất mị,<br />Đoạn tục đáo thiên minh.<br /></td><td valign=top nowrap><br /><i><b>Nghe Mưa</b></i> Hạt Cát dịch<br /><br /><i>Mơ màng phòng trai vắng lặng,<br />Suốt đêm nghe tiếng mưa rơi<br />Giật mình xác xao gối khách<br />Ðếm canh từng giọt chơi vơi<br />Khóm trúc xạc xào song cửa<br />Chuông ngân mộng mị bồi hồi<br />Ngâm vịnh chán còn chưa ngủ<br />Nối, ngưng cho đến sáng trời</i><br /></td></tr></table><br /> <br />Tiếng chuông ngân còn chưa dứt hẵn.  Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc trọn bài <a href="http://www.viethoc.org/eholdings/tbcn_HatCat.pdf" target="new_window">Trầm bổng chuông ngân</a> của <b>Hạt Cát</b>.<br /><br />Seattle, tháng 7 năm 2003.<br /><i>Lê Văn Ðặng</i><br />
+	<a href="search.php?query=&amp;topic=3&amp;author="><img src="./images/topics/vcvn_WEB.jpg" border="0" alt="Văn-chương Việt-Nam" align="right" hspace="4" /></a>Nữ sĩ Hạt Cát, ở tận miền Ðông, vừa gởi qua Viện Việt-Học <i>mấy tiếng chuông chùa trầm bổng</i>.
+<br />
+<br />Sau đây là tiếng <i>Chuông ngân mộng mị bồi hồi</i> qua lời thơ Nguyễn Trãi:
+<br /><table cellspacing=8><tr><td nowrap>
+<br />聽 雨 ( 阮廌 )
+<br />寂 寞 幽 齋 裡
+<br />終 宵 聽 雨 聲
+<br />蕭 騷 驚 客 枕
+<br />點 滴 數 殘 更
+<br />隔 竹 敲 窗 密
+<br />和 鐘 入 夢 清
+<br />吟 餘 渾 不 寐
+<br />斷 續 到 天 明
+<br /></td><td valign=top nowrap>
+<br /><b>Thính Vũ</b> (Nguyễn Trãi)
+<br />
+<br />Tịch mịch u trai lý,
+<br />Chung tiêu thính vũ thanh.
+<br />Tiêu tao kinh khách chẩm!
+<br />Điểm trích sổ tàn canh.
+<br />Cách trúc xao song mật,	
+<br />Hoà chung nhập mộng thanh.
+<br />Ngâm dư hồn bất mị,
+<br />Đoạn tục đáo thiên minh.
+<br /></td><td valign=top nowrap>
+<br /><i><b>Nghe Mưa</b></i> Hạt Cát dịch
+<br />
+<br /><i>Mơ màng phòng trai vắng lặng,
+<br />Suốt đêm nghe tiếng mưa rơi
+<br />Giật mình xác xao gối khách
+<br />Ðếm canh từng giọt chơi vơi
+<br />Khóm trúc xạc xào song cửa
+<br />Chuông ngân mộng mị bồi hồi
+<br />Ngâm vịnh chán còn chưa ngủ
+<br />Nối, ngưng cho đến sáng trời</i>
+<br /></td></tr></table>
+<br /> <br />Tiếng chuông ngân còn chưa dứt hẵn.  Kính mời quý thân hữu vào <a href="http://www.viethoc.org/content.php?menu=24&page_id=47">Việt-Học Thư Quán</a> đọc trọn bài <a href="http://www.viethoc.org/eholdings/tbcn_HatCat.pdf" target="new_window">Trầm bổng chuông ngân</a> của <b>Hạt Cát</b>.
+<br />
+<br />Seattle, tháng 7 năm 2003.
+<br /><i>Lê Văn Ðặng</i>
+<br />
 	</td>
 </tr>
 </table>
